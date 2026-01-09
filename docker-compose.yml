@@ -1,0 +1,125 @@
+version: "3.8"
+
+services:
+
+  postgres:
+    image: postgres:15
+    container_name: airflow-postgres
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      retries: 5
+    networks:
+      - spark-net
+
+  spark-master:
+    build: ./spark
+    image: custom-spark:3.4.2-py310    
+    container_name: spark-master
+    command: >
+      bash -c "/opt/spark/sbin/start-master.sh &&
+               tail -f /opt/spark/logs/*"
+    environment:
+      - SPARK_MODE=master
+    ports:
+      - "7077:7077"
+      - "8080:8080"
+    networks:
+      - spark-net
+    volumes:
+        - ./data:/data
+
+  spark-worker:
+    build: ./spark
+    image: custom-spark:3.4.2   
+    depends_on:
+      - spark-master
+    command: >
+      bash -c "/opt/spark/sbin/start-worker.sh spark://spark-master:7077 &&
+               tail -f /opt/spark/logs/*"
+    environment:
+      - SPARK_MODE=worker
+    networks:
+      - spark-net
+    volumes:
+      - ./data:/data
+
+  airflow-init:
+    build: ./airflow
+    container_name: airflow-init
+    depends_on:
+      postgres:
+        condition: service_healthy
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        airflow db init &&
+        airflow users create \
+          --username admin \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com \
+          --password admin
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+    networks:
+      - spark-net
+
+  airflow-webserver:
+    build: ./airflow
+    container_name: airflow-webserver
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    ports:
+      - "8088:8080"
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./spark/apps:/opt/spark/apps
+      - ./data:/data
+    command: webserver
+    networks:
+      - spark-net
+
+  airflow-scheduler:
+    build: ./airflow
+    container_name: airflow-scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./spark/apps:/opt/spark/apps
+      - ./data:/data
+    command: scheduler
+    networks:
+      - spark-net
+
+
+networks:
+  spark-net:
+
+volumes:
+  postgres-db-volume:
