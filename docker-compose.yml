@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
 
-  postgres:
+  airflow-postgres:
     image: postgres:15
     container_name: airflow-postgres
     environment:
@@ -18,9 +18,23 @@ services:
     networks:
       - spark-net
 
+    analytics-postgres:
+      image: postgres:15
+      container_name: analytics-postgres
+      environment:
+        POSTGRES_USER: analytics
+        POSTGRES_PASSWORD: analytics
+        POSTGRES_DB: analytics
+      ports:
+        - "5433:5432"
+      volumes:
+        - analytics-db-volume:/var/lib/postgresql/data
+      networks:
+        - spark-net
+
   spark-master:
     build: ./spark
-    image: custom-spark:3.4.2-py310    
+    image: spark-master:3.4.2
     container_name: spark-master
     command: >
       bash -c "/opt/spark/sbin/start-master.sh &&
@@ -37,7 +51,7 @@ services:
 
   spark-worker:
     build: ./spark
-    image: custom-spark:3.4.2   
+    image: spark-worker:3.4.2   
     depends_on:
       - spark-master
     command: >
@@ -120,6 +134,8 @@ services:
 
 networks:
   spark-net:
+    external: true
+    name: data-platform
 
 volumes:
   postgres-db-volume:

@@ -45,4 +45,5 @@ services:
       - elastic
 networks:
   elastic:
-    driver: bridge
+    external: true
+    name: data-platform
