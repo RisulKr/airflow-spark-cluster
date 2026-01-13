@@ -10,7 +10,7 @@ services:
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
     volumes:
-      - postgres-db-volume:/var/lib/postgresql/data
+      - airflow-postgres-db-volume:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U airflow"]
       interval: 10s
@@ -18,7 +18,7 @@ services:
     networks:
       - spark-net
 
-    analytics-postgres:
+  analytics-postgres:
       image: postgres:15
       container_name: analytics-postgres
       environment:
@@ -28,7 +28,7 @@ services:
       ports:
         - "5433:5432"
       volumes:
-        - analytics-db-volume:/var/lib/postgresql/data
+        - analytics-postgres-db-volume:/var/lib/postgresql/data
       networks:
         - spark-net
 
@@ -68,7 +68,7 @@ services:
     build: ./airflow
     container_name: airflow-init
     depends_on:
-      postgres:
+      airflow-postgres:
         condition: service_healthy
     entrypoint: /bin/bash
     command:
@@ -84,7 +84,7 @@ services:
           --password admin
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres:5432/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
     volumes:
       - ./airflow/dags:/opt/airflow/dags
@@ -103,7 +103,7 @@ services:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__CORE__LOAD_EXAMPLES: "false"
       AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres:5432/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
     volumes:
       - ./airflow/dags:/opt/airflow/dags
@@ -121,7 +121,7 @@ services:
         condition: service_completed_successfully
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-postgres:5432/airflow
       AIRFLOW__WEBSERVER__SECRET_KEY: a6b1f7fdbab1c0c3f1c1c6d44e2b0a8b9e3fefc1b4a0d8e2c9a7a8b1c2d3e4f5
     volumes:
       - ./airflow/dags:/opt/airflow/dags
@@ -138,4 +138,5 @@ networks:
     name: data-platform
 
 volumes:
-  postgres-db-volume:
+  airflow-postgres-db-volume:
+  analytics-postgres-db-volume:
