@@ -22,6 +22,10 @@ ENV JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 ENV SPARK_HOME=/opt/spark
 ENV PATH=$JAVA_HOME/bin:$SPARK_HOME/bin:$PATH
 
+# Install postgres JDBC driver
+RUN curl -L -o $SPARK_HOME/jars/postgresql-42.6.0.jar \
+    https://jdbc.postgresql.org/download/postgresql-42.6.0.jar
+
 USER airflow
 
 COPY requirements.txt /requirements.txt

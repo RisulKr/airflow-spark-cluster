@@ -36,6 +36,8 @@ services:
     build: ./spark
     image: spark-master:3.4.2
     container_name: spark-master
+    env_file:
+      - .env
     command: >
       bash -c "/opt/spark/sbin/start-master.sh &&
                tail -f /opt/spark/logs/*"
@@ -94,6 +96,8 @@ services:
   airflow-webserver:
     build: ./airflow
     container_name: airflow-webserver
+    env_file:
+      - .env
     depends_on:
       airflow-init:
         condition: service_completed_successfully
@@ -116,6 +120,8 @@ services:
   airflow-scheduler:
     build: ./airflow
     container_name: airflow-scheduler
+    env_file:
+      - .env
     depends_on:
       airflow-init:
         condition: service_completed_successfully

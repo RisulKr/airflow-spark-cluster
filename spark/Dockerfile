@@ -8,4 +8,7 @@ ARG SPARK_VERSION=3.4.2
 ARG HADOOP_VERSION=3
 
 RUN curl -L -o /opt/spark/jars/elasticsearch-spark-30_2.12-7.16.1.jar \
- https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-spark-30_2.12/7.16.1/elasticsearch-spark-30_2.12-7.16.1.jar
+    https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-spark-30_2.12/7.16.1/elasticsearch-spark-30_2.12-7.16.1.jar
+
+RUN curl -L -o /opt/spark/jars/postgresql-42.6.0.jar \
+    https://jdbc.postgresql.org/download/postgresql-42.6.0.jar
