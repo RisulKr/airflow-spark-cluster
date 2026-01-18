@@ -1,5 +1,6 @@
 FROM apache/airflow:2.8.1-python3.8
 
+
 USER root
 
 ARG SPARK_VERSION=3.4.2
@@ -12,6 +13,7 @@ RUN apt-get update && \
     procps && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
+
 
 # Install Spark (MATCHES cluster)
 RUN curl -fsSL https://archive.apache.org/dist/spark/spark-${SPARK_VERSION}/spark-${SPARK_VERSION}-bin-hadoop${HADOOP_VERSION}.tgz \
@@ -30,4 +32,5 @@ USER airflow
 
 COPY requirements.txt /requirements.txt
 RUN pip install --no-cache-dir -r /requirements.txt
+
 

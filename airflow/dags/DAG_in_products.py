@@ -3,7 +3,7 @@ from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOpe
 from datetime import datetime
 
 with DAG(
-    dag_id="DAG_load_products",
+    dag_id="DAG_in_products",
     start_date=datetime(2024, 1, 1),
     schedule_interval=None,
     catchup=False,
@@ -11,7 +11,7 @@ with DAG(
 
     load = SparkSubmitOperator(
         task_id="load_products_csv",
-        application="/opt/spark/apps/in_products_ecl_job.py",
+        application="/opt/spark/apps/in_products.py",
         conn_id="spark_conn",
         conf={
             "spark.master": "spark://spark-master:7077",
