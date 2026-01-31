@@ -13,6 +13,7 @@ with DAG(
         task_id="load_customers_csv",
         application="/opt/spark/apps/in_customers_ecl_job.py",
         conn_id="spark_conn",
+        packages="org.postgresql:postgresql:42.6.0",
         conf={
             "spark.master": "spark://spark-master:7077",
         },

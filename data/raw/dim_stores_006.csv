@@ -1,0 +1,1001 @@
+store_id,store_name,store_type,city,region,country,opening_date,staff_count,size_sqm,active_flag
+1,Store_1,Online,Youngshire,Oregon,Hong Kong,2021-11-23,20,108,1
+2,Store_2,Physical,East Harry,Connecticut,Netherlands Antilles,2022-12-31,52,754,1
+3,Store_3,Online,North Stevenport,Michigan,Ireland,2023-07-13,65,514,1
+4,Store_4,Online,Kristinshire,Iowa,Japan,2023-10-13,19,829,1
+5,Store_5,Physical,Hernandezshire,Idaho,Northern Mariana Islands,2018-05-27,69,309,1
+6,Store_6,Online,North Gary,New Jersey,Croatia,2018-02-22,26,422,0
+7,Store_7,Physical,Kathleenville,Iowa,Japan,2023-10-14,7,144,1
+8,Store_8,Online,New Sandraland,Hawaii,Solomon Islands,2023-05-02,58,174,1
+9,Store_9,Physical,Denisefurt,Missouri,Gambia,2017-08-23,18,90,1
+10,Store_10,Online,Pattersonmouth,Utah,Korea,2022-09-06,40,940,1
+11,Store_11,Online,Odonnellfort,Massachusetts,Austria,2021-04-16,86,303,1
+12,Store_12,Online,Barkermouth,Utah,Czech Republic,2024-06-06,86,56,1
+13,Store_13,Physical,Lake Patrickfort,New Hampshire,Nepal,2024-09-19,71,520,1
+14,Store_14,Online,Wallland,Ohio,Montenegro,2016-06-27,14,777,1
+15,Store_15,Online,Port Raymondview,Alabama,Slovenia,2020-11-02,53,560,1
+16,Store_16,Physical,North Sarah,Minnesota,French Guiana,2023-04-21,69,630,1
+17,Store_17,Physical,Nicoleview,North Dakota,Egypt,2023-08-23,95,118,0
+18,Store_18,Online,North Austinside,Rhode Island,Mauritania,2019-01-03,61,130,1
+19,Store_19,Online,North Tammy,Indiana,Sudan,2016-09-02,31,591,1
+20,Store_20,Online,Lake Vincentshire,West Virginia,Netherlands Antilles,2022-11-27,79,634,1
+21,Store_21,Online,Port Carrieburgh,Massachusetts,Macao,2017-11-22,9,311,1
+22,Store_22,Physical,New Tammy,Illinois,Azerbaijan,2021-07-20,75,138,1
+23,Store_23,Online,Rogerbury,Indiana,Marshall Islands,2021-12-31,87,964,1
+24,Store_24,Online,Richardberg,South Carolina,Jordan,2016-11-15,61,257,1
+25,Store_25,Physical,Campbellstad,Kansas,Palau,2017-01-23,97,262,1
+26,Store_26,Online,Kevinfurt,Virginia,Bermuda,2019-02-12,19,883,1
+27,Store_27,Online,South Larry,Illinois,Turks and Caicos Islands,2017-08-13,80,315,1
+28,Store_28,Online,Boydfurt,Vermont,Niger,2016-12-09,34,961,1
+29,Store_29,Physical,Tamimouth,Massachusetts,United States Minor Outlying Islands,2024-04-21,24,342,1
+30,Store_30,Physical,Freemantown,Mississippi,Cocos (Keeling) Islands,2018-08-07,41,256,1
+31,Store_31,Online,East Heidiview,Nebraska,Botswana,2016-05-05,7,382,1
+32,Store_32,Online,Amandastad,Alabama,Thailand,2018-12-29,77,126,1
+33,Store_33,Physical,South Michael,New Jersey,South Africa,2018-05-26,45,337,1
+34,Store_34,Online,Lake Amber,Iowa,Martinique,2024-12-18,43,96,1
+35,Store_35,Online,West Richard,Louisiana,Malawi,2019-05-16,30,671,1
+36,Store_36,Physical,Tinaburgh,Texas,Solomon Islands,2016-09-02,6,249,1
+37,Store_37,Physical,Port Joshuaberg,Rhode Island,Benin,2018-10-20,27,476,1
+38,Store_38,Physical,Hernandezberg,Pennsylvania,Gabon,2021-01-13,27,259,1
+39,Store_39,Online,Amandaborough,New Mexico,Thailand,2018-03-04,89,937,1
+40,Store_40,Online,Rodriguezstad,Indiana,Sudan,2018-01-15,20,469,1
+41,Store_41,Online,Ryanstad,Oklahoma,Trinidad and Tobago,2022-03-05,13,203,1
+42,Store_42,Online,Armstrongstad,Delaware,Faroe Islands,2018-03-29,17,571,1
+43,Store_43,Physical,Melissaview,South Dakota,Gabon,2017-04-11,32,464,1
+44,Store_44,Online,West Williamfort,Pennsylvania,Holy See (Vatican City State),2022-04-27,31,402,1
+45,Store_45,Online,East Tara,Kentucky,Spain,2020-03-23,55,206,1
+46,Store_46,Physical,Port Sarahbury,Montana,Tokelau,2021-11-30,68,310,0
+47,Store_47,Physical,South Nicole,Montana,Sao Tome and Principe,2018-10-12,56,126,1
+48,Store_48,Online,East Wanda,Louisiana,Kiribati,2018-12-18,85,818,1
+49,Store_49,Physical,East Christopherport,Idaho,Lao People's Democratic Republic,2022-09-13,42,537,1
+50,Store_50,Physical,Parsonsborough,Hawaii,India,2023-08-30,69,180,1
+51,Store_51,Online,Rasmussentown,Maine,Saint Kitts and Nevis,2020-02-07,22,628,1
+52,Store_52,Online,Webbburgh,Nebraska,Mexico,2021-08-23,67,504,1
+53,Store_53,Online,Randallburgh,Louisiana,Burkina Faso,2017-06-17,55,789,1
+54,Store_54,Online,Lake Jason,Texas,Chad,2020-09-16,13,212,1
+55,Store_55,Physical,Taylorfurt,New Jersey,Congo,2021-12-18,17,64,0
+56,Store_56,Physical,Port Lindsey,Georgia,Seychelles,2019-01-04,44,281,0
+57,Store_57,Online,West Angela,Missouri,Bulgaria,2017-12-15,59,244,1
+58,Store_58,Online,West Cathymouth,Maine,Croatia,2024-10-30,83,910,1
+59,Store_59,Physical,West Ginachester,South Dakota,Marshall Islands,2024-12-06,47,591,1
+60,Store_60,Online,New Jenniferstad,Illinois,Ecuador,2020-06-10,48,408,1
+61,Store_61,Online,New Michael,Michigan,Dominican Republic,2019-12-13,72,899,1
+62,Store_62,Online,Lake Diana,Delaware,Tokelau,2022-02-28,37,380,1
+63,Store_63,Online,East James,Vermont,Qatar,2023-03-17,28,476,1
+64,Store_64,Physical,South Jameschester,Missouri,Nauru,2020-04-13,40,546,0
+65,Store_65,Online,Meredithberg,Vermont,Netherlands Antilles,2023-11-18,14,877,1
+66,Store_66,Physical,Mooreborough,Washington,Slovakia (Slovak Republic),2016-04-04,24,535,1
+67,Store_67,Online,East Rogerview,Massachusetts,Netherlands,2022-12-07,79,857,1
+68,Store_68,Online,North Adrian,Nebraska,Algeria,2017-12-15,16,498,1
+69,Store_69,Physical,West Wayne,Ohio,Togo,2020-08-07,66,462,1
+70,Store_70,Online,New Theresaport,Washington,Marshall Islands,2022-03-02,22,379,1
+71,Store_71,Physical,Stephanietown,Indiana,Guyana,2018-02-19,98,781,1
+72,Store_72,Online,Weberberg,Kentucky,China,2022-10-24,67,938,1
+73,Store_73,Online,Johnbury,New Jersey,Rwanda,2024-05-21,88,196,1
+74,Store_74,Online,Oscarstad,Colorado,Mexico,2021-10-08,29,308,1
+75,Store_75,Online,Jamesmouth,New Mexico,Cameroon,2021-02-16,16,341,1
+76,Store_76,Online,Moranside,Kansas,El Salvador,2017-06-21,25,860,1
+77,Store_77,Physical,East Nancymouth,South Carolina,Lebanon,2021-03-17,29,192,1
+78,Store_78,Physical,Port Elizabeth,Ohio,Macao,2022-12-10,15,986,1
+79,Store_79,Online,Lake Anna,South Dakota,Netherlands Antilles,2017-06-04,68,796,1
+80,Store_80,Online,West Danielleborough,Delaware,Denmark,2019-02-04,77,676,0
+81,Store_81,Physical,East Williamton,Alaska,Sri Lanka,2021-06-24,54,414,1
+82,Store_82,Physical,Lake Michael,West Virginia,Cuba,2018-10-23,66,139,1
+83,Store_83,Online,Romeroburgh,Idaho,Saudi Arabia,2018-06-16,93,769,1
+84,Store_84,Online,East Jessica,Washington,Sudan,2024-03-16,53,213,1
+85,Store_85,Physical,South Victoriaville,New Hampshire,Gambia,2017-10-30,18,530,1
+86,Store_86,Online,Lake William,South Carolina,Burkina Faso,2020-01-15,5,133,0
+87,Store_87,Physical,North Andrewville,Tennessee,Kazakhstan,2022-03-31,85,126,1
+88,Store_88,Online,Edwinton,Michigan,Uganda,2018-02-15,29,722,1
+89,Store_89,Physical,Michaelfurt,Texas,Jersey,2019-12-30,63,566,1
+90,Store_90,Physical,Ashleychester,Washington,Greece,2024-07-03,76,534,1
+91,Store_91,Online,New Nicole,Missouri,India,2018-06-09,73,639,1
+92,Store_92,Physical,New Timothyside,Utah,United States Minor Outlying Islands,2023-09-22,9,652,1
+93,Store_93,Online,West Susan,Alaska,Peru,2022-07-28,23,648,0
+94,Store_94,Online,Rubenmouth,Iowa,Iceland,2020-01-01,27,831,1
+95,Store_95,Online,East Darryl,Wyoming,Guam,2017-08-23,13,153,1
+96,Store_96,Online,Michaelchester,Maryland,Montenegro,2016-10-03,98,501,1
+97,Store_97,Physical,Wallsville,New Jersey,Antarctica (the territory South of 60 deg S),2016-08-15,54,536,1
+98,Store_98,Online,Stewartview,West Virginia,Korea,2023-10-28,20,388,0
+99,Store_99,Online,West Nina,Kentucky,Wallis and Futuna,2019-06-03,37,736,1
+100,Store_100,Online,Jacksonchester,Mississippi,Chad,2019-02-20,6,615,1
+101,Store_101,Online,Sandovalfort,Texas,Liberia,2018-07-23,18,949,1
+102,Store_102,Physical,Contrerashaven,South Carolina,Turkmenistan,2023-01-26,5,527,1
+103,Store_103,Online,North Angela,Indiana,Cambodia,2022-01-19,94,772,1
+104,Store_104,Physical,Hensleymouth,Tennessee,Barbados,2017-11-01,62,656,1
+105,Store_105,Physical,West Harryberg,Maine,Cuba,2022-06-28,93,272,1
+106,Store_106,Physical,North Sara,New York,Nauru,2019-11-29,20,58,1
+107,Store_107,Online,Cobbton,Idaho,Cameroon,2020-11-09,83,102,1
+108,Store_108,Online,Port Eddie,Arizona,Singapore,2023-09-27,94,126,1
+109,Store_109,Online,Hortontown,Mississippi,Saint Vincent and the Grenadines,2023-08-24,51,767,0
+110,Store_110,Online,Heatherburgh,Louisiana,Nauru,2025-01-06,48,552,1
+111,Store_111,Physical,Floresmouth,Rhode Island,Argentina,2021-09-04,84,365,1
+112,Store_112,Physical,Annaview,Connecticut,Reunion,2021-01-26,18,863,1
+113,Store_113,Online,West Caseytown,Connecticut,Sweden,2024-02-10,97,871,1
+114,Store_114,Online,Keithton,Virginia,Ghana,2020-04-01,28,891,1
+115,Store_115,Online,New Christopher,New York,Barbados,2018-02-07,59,673,1
+116,Store_116,Online,Jenniferchester,Delaware,Netherlands Antilles,2016-05-25,19,912,0
+117,Store_117,Online,Lake Karen,Pennsylvania,Egypt,2021-07-19,87,214,1
+118,Store_118,Online,New Michaelmouth,West Virginia,Cuba,2023-03-04,76,328,1
+119,Store_119,Online,Mcculloughmouth,California,Holy See (Vatican City State),2022-01-23,38,76,1
+120,Store_120,Physical,Newtonfort,Maryland,Haiti,2016-01-29,6,119,1
+121,Store_121,Physical,Jonesport,Michigan,Costa Rica,2020-06-28,31,267,1
+122,Store_122,Physical,Rileyfurt,Montana,Saint Helena,2023-04-30,78,414,1
+123,Store_123,Physical,Thompsonfurt,Utah,Spain,2021-08-03,91,750,1
+124,Store_124,Online,Callahanmouth,Mississippi,Western Sahara,2018-08-17,76,894,1
+125,Store_125,Online,Haroldfort,Rhode Island,Bolivia,2017-02-09,96,996,1
+126,Store_126,Online,Travisview,Ohio,Netherlands Antilles,2024-03-27,27,355,1
+127,Store_127,Online,Beckland,Alabama,Honduras,2018-12-07,72,173,1
+128,Store_128,Online,Hooperside,North Dakota,Congo,2019-05-24,18,68,1
+129,Store_129,Physical,New Antoniobury,Alabama,Bulgaria,2024-04-18,67,306,1
+130,Store_130,Online,Vegaside,Delaware,Mauritius,2017-10-08,97,345,1
+131,Store_131,Physical,Adkinsberg,Kentucky,Zambia,2022-06-10,69,977,1
+132,Store_132,Online,New Robertview,Utah,Uzbekistan,2024-05-15,72,71,1
+133,Store_133,Physical,Bradleyfort,South Carolina,Sweden,2019-06-21,67,929,0
+134,Store_134,Online,Kimberlyville,Utah,British Indian Ocean Territory (Chagos Archipelago),2017-09-04,94,499,1
+135,Store_135,Physical,North Wendyville,Colorado,United Kingdom,2018-12-26,85,601,0
+136,Store_136,Online,Russellchester,Maine,Bermuda,2020-09-22,91,599,1
+137,Store_137,Online,Jodytown,West Virginia,Brazil,2023-10-06,68,97,1
+138,Store_138,Online,Irwinstad,Alabama,Papua New Guinea,2023-04-25,36,744,1
+139,Store_139,Online,Davismouth,Kansas,French Polynesia,2022-01-27,83,636,1
+140,Store_140,Physical,Port Andrewview,Washington,Cocos (Keeling) Islands,2016-06-11,17,770,1
+141,Store_141,Online,Port Alexanderfurt,Arkansas,Tuvalu,2016-10-14,70,232,1
+142,Store_142,Physical,Michaelburgh,Delaware,Brunei Darussalam,2017-01-27,23,484,1
+143,Store_143,Online,Brooksberg,South Carolina,Guyana,2017-07-08,28,156,1
+144,Store_144,Physical,Tamarafort,Wyoming,Kyrgyz Republic,2017-01-20,92,237,1
+145,Store_145,Online,Sydneyfurt,Tennessee,Czech Republic,2018-04-21,15,825,1
+146,Store_146,Online,Port Scott,Florida,Cayman Islands,2016-12-05,63,135,1
+147,Store_147,Physical,Baileychester,Oregon,Czech Republic,2023-04-24,90,885,1
+148,Store_148,Online,New Kelly,New Mexico,Guam,2024-09-21,19,892,1
+149,Store_149,Online,Sharpview,Minnesota,Eritrea,2023-05-31,14,505,1
+150,Store_150,Physical,Walkerfort,Pennsylvania,Guernsey,2024-05-31,45,186,1
+151,Store_151,Online,East Sara,Oklahoma,Namibia,2016-12-24,31,907,1
+152,Store_152,Physical,Jeffreyborough,Oregon,Suriname,2016-04-05,64,947,1
+153,Store_153,Online,South Ethan,Hawaii,Netherlands Antilles,2021-05-28,77,385,1
+154,Store_154,Physical,Acostafort,Hawaii,Norfolk Island,2023-07-17,56,656,1
+155,Store_155,Physical,Fischerland,Mississippi,Saint Pierre and Miquelon,2022-07-22,32,887,1
+156,Store_156,Physical,Smithshire,Virginia,Paraguay,2019-03-24,69,806,1
+157,Store_157,Physical,New Lisastad,Maryland,Micronesia,2020-10-07,21,518,1
+158,Store_158,Online,South Brianland,Louisiana,Solomon Islands,2016-12-30,99,651,1
+159,Store_159,Online,South Heathertown,Louisiana,Guernsey,2024-07-10,48,620,0
+160,Store_160,Physical,South Gabrielchester,Maine,Antarctica (the territory South of 60 deg S),2021-04-17,14,452,0
+161,Store_161,Online,Rachelland,Vermont,Kenya,2016-07-01,67,589,1
+162,Store_162,Online,Rhondamouth,Arizona,Saint Helena,2022-02-12,97,121,0
+163,Store_163,Online,Pittmanfort,North Carolina,Uzbekistan,2020-02-29,86,831,1
+164,Store_164,Physical,New Michelle,Ohio,Madagascar,2019-07-21,51,73,1
+165,Store_165,Online,Vickiville,Arkansas,Grenada,2024-10-08,42,673,0
+166,Store_166,Online,West Aaronhaven,New Mexico,Serbia,2020-09-22,74,861,1
+167,Store_167,Physical,Jonathanview,New Jersey,Germany,2022-01-16,80,534,1
+168,Store_168,Online,Natalietown,Ohio,Honduras,2021-03-02,57,105,1
+169,Store_169,Physical,Mitchellton,Arkansas,Uganda,2016-12-15,82,272,1
+170,Store_170,Physical,Michaelchester,Florida,Pitcairn Islands,2016-05-15,48,681,1
+171,Store_171,Physical,Port Tony,Nebraska,Nepal,2018-04-14,78,228,1
+172,Store_172,Online,Lake Nicole,Alabama,South Africa,2024-07-12,58,849,1
+173,Store_173,Online,Rayside,North Dakota,Colombia,2022-09-18,24,483,1
+174,Store_174,Physical,Lopezbury,New York,Montserrat,2021-03-03,83,986,1
+175,Store_175,Physical,South Brenda,Kansas,Morocco,2019-02-05,35,499,1
+176,Store_176,Physical,Robertbury,Minnesota,Spain,2022-07-13,11,842,1
+177,Store_177,Physical,New Margaret,Minnesota,Burkina Faso,2016-07-25,62,933,1
+178,Store_178,Physical,New William,Alaska,Jamaica,2020-06-11,14,541,1
+179,Store_179,Physical,Markborough,Alabama,Holy See (Vatican City State),2020-04-11,14,238,0
+180,Store_180,Online,Howardfort,Indiana,Taiwan,2018-06-13,43,627,1
+181,Store_181,Physical,Port Renee,Oregon,Philippines,2022-12-29,32,859,1
+182,Store_182,Physical,Lake Ashley,Maryland,Belize,2017-03-30,34,469,1
+183,Store_183,Physical,Lake Brian,Georgia,Guadeloupe,2024-06-20,41,298,1
+184,Store_184,Online,East Maryland,Nebraska,Isle of Man,2019-08-16,71,637,1
+185,Store_185,Online,South Christinamouth,Louisiana,Andorra,2019-03-15,47,698,1
+186,Store_186,Online,Garciaview,Missouri,Barbados,2022-01-15,83,213,0
+187,Store_187,Online,Dunnhaven,Nebraska,Ethiopia,2021-05-13,89,794,1
+188,Store_188,Physical,New Rachel,Rhode Island,Guernsey,2023-01-24,56,304,1
+189,Store_189,Online,Grahamport,Maine,Qatar,2019-10-15,60,525,1
+190,Store_190,Physical,Danatown,Louisiana,Botswana,2018-07-07,80,855,1
+191,Store_191,Physical,Hurstborough,Massachusetts,Cameroon,2024-12-27,72,466,1
+192,Store_192,Physical,Isabellashire,Maryland,Ireland,2023-09-29,13,219,1
+193,Store_193,Physical,Johnfurt,South Carolina,United States Virgin Islands,2019-07-15,96,366,1
+194,Store_194,Physical,Johnville,New York,United Kingdom,2017-08-03,27,223,1
+195,Store_195,Physical,East Brittanyberg,Utah,South Georgia and the South Sandwich Islands,2019-07-01,67,519,1
+196,Store_196,Online,Johnton,Tennessee,Mexico,2021-01-23,65,394,1
+197,Store_197,Online,West Elizabethburgh,Tennessee,Kyrgyz Republic,2020-04-21,44,494,1
+198,Store_198,Online,Lyonsview,Maine,Saint Lucia,2020-10-31,48,67,1
+199,Store_199,Online,West Jamesborough,Connecticut,Egypt,2021-03-31,90,119,0
+200,Store_200,Online,Port Jeffrey,Wisconsin,Macedonia,2022-07-09,28,387,1
+201,Store_201,Physical,Port Jillburgh,New Jersey,French Polynesia,2023-10-29,55,677,1
+202,Store_202,Online,South Calebmouth,Georgia,Chad,2020-07-30,62,641,1
+203,Store_203,Online,Lake Raymondview,Arizona,Luxembourg,2024-02-08,94,576,1
+204,Store_204,Online,New Christy,North Carolina,Andorra,2024-03-20,98,737,1
+205,Store_205,Physical,Karenchester,Indiana,Korea,2020-03-17,37,505,1
+206,Store_206,Physical,Michaelville,Georgia,Brazil,2023-05-28,20,318,1
+207,Store_207,Physical,North Dwaynemouth,New Jersey,Guinea,2020-04-25,26,680,1
+208,Store_208,Online,Michaelburgh,South Carolina,Moldova,2021-08-22,61,860,1
+209,Store_209,Online,North Debbiechester,Arkansas,Palestinian Territory,2022-09-03,66,237,1
+210,Store_210,Online,Gallagherborough,Georgia,Indonesia,2018-09-11,86,618,1
+211,Store_211,Online,Derrickland,Indiana,Benin,2017-10-02,75,760,0
+212,Store_212,Online,Kimberlyport,Maryland,Tokelau,2021-04-26,94,578,1
+213,Store_213,Physical,Barrettside,South Dakota,Egypt,2024-11-25,76,483,1
+214,Store_214,Online,New Sharonborough,Vermont,Faroe Islands,2016-12-19,74,337,1
+215,Store_215,Physical,New Jerry,Delaware,Jamaica,2022-11-02,34,967,1
+216,Store_216,Online,Tanyaland,Illinois,Oman,2022-11-30,27,616,1
+217,Store_217,Physical,Santosport,Tennessee,Dominican Republic,2023-05-02,36,548,1
+218,Store_218,Physical,New Traceyborough,Missouri,Reunion,2019-05-08,90,490,1
+219,Store_219,Physical,South Christopherchester,Oklahoma,Jersey,2016-12-26,61,830,1
+220,Store_220,Physical,West Whitneyhaven,Nebraska,British Virgin Islands,2019-12-11,13,352,1
+221,Store_221,Online,Aaronside,Kansas,Greenland,2024-04-04,35,136,1
+222,Store_222,Online,Millerview,North Carolina,Syrian Arab Republic,2023-01-02,75,879,1
+223,Store_223,Online,Warrenburgh,Minnesota,Austria,2016-12-04,13,487,1
+224,Store_224,Physical,New Maryport,New Hampshire,Tuvalu,2016-10-17,17,590,0
+225,Store_225,Online,South Allenchester,Nebraska,Grenada,2017-05-21,62,71,0
+226,Store_226,Online,Michaelland,Montana,Turkey,2019-03-14,7,882,1
+227,Store_227,Online,East Aaron,Kansas,Uganda,2016-04-11,39,846,1
+228,Store_228,Online,New Tyrone,New Mexico,Burundi,2021-01-18,25,609,1
+229,Store_229,Physical,Lake Leonardland,Virginia,Albania,2022-08-19,68,566,1
+230,Store_230,Physical,North Jacob,Missouri,Cook Islands,2016-02-21,99,811,1
+231,Store_231,Online,Beasleyview,Maine,Marshall Islands,2019-10-20,56,724,1
+232,Store_232,Online,Timothybury,Arizona,Falkland Islands (Malvinas),2022-05-04,38,552,1
+233,Store_233,Online,Coleview,Nevada,Rwanda,2017-03-16,39,763,1
+234,Store_234,Physical,North William,New Mexico,Congo,2016-10-08,19,516,1
+235,Store_235,Physical,North David,Colorado,Oman,2021-08-26,10,150,1
+236,Store_236,Physical,Port Linda,Wyoming,Israel,2020-04-05,89,632,1
+237,Store_237,Online,Olsenberg,Rhode Island,Sierra Leone,2022-04-19,36,991,1
+238,Store_238,Physical,Jacksonside,Virginia,Antigua and Barbuda,2021-06-18,56,724,1
+239,Store_239,Physical,Cynthiaside,Maryland,Mongolia,2023-05-19,87,734,1
+240,Store_240,Physical,Lake John,Arizona,Tanzania,2019-09-05,32,190,1
+241,Store_241,Physical,Ryantown,Connecticut,Cook Islands,2017-06-09,99,187,1
+242,Store_242,Physical,Kathrynville,Louisiana,Congo,2022-03-08,89,627,1
+243,Store_243,Online,South Lindseyland,Maryland,Saint Pierre and Miquelon,2016-10-28,68,759,1
+244,Store_244,Online,North Nancy,Alaska,Iran,2017-05-27,83,889,0
+245,Store_245,Online,South Toddtown,Massachusetts,Niue,2020-05-28,82,277,1
+246,Store_246,Online,West Nathan,New Jersey,Uganda,2018-02-12,23,330,0
+247,Store_247,Physical,Lake Nancy,Arkansas,Algeria,2024-02-25,19,733,1
+248,Store_248,Online,New Michelle,Georgia,Saint Helena,2023-02-14,10,877,0
+249,Store_249,Online,New Michael,Georgia,Cambodia,2021-11-05,77,480,1
+250,Store_250,Online,Millerburgh,North Dakota,El Salvador,2024-09-25,88,89,1
+251,Store_251,Physical,East Anthonyshire,Utah,Mozambique,2024-09-24,42,568,1
+252,Store_252,Online,West Stacy,Rhode Island,Serbia,2019-03-31,30,735,1
+253,Store_253,Physical,West Catherine,Connecticut,Oman,2020-04-21,86,712,1
+254,Store_254,Physical,Danielsville,Arizona,Australia,2018-05-08,96,260,1
+255,Store_255,Physical,New Mikayla,Ohio,Latvia,2016-10-29,55,351,1
+256,Store_256,Online,Allenstad,West Virginia,Somalia,2021-08-10,77,135,0
+257,Store_257,Physical,New Morganchester,Kansas,Reunion,2019-03-07,57,446,1
+258,Store_258,Online,Allisonshire,Texas,Pitcairn Islands,2024-02-11,60,302,0
+259,Store_259,Online,West Steve,Nebraska,Mongolia,2019-11-03,63,582,1
+260,Store_260,Online,Jasonchester,Maine,Cape Verde,2023-07-28,74,818,1
+261,Store_261,Physical,Kellytown,New Hampshire,Liberia,2021-12-02,82,940,1
+262,Store_262,Physical,Charlesburgh,Arkansas,Panama,2020-01-31,96,964,1
+263,Store_263,Online,Calvinborough,Oklahoma,Burkina Faso,2019-09-30,62,430,1
+264,Store_264,Physical,Wardborough,Wisconsin,Burkina Faso,2018-09-26,92,493,1
+265,Store_265,Physical,Lisastad,Vermont,Thailand,2024-12-24,17,82,1
+266,Store_266,Physical,Petersville,Maine,Jersey,2017-05-22,47,309,1
+267,Store_267,Online,East Courtney,Colorado,Mexico,2024-03-21,80,283,1
+268,Store_268,Physical,Valdezberg,New Hampshire,Iceland,2017-10-15,55,564,1
+269,Store_269,Physical,Karaburgh,Connecticut,Cocos (Keeling) Islands,2017-09-09,23,908,1
+270,Store_270,Online,New Michaelside,New Mexico,Tanzania,2018-07-12,25,357,1
+271,Store_271,Physical,Micheleton,New Hampshire,Sierra Leone,2021-05-20,95,788,1
+272,Store_272,Online,Kennethtown,Vermont,Saint Pierre and Miquelon,2022-11-23,87,845,1
+273,Store_273,Physical,North Stacychester,Delaware,Tokelau,2020-08-29,28,119,1
+274,Store_274,Physical,Johnshire,Kansas,Bolivia,2023-05-08,30,503,1
+275,Store_275,Physical,Port Julia,West Virginia,Cayman Islands,2025-01-12,49,488,1
+276,Store_276,Physical,Reginaldmouth,Massachusetts,Lebanon,2024-05-20,32,874,1
+277,Store_277,Physical,North Sandy,Maryland,Turkmenistan,2018-02-14,86,413,1
+278,Store_278,Physical,Matthewberg,Rhode Island,Andorra,2016-09-10,33,815,1
+279,Store_279,Online,East Michelemouth,Kansas,Christmas Island,2021-06-06,21,530,1
+280,Store_280,Physical,Phillipsmouth,Utah,Bahamas,2019-02-16,72,193,1
+281,Store_281,Physical,New Kimberlyberg,Maine,Nigeria,2024-11-01,48,73,1
+282,Store_282,Physical,Port Hectortown,New York,Turks and Caicos Islands,2020-08-08,65,474,1
+283,Store_283,Online,Douglaston,West Virginia,Tuvalu,2017-07-30,97,795,1
+284,Store_284,Online,South Megan,Minnesota,Ecuador,2022-10-23,72,894,1
+285,Store_285,Online,Howardtown,Oklahoma,Norfolk Island,2016-02-02,78,224,1
+286,Store_286,Physical,Marshallberg,Georgia,Kyrgyz Republic,2024-07-19,29,893,0
+287,Store_287,Physical,East Molly,Massachusetts,Hong Kong,2020-08-07,99,374,0
+288,Store_288,Online,West David,South Dakota,Liberia,2023-06-01,71,918,0
+289,Store_289,Online,North Kristin,Kentucky,Slovenia,2024-03-14,6,720,0
+290,Store_290,Online,Lake Andrew,Oregon,Cameroon,2024-02-19,93,909,1
+291,Store_291,Physical,Maryport,New Hampshire,Algeria,2016-10-24,53,397,1
+292,Store_292,Online,Austinport,Ohio,Armenia,2019-07-16,74,847,1
+293,Store_293,Physical,West Paulmouth,Virginia,Wallis and Futuna,2017-11-06,30,67,1
+294,Store_294,Physical,West Mary,Florida,Thailand,2023-01-27,76,93,1
+295,Store_295,Physical,North Brandymouth,Missouri,Micronesia,2017-09-18,31,204,1
+296,Store_296,Online,South Josephshire,New Jersey,Martinique,2020-08-16,93,916,1
+297,Store_297,Physical,Riggstown,Michigan,Mauritius,2020-02-09,22,971,1
+298,Store_298,Online,Lindsayfort,Delaware,Anguilla,2022-02-10,58,426,1
+299,Store_299,Online,West Brookeport,Hawaii,Cook Islands,2022-09-15,5,792,1
+300,Store_300,Online,South John,Wyoming,Sudan,2023-12-21,65,932,1
+301,Store_301,Online,Lake Mary,California,Ecuador,2016-06-04,7,877,0
+302,Store_302,Physical,Frankbury,New York,Nigeria,2024-06-29,72,451,1
+303,Store_303,Physical,Weavermouth,West Virginia,Tunisia,2022-05-02,45,274,1
+304,Store_304,Physical,Ramirezstad,Iowa,Kuwait,2019-07-29,41,266,0
+305,Store_305,Physical,Port Adrian,Mississippi,India,2020-11-12,55,617,1
+306,Store_306,Online,East Jenniferton,Kentucky,Swaziland,2020-08-13,19,80,0
+307,Store_307,Online,Saundersborough,Alabama,Central African Republic,2021-06-22,12,918,1
+308,Store_308,Online,Port Amanda,Utah,Botswana,2021-09-01,42,108,1
+309,Store_309,Online,Erinville,Mississippi,Angola,2022-07-18,87,941,1
+310,Store_310,Physical,Jacquelinefort,Iowa,United Arab Emirates,2022-05-18,60,947,1
+311,Store_311,Online,Austinhaven,Utah,Western Sahara,2021-04-11,51,402,1
+312,Store_312,Physical,Clarkmouth,South Carolina,Eritrea,2016-07-13,94,984,1
+313,Store_313,Online,Vanessashire,Louisiana,Dominica,2016-03-15,14,494,1
+314,Store_314,Online,East Lisatown,Alabama,Kazakhstan,2022-07-23,82,284,1
+315,Store_315,Online,Keithport,Hawaii,Norway,2021-03-26,53,156,0
+316,Store_316,Online,Christophermouth,Maryland,Lithuania,2017-10-22,45,240,1
+317,Store_317,Physical,Robertsonmouth,Hawaii,Malaysia,2019-08-07,87,579,1
+318,Store_318,Physical,Port Elizabethborough,North Dakota,Wallis and Futuna,2020-04-24,34,962,1
+319,Store_319,Physical,New Johnchester,Connecticut,Latvia,2016-02-11,9,787,1
+320,Store_320,Physical,South Richardborough,Oregon,Uruguay,2023-08-16,99,728,1
+321,Store_321,Online,Michaelshire,Pennsylvania,Mauritius,2021-10-26,75,632,1
+322,Store_322,Online,Leachstad,Alaska,Fiji,2021-10-27,87,923,1
+323,Store_323,Physical,Kellyfurt,Connecticut,Argentina,2024-02-05,35,615,1
+324,Store_324,Physical,East Vanessa,Ohio,Ghana,2022-07-26,56,294,1
+325,Store_325,Online,Port Kristen,Rhode Island,Wallis and Futuna,2018-06-21,92,911,1
+326,Store_326,Online,Yoderchester,Oregon,Chad,2022-04-21,27,125,1
+327,Store_327,Physical,South Franciston,Nebraska,Burkina Faso,2024-07-12,52,596,1
+328,Store_328,Physical,Brianberg,New York,Wallis and Futuna,2016-10-11,44,316,1
+329,Store_329,Physical,Aprilport,Kansas,Anguilla,2020-05-03,10,366,1
+330,Store_330,Online,Johnsonland,Oklahoma,Cuba,2023-04-23,42,861,0
+331,Store_331,Physical,Angelaburgh,Rhode Island,Macedonia,2019-09-14,45,170,1
+332,Store_332,Physical,Christophershire,Texas,Greenland,2022-11-30,31,885,1
+333,Store_333,Physical,West Christinaton,New York,Mauritania,2021-03-20,79,74,1
+334,Store_334,Physical,West Jennifershire,Oklahoma,Nepal,2021-10-19,73,481,1
+335,Store_335,Physical,Baileybury,Tennessee,Luxembourg,2023-11-22,61,209,1
+336,Store_336,Online,Lowehaven,Alaska,Saint Kitts and Nevis,2016-06-21,21,645,1
+337,Store_337,Physical,Terryside,Florida,British Indian Ocean Territory (Chagos Archipelago),2016-11-24,75,163,1
+338,Store_338,Online,Lake Trevor,New Mexico,Turks and Caicos Islands,2022-06-06,95,784,1
+339,Store_339,Physical,South Ashley,Hawaii,Costa Rica,2021-09-19,51,949,1
+340,Store_340,Physical,Lake Trevorfort,Missouri,Antarctica (the territory South of 60 deg S),2018-05-03,83,551,1
+341,Store_341,Physical,East Stephanieside,California,Ukraine,2016-10-17,17,215,1
+342,Store_342,Online,Smithmouth,Minnesota,Morocco,2022-03-07,15,752,1
+343,Store_343,Online,Doylebury,Massachusetts,Venezuela,2021-01-15,94,224,1
+344,Store_344,Online,New Andrewside,Washington,Czech Republic,2018-05-31,90,50,1
+345,Store_345,Physical,New Nicole,Oregon,Belize,2019-04-01,96,948,1
+346,Store_346,Physical,Elizabethmouth,Minnesota,Benin,2019-03-17,28,790,1
+347,Store_347,Online,North Jeremy,North Carolina,Cambodia,2016-03-22,97,135,0
+348,Store_348,Online,Fordfort,Kansas,Samoa,2017-09-09,77,623,1
+349,Store_349,Physical,Port Joseph,Montana,Italy,2021-12-10,8,369,1
+350,Store_350,Online,South Eric,Illinois,Venezuela,2018-10-07,50,450,1
+351,Store_351,Physical,Mosshaven,North Carolina,American Samoa,2024-12-15,22,431,1
+352,Store_352,Online,Port Samanthafurt,Ohio,Papua New Guinea,2018-11-08,47,767,1
+353,Store_353,Online,Stevenshire,Ohio,Nicaragua,2018-12-21,84,666,1
+354,Store_354,Online,South Meganchester,Louisiana,Mexico,2016-07-12,37,367,1
+355,Store_355,Physical,South Gloria,West Virginia,Martinique,2022-08-19,97,852,1
+356,Store_356,Physical,North Kelsey,Tennessee,Cocos (Keeling) Islands,2016-12-02,14,299,1
+357,Store_357,Online,West Ashley,Rhode Island,Reunion,2020-07-11,77,574,1
+358,Store_358,Physical,South Emily,Virginia,Austria,2023-03-15,63,724,1
+359,Store_359,Physical,Huntburgh,Maine,Belarus,2017-12-11,35,604,1
+360,Store_360,Physical,Whitechester,Virginia,Seychelles,2016-08-24,32,947,1
+361,Store_361,Physical,Porterville,Oregon,Denmark,2024-07-14,64,672,1
+362,Store_362,Online,New Marissa,Texas,Canada,2021-05-18,7,766,1
+363,Store_363,Physical,Williamsberg,Kansas,Nigeria,2024-11-25,59,945,1
+364,Store_364,Physical,South Michael,New Mexico,Faroe Islands,2019-12-07,18,305,1
+365,Store_365,Online,East Julieview,Vermont,Saint Vincent and the Grenadines,2022-03-10,62,356,1
+366,Store_366,Physical,Danielport,Tennessee,Montserrat,2023-06-12,93,999,1
+367,Store_367,Physical,East Carolinestad,Illinois,Vietnam,2017-03-27,19,193,1
+368,Store_368,Physical,Ericshire,Wisconsin,Greenland,2020-10-10,6,707,1
+369,Store_369,Online,East Keith,Oregon,Egypt,2022-03-29,28,440,0
+370,Store_370,Online,West Petermouth,North Dakota,Solomon Islands,2017-06-20,82,862,1
+371,Store_371,Physical,West Michael,Minnesota,Madagascar,2023-06-27,68,725,1
+372,Store_372,Physical,Collinsfurt,Idaho,Saint Barthelemy,2021-03-04,75,218,1
+373,Store_373,Online,Michaelland,Idaho,Bolivia,2019-03-25,28,347,1
+374,Store_374,Online,Brownbury,California,Ecuador,2024-03-05,31,282,1
+375,Store_375,Online,Port Amandatown,Texas,Cyprus,2023-01-08,41,952,1
+376,Store_376,Physical,Port Jay,Minnesota,Mexico,2018-02-03,98,320,1
+377,Store_377,Physical,Youngfort,Georgia,Paraguay,2021-09-26,95,109,1
+378,Store_378,Online,Scottchester,Delaware,Tonga,2022-12-04,43,345,1
+379,Store_379,Physical,Port Patriciaport,Indiana,Morocco,2016-12-15,67,516,1
+380,Store_380,Physical,Watsonville,Ohio,Mayotte,2016-02-09,83,284,1
+381,Store_381,Physical,Darleneton,North Dakota,Qatar,2017-03-02,30,726,1
+382,Store_382,Physical,East Jesse,Washington,Ukraine,2021-11-28,69,755,0
+383,Store_383,Physical,South Samanthaberg,North Carolina,Cambodia,2022-08-22,8,283,1
+384,Store_384,Physical,Barberside,Idaho,Turkmenistan,2020-10-29,33,417,1
+385,Store_385,Physical,West Charles,Minnesota,Lesotho,2019-05-08,5,744,1
+386,Store_386,Online,South Crystal,Rhode Island,Belize,2017-12-14,54,894,1
+387,Store_387,Online,West Thomasfurt,Florida,Seychelles,2020-03-08,90,281,1
+388,Store_388,Online,Williamsfurt,Maine,Ukraine,2020-02-29,15,922,1
+389,Store_389,Online,Lake Carlaburgh,New Hampshire,Montenegro,2023-10-23,78,540,1
+390,Store_390,Online,New Tarashire,West Virginia,Angola,2023-12-17,63,668,1
+391,Store_391,Online,East David,Texas,Iraq,2023-01-20,66,552,1
+392,Store_392,Online,Barnesfort,Minnesota,Lebanon,2021-03-02,85,939,1
+393,Store_393,Online,New Juliefort,Montana,Barbados,2016-08-29,40,784,1
+394,Store_394,Online,New Rebeccaville,Arizona,Greenland,2017-02-06,60,641,1
+395,Store_395,Physical,West Robert,South Dakota,Denmark,2017-01-25,94,795,1
+396,Store_396,Physical,Butlerburgh,Wyoming,Ireland,2024-01-14,25,430,1
+397,Store_397,Online,Coleview,Michigan,India,2018-06-13,17,745,1
+398,Store_398,Physical,New Emily,Oklahoma,Guinea-Bissau,2017-08-07,13,477,1
+399,Store_399,Physical,Port Vincent,West Virginia,Ghana,2016-12-18,15,746,1
+400,Store_400,Online,East Sherry,Wisconsin,Armenia,2023-09-04,79,695,0
+401,Store_401,Online,New Stephenburgh,Massachusetts,Belarus,2017-01-27,74,781,1
+402,Store_402,Online,Webstermouth,Michigan,Palestinian Territory,2016-02-22,5,849,1
+403,Store_403,Physical,Ricestad,Michigan,Pitcairn Islands,2024-12-01,74,413,1
+404,Store_404,Physical,Gonzaleztown,Mississippi,Mali,2020-11-23,81,251,1
+405,Store_405,Online,Kennethville,Maryland,Mayotte,2017-11-23,90,931,1
+406,Store_406,Physical,New Georgehaven,Louisiana,Yemen,2022-11-17,60,195,1
+407,Store_407,Physical,Tracytown,Ohio,Hungary,2024-04-13,35,885,1
+408,Store_408,Physical,Baxterburgh,Tennessee,Myanmar,2022-03-21,90,688,1
+409,Store_409,Online,Port James,Oregon,Libyan Arab Jamahiriya,2017-05-01,41,506,1
+410,Store_410,Physical,Bookerburgh,Maine,Saint Martin,2019-01-13,51,184,1
+411,Store_411,Physical,Georgemouth,Georgia,Comoros,2021-11-11,95,675,0
+412,Store_412,Physical,East Walterview,Florida,Iran,2017-04-02,82,313,1
+413,Store_413,Physical,Johnnyside,Kentucky,Benin,2020-04-29,51,113,0
+414,Store_414,Physical,South Michael,New Jersey,Qatar,2024-07-04,73,540,1
+415,Store_415,Physical,Luischester,Alabama,Anguilla,2021-11-23,62,696,1
+416,Store_416,Physical,Millerborough,New Hampshire,Uzbekistan,2017-09-02,40,90,0
+417,Store_417,Online,South Amyton,New Jersey,Italy,2020-08-12,36,345,1
+418,Store_418,Online,East Meganshire,West Virginia,Guam,2023-11-17,68,52,1
+419,Store_419,Physical,South Alexander,Indiana,Mauritius,2017-12-28,75,962,1
+420,Store_420,Online,West Kimberly,Montana,Hong Kong,2021-01-17,46,755,1
+421,Store_421,Physical,West Thomasmouth,Washington,Jordan,2016-05-28,52,159,1
+422,Store_422,Physical,Manueltown,Indiana,Niue,2023-09-15,78,270,1
+423,Store_423,Physical,North Anne,Utah,Ghana,2018-10-27,85,419,0
+424,Store_424,Online,South Angelaborough,North Dakota,American Samoa,2021-08-08,34,417,1
+425,Store_425,Physical,Kiddmouth,Michigan,French Southern Territories,2017-03-16,25,485,1
+426,Store_426,Physical,Ballfort,North Dakota,Anguilla,2022-06-04,64,967,1
+427,Store_427,Online,Brittanybury,South Dakota,Syrian Arab Republic,2020-03-27,17,53,1
+428,Store_428,Online,New Donaldfort,Kentucky,Vietnam,2018-12-15,5,293,1
+429,Store_429,Physical,Watsontown,North Carolina,Chile,2024-11-29,69,951,1
+430,Store_430,Online,Patriciaborough,Texas,Uruguay,2024-06-11,37,215,1
+431,Store_431,Online,Gordonview,Mississippi,Holy See (Vatican City State),2019-07-28,42,75,1
+432,Store_432,Physical,Lorishire,California,Belgium,2016-02-01,29,444,1
+433,Store_433,Physical,South Jasonchester,Missouri,Algeria,2024-02-11,30,523,1
+434,Store_434,Physical,Turnermouth,Virginia,Faroe Islands,2017-08-11,81,66,1
+435,Store_435,Online,Robinborough,Illinois,Vanuatu,2024-08-16,63,777,1
+436,Store_436,Online,Andreaberg,Idaho,Dominican Republic,2022-12-09,96,141,1
+437,Store_437,Online,Gonzalezhaven,Mississippi,Somalia,2019-03-04,37,532,1
+438,Store_438,Physical,East Donaldberg,North Dakota,South Georgia and the South Sandwich Islands,2020-03-02,45,592,1
+439,Store_439,Online,Amandamouth,Hawaii,Bahamas,2023-12-01,34,254,1
+440,Store_440,Online,Christopherfurt,Tennessee,Grenada,2017-02-24,61,551,1
+441,Store_441,Physical,West Lisaside,Arizona,Russian Federation,2021-01-10,53,980,1
+442,Store_442,Physical,Lake Jessica,Massachusetts,Romania,2023-06-30,52,449,1
+443,Store_443,Physical,East Cameron,Illinois,Trinidad and Tobago,2022-04-07,76,256,1
+444,Store_444,Online,Loweberg,Alabama,Egypt,2019-09-01,53,668,1
+445,Store_445,Physical,Jamesland,California,Morocco,2016-10-20,51,195,1
+446,Store_446,Online,East Haleyshire,Idaho,Indonesia,2017-03-02,60,928,1
+447,Store_447,Online,Port Austinview,Maryland,Saint Pierre and Miquelon,2021-05-10,69,150,1
+448,Store_448,Physical,West Andremouth,Massachusetts,United Arab Emirates,2022-09-16,16,929,1
+449,Store_449,Physical,New Debbieburgh,Wyoming,Heard Island and McDonald Islands,2024-08-01,73,879,1
+450,Store_450,Physical,Michaelport,New Mexico,Philippines,2016-10-29,92,929,1
+451,Store_451,Physical,Michaelborough,Wyoming,Iran,2024-07-19,10,290,1
+452,Store_452,Physical,Aliciaville,Idaho,Senegal,2016-05-31,93,972,1
+453,Store_453,Online,Lisaport,New York,Falkland Islands (Malvinas),2020-10-13,69,808,1
+454,Store_454,Online,Port Jasonside,Colorado,Kazakhstan,2020-05-13,29,212,1
+455,Store_455,Online,Lake John,Illinois,Fiji,2016-11-07,5,933,1
+456,Store_456,Physical,Port Christopherside,North Carolina,Saudi Arabia,2016-11-11,36,222,1
+457,Store_457,Online,East Jennifer,Wyoming,Serbia,2023-02-11,7,551,1
+458,Store_458,Physical,North Shannon,Iowa,Chad,2023-02-17,53,596,1
+459,Store_459,Physical,Riversside,Missouri,United States of America,2022-04-12,23,333,1
+460,Store_460,Online,Lake Christine,Wisconsin,Antarctica (the territory South of 60 deg S),2016-09-05,64,408,1
+461,Store_461,Online,North Cindyfurt,Michigan,Czech Republic,2023-08-11,33,430,1
+462,Store_462,Physical,Andreafurt,Delaware,Slovakia (Slovak Republic),2022-09-05,54,919,1
+463,Store_463,Online,New Heathermouth,California,Cote d'Ivoire,2017-10-28,6,954,1
+464,Store_464,Physical,Port Justin,Rhode Island,Korea,2019-08-04,77,960,1
+465,Store_465,Online,South Brandonshire,Tennessee,Ecuador,2018-06-12,60,582,1
+466,Store_466,Online,West Sherry,Wyoming,Uganda,2024-08-14,21,869,1
+467,Store_467,Online,South Stacieville,Minnesota,Burundi,2023-12-04,64,212,1
+468,Store_468,Online,New Kevinborough,Florida,Bulgaria,2024-11-12,40,658,1
+469,Store_469,Online,Petersonbury,Michigan,Tajikistan,2016-08-16,65,356,1
+470,Store_470,Physical,Zacharyport,West Virginia,Bahrain,2022-12-22,21,388,1
+471,Store_471,Online,Lopezfort,Arkansas,Solomon Islands,2023-07-30,53,104,1
+472,Store_472,Online,Bendertown,Rhode Island,Saint Barthelemy,2020-09-10,80,382,1
+473,Store_473,Online,Hoffmanside,Alaska,Suriname,2018-05-31,64,176,1
+474,Store_474,Physical,Lisaview,Hawaii,Jersey,2019-04-06,24,989,1
+475,Store_475,Physical,South Raymond,Pennsylvania,Reunion,2022-05-07,54,754,1
+476,Store_476,Physical,Coreyfort,Kentucky,Vietnam,2018-01-12,7,292,1
+477,Store_477,Physical,Darrellbury,South Carolina,Finland,2023-03-15,47,910,1
+478,Store_478,Physical,New Ryan,Rhode Island,Paraguay,2018-09-06,61,649,0
+479,Store_479,Online,Gomeztown,Nebraska,Haiti,2022-10-14,54,897,1
+480,Store_480,Online,Smithtown,Delaware,South Georgia and the South Sandwich Islands,2018-11-27,72,458,1
+481,Store_481,Online,Danielstad,Maine,United Arab Emirates,2019-10-23,85,552,1
+482,Store_482,Physical,New Caitlyntown,Indiana,Slovenia,2017-12-15,54,776,0
+483,Store_483,Physical,South Nicole,Delaware,Sweden,2018-10-16,41,653,1
+484,Store_484,Online,Michaelshire,West Virginia,Switzerland,2021-07-14,50,352,1
+485,Store_485,Physical,South Rachel,Colorado,Saint Helena,2017-01-03,46,513,0
+486,Store_486,Physical,East Jessica,Maine,Dominica,2023-09-19,19,284,0
+487,Store_487,Physical,Tonyachester,Illinois,China,2019-10-31,37,745,1
+488,Store_488,Online,North Maureenland,West Virginia,French Southern Territories,2019-03-20,84,87,1
+489,Store_489,Online,Stephaniemouth,Pennsylvania,Bulgaria,2016-03-30,15,188,1
+490,Store_490,Physical,Peterchester,Iowa,Cyprus,2018-01-05,24,244,0
+491,Store_491,Physical,Port Melissa,South Carolina,Bhutan,2018-05-11,28,576,1
+492,Store_492,Physical,Kimshire,Connecticut,Macedonia,2022-12-29,68,818,1
+493,Store_493,Physical,Carlostown,Rhode Island,Cocos (Keeling) Islands,2016-04-28,84,696,1
+494,Store_494,Online,Tiffanyton,Oregon,Czech Republic,2019-02-20,98,50,1
+495,Store_495,Physical,West Robin,Minnesota,Italy,2017-11-10,69,610,1
+496,Store_496,Online,Port Katherine,California,Saint Pierre and Miquelon,2017-03-19,92,145,1
+497,Store_497,Online,Davidfort,Florida,Israel,2018-01-05,92,762,1
+498,Store_498,Online,Nancyburgh,Minnesota,South Africa,2024-05-12,77,462,1
+499,Store_499,Physical,Brownburgh,Louisiana,Niue,2021-07-08,90,587,1
+500,Store_500,Online,Stevenberg,Oregon,Heard Island and McDonald Islands,2018-01-27,80,904,1
+501,Store_501,Online,Teresaburgh,Louisiana,United States Minor Outlying Islands,2019-11-24,21,478,1
+502,Store_502,Physical,Brooksfort,Ohio,Spain,2021-08-26,93,284,1
+503,Store_503,Physical,Rodriguezhaven,Florida,New Caledonia,2023-09-19,96,398,1
+504,Store_504,Physical,Cochranstad,Louisiana,Micronesia,2022-03-31,65,805,1
+505,Store_505,Online,South Dennis,New Jersey,Kiribati,2022-12-21,19,919,1
+506,Store_506,Physical,Samanthatown,California,Dominican Republic,2024-11-09,98,530,1
+507,Store_507,Online,Ronaldton,Pennsylvania,Liberia,2018-01-07,55,888,0
+508,Store_508,Online,North Clinton,New Hampshire,Ireland,2019-04-20,31,445,1
+509,Store_509,Physical,East Brian,Tennessee,British Virgin Islands,2017-12-03,90,400,0
+510,Store_510,Online,Westberg,Wyoming,Norfolk Island,2022-05-23,78,465,1
+511,Store_511,Online,Watsonton,Iowa,Norway,2018-12-30,65,935,0
+512,Store_512,Online,Simmonsfort,Illinois,Malaysia,2022-06-22,62,965,1
+513,Store_513,Online,Ericland,Mississippi,Holy See (Vatican City State),2022-06-09,35,936,0
+514,Store_514,Physical,Walshstad,Oklahoma,Malaysia,2017-11-26,95,100,1
+515,Store_515,Online,Graymouth,Oklahoma,Spain,2018-06-15,16,130,1
+516,Store_516,Physical,Jeremyhaven,North Dakota,Venezuela,2021-11-30,50,85,1
+517,Store_517,Online,North Hailey,North Dakota,Guinea,2022-01-06,35,116,1
+518,Store_518,Online,Fraziershire,Mississippi,Norfolk Island,2016-05-09,36,690,1
+519,Store_519,Physical,New Carlos,New Mexico,United Kingdom,2024-03-12,36,931,1
+520,Store_520,Online,Lake Rebecca,Massachusetts,Cocos (Keeling) Islands,2020-12-05,57,716,1
+521,Store_521,Online,Lake Donald,Nebraska,Norway,2021-08-20,65,806,1
+522,Store_522,Online,Martinezville,New Mexico,China,2022-11-22,50,672,1
+523,Store_523,Online,Lisaland,South Carolina,Macedonia,2021-08-10,89,729,1
+524,Store_524,Online,New Caitlyntown,Oregon,Martinique,2022-03-13,78,530,1
+525,Store_525,Online,Toddstad,Virginia,Czech Republic,2022-07-01,84,517,1
+526,Store_526,Physical,West Thomasburgh,Rhode Island,Uzbekistan,2024-09-24,11,191,1
+527,Store_527,Physical,West Christina,Connecticut,Costa Rica,2024-07-05,8,405,1
+528,Store_528,Physical,West Steven,Vermont,Cape Verde,2024-09-09,95,758,1
+529,Store_529,Online,Lake Michelle,Virginia,Kyrgyz Republic,2020-05-01,56,520,1
+530,Store_530,Online,Bradshawchester,Wisconsin,Marshall Islands,2024-10-08,93,670,1
+531,Store_531,Online,East Lauren,Kentucky,Japan,2017-05-10,35,937,1
+532,Store_532,Physical,Davidbury,New York,Slovenia,2017-11-13,79,640,0
+533,Store_533,Online,Roberthaven,California,Norfolk Island,2016-06-11,88,951,0
+534,Store_534,Physical,Wongshire,Florida,Holy See (Vatican City State),2019-11-11,40,722,1
+535,Store_535,Online,Herreraport,Ohio,Egypt,2019-09-07,58,488,1
+536,Store_536,Online,Rickyberg,Pennsylvania,Thailand,2016-06-29,58,580,1
+537,Store_537,Online,North Coleton,Pennsylvania,Myanmar,2021-01-25,21,176,1
+538,Store_538,Physical,West Matthew,New York,Seychelles,2016-08-21,79,254,1
+539,Store_539,Online,Jamesstad,North Carolina,Turkmenistan,2020-11-19,34,78,1
+540,Store_540,Physical,South Matthewland,Missouri,Puerto Rico,2019-12-13,26,494,1
+541,Store_541,Online,Port Kayla,Nebraska,Sweden,2019-07-09,47,768,1
+542,Store_542,Online,New Michael,New York,Mayotte,2023-07-23,31,513,1
+543,Store_543,Physical,Westburgh,Tennessee,Saint Helena,2018-04-20,41,329,1
+544,Store_544,Online,Omarside,Maine,Sierra Leone,2019-08-24,50,200,1
+545,Store_545,Online,Elizabethberg,California,Austria,2017-11-06,39,289,1
+546,Store_546,Online,Michaelmouth,Indiana,Germany,2024-03-31,8,315,1
+547,Store_547,Online,Lake Thomasmouth,Illinois,Kazakhstan,2023-01-10,84,743,1
+548,Store_548,Physical,New Timothy,Texas,Guinea-Bissau,2018-12-27,84,154,1
+549,Store_549,Physical,Ernestfurt,New York,Moldova,2024-02-01,89,986,1
+550,Store_550,Online,Millsport,Indiana,Turks and Caicos Islands,2018-01-19,30,482,1
+551,Store_551,Online,Maryburgh,New Hampshire,Maldives,2019-11-27,23,962,1
+552,Store_552,Physical,New Nicole,Mississippi,Netherlands Antilles,2021-01-19,85,546,1
+553,Store_553,Online,Ingramshire,New Jersey,Guernsey,2022-04-08,49,489,1
+554,Store_554,Physical,Cameronfurt,Kansas,Monaco,2020-09-27,30,797,1
+555,Store_555,Online,South Latoyaport,South Carolina,Montenegro,2023-07-13,26,734,1
+556,Store_556,Physical,Ashleyton,Colorado,Liberia,2020-04-15,62,207,1
+557,Store_557,Physical,East Karenmouth,Wyoming,United States Minor Outlying Islands,2024-11-19,67,221,1
+558,Store_558,Physical,East Lisaborough,Connecticut,Fiji,2023-07-12,32,543,1
+559,Store_559,Physical,Jerrytown,Indiana,Botswana,2023-12-29,69,360,1
+560,Store_560,Online,Graystad,Louisiana,Namibia,2016-09-20,48,452,1
+561,Store_561,Online,West Catherineshire,South Dakota,Eritrea,2020-01-21,47,718,0
+562,Store_562,Physical,Angelachester,Tennessee,Korea,2023-10-15,41,819,1
+563,Store_563,Physical,Lake Hollyfort,Arizona,Solomon Islands,2017-08-02,70,725,1
+564,Store_564,Physical,Yvonnefort,Montana,Colombia,2024-05-03,21,708,1
+565,Store_565,Physical,Evanschester,Maine,Christmas Island,2023-07-18,44,952,1
+566,Store_566,Online,New Peggyfurt,Indiana,Saudi Arabia,2021-11-19,42,715,1
+567,Store_567,Physical,West Jeffreyfurt,New Jersey,Saint Lucia,2022-01-11,89,512,1
+568,Store_568,Physical,Wagnerport,Illinois,Saint Martin,2024-10-22,65,416,1
+569,Store_569,Physical,Port Bethany,West Virginia,Uganda,2016-10-25,13,599,1
+570,Store_570,Physical,New Jenniferstad,Arizona,Puerto Rico,2016-10-18,81,692,1
+571,Store_571,Physical,West Savannahtown,Oregon,Montenegro,2024-10-22,79,919,1
+572,Store_572,Physical,Colemantown,Maryland,Japan,2019-05-28,65,304,1
+573,Store_573,Physical,North Robertton,North Carolina,Falkland Islands (Malvinas),2020-01-05,84,257,1
+574,Store_574,Online,Ashleyfort,Minnesota,Kuwait,2019-12-21,20,499,1
+575,Store_575,Physical,Lake Larryfort,Pennsylvania,Tajikistan,2019-03-18,6,144,1
+576,Store_576,Physical,Coxtown,Colorado,Ireland,2024-09-28,76,909,1
+577,Store_577,Physical,Burkeburgh,Maryland,Mexico,2023-01-14,47,888,1
+578,Store_578,Online,Marcostad,Rhode Island,Belize,2019-12-01,46,527,1
+579,Store_579,Online,Olsenburgh,Arizona,Greenland,2018-11-24,81,732,1
+580,Store_580,Online,Christianchester,Vermont,American Samoa,2020-01-25,61,811,1
+581,Store_581,Physical,Gilmoremouth,Vermont,Suriname,2024-12-21,85,239,1
+582,Store_582,Physical,West Kathrynmouth,Arizona,Mauritius,2022-10-17,92,760,0
+583,Store_583,Physical,Reyesstad,South Dakota,Maldives,2019-03-07,71,533,0
+584,Store_584,Online,East Carolyn,Arizona,Turkmenistan,2018-07-03,34,782,1
+585,Store_585,Physical,Eatonport,Wisconsin,Saint Vincent and the Grenadines,2023-04-19,17,585,1
+586,Store_586,Online,Josephview,Oregon,Cambodia,2022-05-05,23,805,1
+587,Store_587,Online,Lake Michael,Alaska,Australia,2016-12-08,11,472,1
+588,Store_588,Online,South Jeffrey,Wyoming,Panama,2017-11-16,13,885,1
+589,Store_589,Online,East Meghanville,New Jersey,Algeria,2017-07-11,87,689,0
+590,Store_590,Online,West Cynthiaport,Delaware,Greece,2018-08-09,58,654,1
+591,Store_591,Physical,Kristinaton,Idaho,Ecuador,2022-07-26,90,861,1
+592,Store_592,Physical,North Sarahville,New York,Nauru,2020-07-04,86,182,1
+593,Store_593,Online,Lake Joshua,South Carolina,Estonia,2020-02-25,65,104,1
+594,Store_594,Physical,East Wesleyshire,North Carolina,Luxembourg,2017-09-09,91,559,1
+595,Store_595,Physical,North Tanya,Missouri,Myanmar,2022-02-13,6,719,1
+596,Store_596,Online,Leefurt,Connecticut,Tuvalu,2022-06-10,54,590,1
+597,Store_597,Online,Ramirezfort,Missouri,Ecuador,2022-05-16,79,459,1
+598,Store_598,Physical,Sherrihaven,Wyoming,United Kingdom,2021-01-24,35,260,1
+599,Store_599,Physical,Lake April,Louisiana,Equatorial Guinea,2017-05-26,37,715,1
+600,Store_600,Physical,Nancytown,Georgia,Mexico,2018-06-24,82,342,1
+601,Store_601,Physical,South Adam,Colorado,Macedonia,2022-04-23,84,783,1
+602,Store_602,Online,Padillamouth,Maine,Reunion,2021-09-06,15,164,0
+603,Store_603,Physical,South Lorishire,Georgia,Ecuador,2021-07-06,37,998,1
+604,Store_604,Online,Smithbury,Minnesota,South Africa,2018-09-22,11,719,1
+605,Store_605,Online,Thomasview,South Dakota,Saudi Arabia,2023-09-27,35,308,1
+606,Store_606,Physical,West William,West Virginia,Armenia,2017-03-06,52,812,1
+607,Store_607,Physical,Christinashire,Nebraska,Samoa,2024-03-14,51,171,1
+608,Store_608,Physical,Samuelville,Idaho,Macao,2019-03-08,82,348,1
+609,Store_609,Online,Thomasview,South Dakota,Uganda,2022-10-02,96,824,1
+610,Store_610,Online,Vasqueztown,Tennessee,Montserrat,2019-08-11,57,430,1
+611,Store_611,Online,Jesseland,Maryland,Mexico,2016-02-15,84,610,1
+612,Store_612,Online,Kimberlyberg,Nebraska,Lao People's Democratic Republic,2021-04-06,23,938,0
+613,Store_613,Physical,Watsonberg,New Jersey,Pakistan,2021-12-29,85,890,1
+614,Store_614,Online,North Corey,Ohio,Cyprus,2020-08-04,94,550,1
+615,Store_615,Online,Websterhaven,New Jersey,Angola,2019-10-27,10,346,1
+616,Store_616,Physical,Nelsonstad,Delaware,Mali,2021-06-13,53,411,1
+617,Store_617,Online,North Yvonne,Montana,Montserrat,2016-08-08,77,638,1
+618,Store_618,Online,Port Rogerville,Utah,Andorra,2019-12-27,54,512,1
+619,Store_619,Physical,Clarkland,Vermont,Netherlands,2021-05-29,85,487,1
+620,Store_620,Online,East Paulfort,Alaska,Ethiopia,2019-11-01,99,176,1
+621,Store_621,Online,Meganburgh,Kansas,Tunisia,2020-06-07,16,246,1
+622,Store_622,Online,Franciscoville,New Mexico,Tajikistan,2020-12-06,27,270,1
+623,Store_623,Online,Lindsayton,Oregon,Norfolk Island,2016-06-10,58,140,1
+624,Store_624,Physical,North Adamshire,Arizona,Philippines,2024-06-27,73,460,1
+625,Store_625,Online,North Ronaldmouth,Oregon,Syrian Arab Republic,2024-01-25,63,57,1
+626,Store_626,Physical,New Debra,Indiana,Korea,2024-12-27,40,593,1
+627,Store_627,Online,Melindaview,New Mexico,Slovakia (Slovak Republic),2021-03-26,7,517,1
+628,Store_628,Physical,Latashastad,Wyoming,Algeria,2020-09-23,62,369,0
+629,Store_629,Physical,West Christopher,Idaho,Netherlands Antilles,2017-10-21,92,443,0
+630,Store_630,Physical,New Kathrynstad,New York,San Marino,2020-03-19,59,318,1
+631,Store_631,Online,Josephtown,Wyoming,Cook Islands,2024-08-20,61,240,1
+632,Store_632,Online,Port Allisonstad,Ohio,Greece,2017-02-18,21,910,0
+633,Store_633,Online,Carterbury,North Carolina,Suriname,2019-02-19,43,724,1
+634,Store_634,Physical,Brianfurt,Arkansas,Central African Republic,2023-01-26,94,110,1
+635,Store_635,Online,Jenniferbury,Vermont,Liechtenstein,2020-08-18,72,487,1
+636,Store_636,Online,Patrickland,Oregon,Haiti,2016-12-16,59,313,1
+637,Store_637,Online,Amberport,Oregon,Congo,2023-08-09,49,846,1
+638,Store_638,Online,Katherineland,Michigan,India,2020-11-26,80,144,1
+639,Store_639,Physical,Priscillaview,Arkansas,Antarctica (the territory South of 60 deg S),2020-02-24,5,602,1
+640,Store_640,Physical,Kristiview,Oklahoma,Dominica,2022-08-21,25,975,1
+641,Store_641,Online,East Amberville,Arizona,Iran,2020-04-26,87,519,1
+642,Store_642,Online,Gibsonborough,Missouri,Zambia,2018-03-02,25,710,1
+643,Store_643,Online,West Dylan,Indiana,China,2019-10-03,56,765,1
+644,Store_644,Physical,Davidfurt,Virginia,Saint Barthelemy,2021-10-18,86,828,1
+645,Store_645,Online,Lake Monica,Missouri,Italy,2016-06-19,47,563,1
+646,Store_646,Physical,Port Rebeccafort,Vermont,Solomon Islands,2024-10-02,56,739,1
+647,Store_647,Physical,Castrohaven,Rhode Island,Canada,2023-05-03,71,986,0
+648,Store_648,Online,West Nathan,Wyoming,Japan,2019-07-24,48,243,1
+649,Store_649,Online,New Tracy,Washington,Vanuatu,2016-03-15,36,531,0
+650,Store_650,Online,West Danielle,Pennsylvania,Andorra,2024-02-01,14,948,1
+651,Store_651,Physical,Mariahaven,Iowa,Tuvalu,2022-05-26,68,385,1
+652,Store_652,Physical,Montestown,Illinois,Morocco,2022-11-05,83,484,1
+653,Store_653,Online,East Alexisville,New Jersey,Greece,2020-08-27,73,245,1
+654,Store_654,Physical,Hensleyborough,North Carolina,Mali,2018-09-15,72,904,1
+655,Store_655,Online,North Mariebury,Iowa,Saint Barthelemy,2019-10-28,32,298,1
+656,Store_656,Online,South Gregoryland,Texas,India,2021-03-21,57,547,1
+657,Store_657,Physical,New Ashleychester,North Carolina,Namibia,2020-02-19,55,261,1
+658,Store_658,Physical,Michaelstad,South Carolina,Senegal,2023-02-02,57,714,1
+659,Store_659,Physical,South Vanessafurt,Maryland,Iraq,2023-07-16,8,719,0
+660,Store_660,Physical,Dunnchester,Wisconsin,Qatar,2019-10-06,83,515,0
+661,Store_661,Online,New Williambury,Washington,Ukraine,2020-11-04,21,923,1
+662,Store_662,Online,Lake Charles,Georgia,Tajikistan,2017-03-12,71,700,1
+663,Store_663,Online,Port Heather,South Dakota,Kyrgyz Republic,2017-05-22,78,270,1
+664,Store_664,Physical,East Dawnbury,Texas,Macedonia,2022-03-31,51,322,1
+665,Store_665,Online,South Melissaview,New Mexico,Korea,2016-09-24,60,203,1
+666,Store_666,Physical,New Kyleview,Idaho,Brazil,2019-09-22,27,298,0
+667,Store_667,Physical,Port Calvin,North Carolina,Cook Islands,2020-02-22,22,328,1
+668,Store_668,Physical,Sparksburgh,Delaware,Guyana,2024-08-08,5,489,1
+669,Store_669,Online,Martinfurt,Massachusetts,Ghana,2017-01-06,39,997,1
+670,Store_670,Physical,North Kathryn,Wyoming,Yemen,2018-10-20,68,865,1
+671,Store_671,Physical,South Joseph,Colorado,Svalbard & Jan Mayen Islands,2021-01-08,62,325,1
+672,Store_672,Physical,Courtneybury,Colorado,Chad,2016-09-29,99,563,1
+673,Store_673,Physical,Crawfordchester,Maine,Finland,2024-09-09,63,137,1
+674,Store_674,Physical,Michelemouth,New Jersey,Costa Rica,2024-06-24,5,848,1
+675,Store_675,Physical,New Wendyview,Connecticut,Cayman Islands,2016-10-10,7,972,1
+676,Store_676,Physical,Carolynton,Texas,Turkmenistan,2020-09-11,71,691,1
+677,Store_677,Physical,Ruizfurt,Arizona,Bolivia,2018-12-10,41,554,1
+678,Store_678,Physical,Christineview,Rhode Island,Ukraine,2016-12-31,87,639,1
+679,Store_679,Physical,Jamiestad,Pennsylvania,Comoros,2019-08-09,33,821,1
+680,Store_680,Physical,Kristinburgh,Maine,Suriname,2019-10-12,93,290,1
+681,Store_681,Physical,Perryburgh,Nebraska,Tunisia,2016-04-10,37,702,1
+682,Store_682,Online,Joymouth,Michigan,Dominica,2020-01-23,65,789,1
+683,Store_683,Online,Port Jenniferberg,Wyoming,French Guiana,2021-11-19,97,724,1
+684,Store_684,Physical,South Sherriberg,Tennessee,Turkmenistan,2024-06-08,94,285,1
+685,Store_685,Physical,East Chris,Connecticut,Norway,2020-06-23,8,177,1
+686,Store_686,Physical,Karenstad,Alaska,Saint Martin,2017-10-06,18,552,1
+687,Store_687,Online,North Levi,Idaho,Cambodia,2017-06-11,95,249,1
+688,Store_688,Online,North Emilyside,Oregon,South Georgia and the South Sandwich Islands,2024-09-29,37,951,1
+689,Store_689,Online,Johnstad,Oregon,Tunisia,2023-03-04,26,592,0
+690,Store_690,Physical,Natashaview,Arizona,Bermuda,2022-04-21,52,551,1
+691,Store_691,Physical,Robertstad,Nebraska,Svalbard & Jan Mayen Islands,2016-12-17,7,699,1
+692,Store_692,Physical,North Sheilafurt,Arizona,Botswana,2023-03-09,91,541,1
+693,Store_693,Physical,East Bethanychester,New Mexico,Mongolia,2020-12-15,89,70,1
+694,Store_694,Online,Michaelview,Colorado,Mali,2022-01-12,27,283,1
+695,Store_695,Physical,South Joannemouth,North Carolina,Macedonia,2021-11-30,72,763,1
+696,Store_696,Online,Jonesmouth,Connecticut,Turkey,2020-01-14,25,840,1
+697,Store_697,Online,New Lydiaview,Alabama,Iran,2020-03-25,47,692,1
+698,Store_698,Physical,Lake Amandabury,Colorado,Tokelau,2017-05-21,99,465,1
+699,Store_699,Online,Morrischester,Indiana,Austria,2018-06-22,89,197,1
+700,Store_700,Online,Robertomouth,Missouri,Indonesia,2019-12-09,30,78,1
+701,Store_701,Online,Port Wandamouth,Maryland,Venezuela,2024-11-29,45,410,1
+702,Store_702,Online,Zacharystad,Nebraska,United Arab Emirates,2016-08-12,42,357,0
+703,Store_703,Physical,East Latashatown,Tennessee,Honduras,2023-07-30,92,932,0
+704,Store_704,Physical,Port Amber,Ohio,Ecuador,2017-08-04,15,991,1
+705,Store_705,Online,Davistown,Maryland,Norfolk Island,2020-05-13,33,211,1
+706,Store_706,Physical,Riceshire,Alabama,Montserrat,2018-05-05,64,918,1
+707,Store_707,Online,Port Davidmouth,Delaware,Bhutan,2019-02-12,71,901,1
+708,Store_708,Physical,Robbinsborough,Virginia,Martinique,2016-09-03,69,110,1
+709,Store_709,Physical,New Scottstad,North Carolina,Poland,2024-12-06,65,174,1
+710,Store_710,Physical,West Lisamouth,Idaho,Bhutan,2019-04-28,23,505,1
+711,Store_711,Physical,West Alanton,South Dakota,Monaco,2020-07-13,50,120,1
+712,Store_712,Physical,West Alexander,Utah,Isle of Man,2024-01-13,53,887,1
+713,Store_713,Online,Port Sarah,South Carolina,Canada,2023-12-18,26,956,0
+714,Store_714,Physical,Jenkinsberg,Georgia,Ecuador,2020-12-19,82,925,1
+715,Store_715,Online,Port Edwardborough,Iowa,South Georgia and the South Sandwich Islands,2016-10-03,61,515,1
+716,Store_716,Online,South Andrewburgh,Utah,Tajikistan,2023-03-22,18,292,1
+717,Store_717,Physical,Pamelaton,Massachusetts,South Africa,2017-09-24,48,539,1
+718,Store_718,Online,Milesside,Rhode Island,Barbados,2021-03-10,20,810,1
+719,Store_719,Physical,New Andrew,Tennessee,Slovenia,2017-09-30,81,270,0
+720,Store_720,Online,Morseside,Ohio,Algeria,2022-01-12,16,522,1
+721,Store_721,Online,Port Kristin,South Dakota,Reunion,2019-05-02,59,582,1
+722,Store_722,Physical,Lauramouth,Georgia,Vanuatu,2020-05-23,55,543,1
+723,Store_723,Physical,West Antoniostad,Nevada,New Caledonia,2017-02-04,43,948,1
+724,Store_724,Physical,Georgemouth,North Carolina,South Africa,2021-01-22,37,131,1
+725,Store_725,Physical,North Lindsay,West Virginia,Taiwan,2019-04-03,37,905,1
+726,Store_726,Online,Brentmouth,West Virginia,Mozambique,2018-08-29,33,928,1
+727,Store_727,Physical,Floreschester,Ohio,Guadeloupe,2020-08-07,73,571,1
+728,Store_728,Online,Carlsonport,Tennessee,Burkina Faso,2018-09-05,74,972,0
+729,Store_729,Online,Joshuabury,Arkansas,Equatorial Guinea,2024-06-15,35,61,1
+730,Store_730,Online,South Derrick,Illinois,Solomon Islands,2017-07-12,84,312,0
+731,Store_731,Online,Lisaburgh,Maine,Serbia,2022-05-20,35,706,1
+732,Store_732,Online,West Jasmine,Rhode Island,China,2018-03-03,93,498,1
+733,Store_733,Online,Gordonland,Alaska,Singapore,2022-02-23,50,241,1
+734,Store_734,Physical,Kristenville,Tennessee,Haiti,2024-01-27,81,811,1
+735,Store_735,Online,Burtonview,Washington,Montserrat,2019-08-20,56,163,1
+736,Store_736,Online,East Courtney,Alaska,Iceland,2018-05-16,14,75,1
+737,Store_737,Online,New Susanmouth,Idaho,Turks and Caicos Islands,2024-08-27,92,832,1
+738,Store_738,Physical,East Timothy,Kentucky,Costa Rica,2020-02-12,78,548,1
+739,Store_739,Physical,Richmondbury,Maine,Bolivia,2022-05-22,45,557,1
+740,Store_740,Online,Joneshaven,Alaska,Saint Helena,2019-08-24,99,594,1
+741,Store_741,Physical,Trevinoburgh,Rhode Island,Guam,2022-12-24,81,111,1
+742,Store_742,Online,Welchland,Connecticut,Mexico,2021-03-23,7,278,0
+743,Store_743,Physical,Lake Tammy,South Dakota,Macao,2018-10-23,63,864,1
+744,Store_744,Online,Bowenborough,Hawaii,Luxembourg,2019-05-18,56,656,1
+745,Store_745,Physical,Lake Donald,Maine,Bolivia,2022-02-19,38,84,1
+746,Store_746,Physical,Lake Lauren,North Dakota,Madagascar,2021-07-15,53,754,1
+747,Store_747,Physical,West Alexis,Oregon,Equatorial Guinea,2020-07-07,32,505,1
+748,Store_748,Online,West Gregory,Oregon,Luxembourg,2021-02-01,87,637,1
+749,Store_749,Online,Lake Andrewborough,New York,Tonga,2018-08-12,91,940,1
+750,Store_750,Online,North Kathleen,Georgia,Moldova,2022-04-10,17,551,1
+751,Store_751,Physical,East Andrew,Connecticut,Suriname,2023-07-18,73,810,1
+752,Store_752,Physical,South Katie,Alaska,Albania,2018-02-01,71,644,1
+753,Store_753,Online,Gallegosstad,Pennsylvania,Brazil,2021-09-25,65,74,0
+754,Store_754,Physical,West Lindaport,Oregon,Netherlands,2024-08-21,64,618,1
+755,Store_755,Online,West Stacy,Montana,Puerto Rico,2024-01-02,75,81,1
+756,Store_756,Online,Snyderville,Georgia,Aruba,2023-08-13,28,880,1
+757,Store_757,Online,Port Joeton,South Carolina,Oman,2020-04-05,67,61,1
+758,Store_758,Online,Kelseyborough,Maryland,Maldives,2020-06-23,90,368,1
+759,Store_759,Physical,Salazarburgh,Idaho,Nauru,2016-04-12,65,894,1
+760,Store_760,Physical,Lake Shawnchester,Vermont,Puerto Rico,2022-12-23,27,653,1
+761,Store_761,Physical,Christinaborough,Massachusetts,Belarus,2017-07-01,34,50,1
+762,Store_762,Online,Port Jasonfort,Delaware,Bahamas,2016-12-08,64,484,1
+763,Store_763,Physical,Stephanieview,California,Mali,2023-02-12,22,887,1
+764,Store_764,Online,Wardstad,Connecticut,Bolivia,2019-10-19,60,185,1
+765,Store_765,Online,South Jonathan,Nebraska,Norway,2019-12-06,57,245,1
+766,Store_766,Online,South Bradley,Arizona,Bouvet Island (Bouvetoya),2024-10-04,11,182,1
+767,Store_767,Online,Barreraberg,Montana,Mexico,2020-09-07,73,135,1
+768,Store_768,Online,Bethanyborough,Indiana,Guinea-Bissau,2023-05-09,96,525,1
+769,Store_769,Online,North Matthewstad,Maine,Bahamas,2020-12-01,76,856,1
+770,Store_770,Physical,Port Nicholas,Missouri,Cote d'Ivoire,2023-02-12,83,840,1
+771,Store_771,Physical,Hudsonstad,Tennessee,Haiti,2020-07-14,56,373,1
+772,Store_772,Physical,Mercerchester,Kansas,Andorra,2016-07-04,8,229,0
+773,Store_773,Physical,Bradleyville,Ohio,Gibraltar,2023-09-15,38,565,1
+774,Store_774,Online,Bairdmouth,Idaho,Peru,2021-10-18,73,687,1
+775,Store_775,Online,Ryanville,Alabama,Greece,2021-05-14,37,224,1
+776,Store_776,Physical,North John,Massachusetts,Trinidad and Tobago,2017-10-11,73,812,1
+777,Store_777,Physical,Rosstown,Nevada,Italy,2020-01-20,42,70,1
+778,Store_778,Physical,New Robertstad,California,Sri Lanka,2017-11-25,30,154,1
+779,Store_779,Physical,Devinstad,Texas,Cambodia,2017-01-30,5,627,1
+780,Store_780,Physical,Davilachester,Montana,Saint Pierre and Miquelon,2016-04-18,8,492,1
+781,Store_781,Physical,New Johntown,Maine,Svalbard & Jan Mayen Islands,2021-12-08,43,824,1
+782,Store_782,Physical,North Albertshire,Pennsylvania,Georgia,2022-05-31,58,98,1
+783,Store_783,Physical,Erinland,Hawaii,Mauritius,2016-09-28,94,577,1
+784,Store_784,Online,Millerbury,Michigan,Guyana,2023-04-26,37,194,1
+785,Store_785,Online,South Elizabethtown,New Jersey,Jordan,2022-02-09,37,389,1
+786,Store_786,Online,East Todd,Rhode Island,Libyan Arab Jamahiriya,2018-07-26,76,811,1
+787,Store_787,Online,Nicolemouth,North Dakota,Russian Federation,2024-07-07,24,904,1
+788,Store_788,Physical,East Mary,Michigan,Saint Vincent and the Grenadines,2022-01-04,20,403,1
+789,Store_789,Online,East Ryanside,Mississippi,Honduras,2021-06-28,25,124,1
+790,Store_790,Physical,Hendersonhaven,Arizona,Norfolk Island,2023-07-18,49,851,1
+791,Store_791,Online,Port Victoriachester,North Carolina,Wallis and Futuna,2019-11-10,94,978,1
+792,Store_792,Physical,New Sandra,Kansas,United Arab Emirates,2017-10-24,91,843,1
+793,Store_793,Physical,Lake Oscarbury,Wisconsin,Benin,2017-05-23,86,627,1
+794,Store_794,Online,South Jesse,Utah,Guernsey,2023-11-02,66,686,1
+795,Store_795,Online,South Heatherview,Tennessee,Wallis and Futuna,2019-04-25,35,368,1
+796,Store_796,Physical,North Rachael,Idaho,Iran,2021-08-29,46,136,1
+797,Store_797,Physical,South Sarahhaven,Alaska,Kyrgyz Republic,2017-11-01,16,602,1
+798,Store_798,Physical,Lake Steven,Rhode Island,Sierra Leone,2019-10-30,69,747,1
+799,Store_799,Online,East Susanfurt,Utah,Slovenia,2023-10-03,77,915,1
+800,Store_800,Online,New Anthony,Pennsylvania,Haiti,2023-08-31,7,941,1
+801,Store_801,Physical,Amberstad,Connecticut,Macao,2022-06-05,94,896,1
+802,Store_802,Online,East Danaton,Massachusetts,Cote d'Ivoire,2016-08-28,13,827,1
+803,Store_803,Physical,East Josephberg,Pennsylvania,United States Minor Outlying Islands,2022-08-06,55,832,1
+804,Store_804,Online,Cantrelltown,Missouri,Taiwan,2023-02-28,20,91,1
+805,Store_805,Online,Port Sara,West Virginia,Cayman Islands,2022-09-16,92,142,1
+806,Store_806,Online,Brownchester,Louisiana,Italy,2021-01-15,82,746,1
+807,Store_807,Online,East Davidmouth,North Dakota,Venezuela,2024-03-09,7,776,1
+808,Store_808,Online,Velazquezbury,Idaho,Trinidad and Tobago,2017-07-13,28,556,1
+809,Store_809,Physical,Port Brookeport,North Carolina,Serbia,2021-08-02,77,578,1
+810,Store_810,Physical,Greenshire,Wyoming,Armenia,2021-03-16,17,314,1
+811,Store_811,Online,New Tyrone,Maryland,Argentina,2016-06-30,6,675,0
+812,Store_812,Physical,Smithburgh,Texas,Northern Mariana Islands,2018-05-30,75,341,1
+813,Store_813,Physical,New Katherine,New Mexico,Saint Kitts and Nevis,2020-09-28,25,513,1
+814,Store_814,Online,Port Lisa,Iowa,Lithuania,2024-09-12,23,853,1
+815,Store_815,Physical,Westfurt,Florida,Norfolk Island,2019-05-03,93,609,1
+816,Store_816,Online,Davidland,Massachusetts,Mozambique,2021-04-13,51,868,0
+817,Store_817,Physical,Jennifermouth,Arizona,Tuvalu,2020-07-21,26,146,0
+818,Store_818,Physical,Port Brittanyfurt,Florida,Guernsey,2022-04-20,79,936,1
+819,Store_819,Physical,West Jeffrey,Oregon,Tuvalu,2020-09-18,37,144,1
+820,Store_820,Physical,Sandrahaven,Rhode Island,Saudi Arabia,2024-10-19,36,375,1
+821,Store_821,Physical,Port Melissa,Louisiana,Mexico,2017-04-07,68,123,1
+822,Store_822,Physical,Marissaview,Montana,Brazil,2024-07-05,89,385,1
+823,Store_823,Physical,Johnport,Massachusetts,Reunion,2019-02-15,43,117,1
+824,Store_824,Online,South Alexandrahaven,Arkansas,Benin,2017-04-20,88,807,1
+825,Store_825,Online,Kathleenstad,Tennessee,France,2017-10-12,76,967,1
+826,Store_826,Online,Feliciamouth,Iowa,Central African Republic,2020-11-12,46,126,1
+827,Store_827,Online,New Erikaborough,Utah,Cocos (Keeling) Islands,2021-10-15,13,257,1
+828,Store_828,Physical,West Briannaborough,Oklahoma,Italy,2022-01-04,29,933,1
+829,Store_829,Physical,South Kimberly,Nebraska,Madagascar,2019-05-29,93,815,1
+830,Store_830,Physical,East Pamela,Iowa,Mayotte,2018-02-04,6,270,1
+831,Store_831,Online,West Roger,Alabama,Brunei Darussalam,2020-06-22,23,311,0
+832,Store_832,Online,North Benjaminburgh,Oklahoma,Cameroon,2022-06-30,24,459,1
+833,Store_833,Online,Moorehaven,Georgia,Guam,2019-05-28,97,380,1
+834,Store_834,Physical,Patrickmouth,Massachusetts,Kazakhstan,2020-06-06,74,393,1
+835,Store_835,Online,Flynnland,New Jersey,Montenegro,2017-07-28,21,820,1
+836,Store_836,Physical,East Nicole,Ohio,Palau,2022-07-28,93,869,1
+837,Store_837,Online,South Matthewburgh,New Jersey,Syrian Arab Republic,2017-05-31,72,123,1
+838,Store_838,Physical,Lake Robertberg,Oregon,Mexico,2022-07-03,98,686,1
+839,Store_839,Online,West Emily,Montana,Guyana,2021-08-17,88,749,1
+840,Store_840,Physical,Leeton,Oklahoma,Cameroon,2024-08-03,7,303,1
+841,Store_841,Online,Wardville,Georgia,Saint Lucia,2017-11-23,91,882,1
+842,Store_842,Online,New Jose,Texas,Bhutan,2018-10-25,55,869,1
+843,Store_843,Physical,Laurenfurt,Kansas,Yemen,2021-05-13,86,796,1
+844,Store_844,Physical,Williamsfort,Oklahoma,Korea,2020-06-15,30,811,1
+845,Store_845,Online,East Kathleenton,West Virginia,Isle of Man,2017-05-16,60,381,1
+846,Store_846,Physical,Yoderland,Minnesota,Saint Martin,2023-03-14,68,447,0
+847,Store_847,Online,Lake Sandra,Iowa,Cook Islands,2021-05-03,12,394,1
+848,Store_848,Physical,North Stephen,Kentucky,British Indian Ocean Territory (Chagos Archipelago),2022-10-29,85,633,1
+849,Store_849,Online,South Gary,California,Falkland Islands (Malvinas),2024-07-06,99,796,1
+850,Store_850,Physical,Barbaratown,Michigan,Denmark,2017-04-10,41,885,0
+851,Store_851,Online,Lake Steventown,Idaho,Benin,2016-11-22,31,717,1
+852,Store_852,Online,South Ericburgh,South Dakota,Western Sahara,2017-02-19,49,504,1
+853,Store_853,Online,Lake Elizabeth,Iowa,Chad,2018-12-23,8,955,1
+854,Store_854,Physical,North Ricky,Tennessee,Samoa,2019-08-28,90,164,1
+855,Store_855,Online,Hendersonbury,North Carolina,United Kingdom,2021-01-14,94,362,1
+856,Store_856,Physical,West Michelle,Idaho,Guinea,2018-06-05,92,277,1
+857,Store_857,Physical,New Ryan,Georgia,Palau,2023-05-20,41,883,1
+858,Store_858,Physical,Davidtown,Illinois,Tokelau,2016-02-14,75,907,1
+859,Store_859,Online,Nelsonshire,New Hampshire,Wallis and Futuna,2020-03-16,37,294,1
+860,Store_860,Physical,South Michele,Idaho,Albania,2016-07-24,35,867,1
+861,Store_861,Physical,Johnsonmouth,South Carolina,Paraguay,2020-12-17,59,575,1
+862,Store_862,Physical,West Kristinstad,Kentucky,Saint Kitts and Nevis,2020-10-12,16,577,1
+863,Store_863,Online,North Lisaton,Nebraska,Guatemala,2022-07-25,15,999,1
+864,Store_864,Physical,Mejiaside,West Virginia,El Salvador,2018-07-27,92,476,1
+865,Store_865,Physical,Port Briannaton,Pennsylvania,Uzbekistan,2022-09-12,76,91,1
+866,Store_866,Physical,Colemanside,New Hampshire,Algeria,2024-06-20,36,514,1
+867,Store_867,Physical,Russellbury,Wyoming,Puerto Rico,2018-02-10,61,671,1
+868,Store_868,Online,Watsonmouth,Wisconsin,Rwanda,2024-10-03,42,327,1
+869,Store_869,Online,East Randy,Iowa,Ireland,2019-11-19,64,885,1
+870,Store_870,Physical,Tylerside,Delaware,Papua New Guinea,2021-12-05,90,68,1
+871,Store_871,Physical,Tracybury,Oregon,Pakistan,2021-09-30,23,115,1
+872,Store_872,Physical,Amyport,Kansas,Bahrain,2021-03-19,88,216,1
+873,Store_873,Physical,Port Randyton,Pennsylvania,Namibia,2017-10-03,60,634,1
+874,Store_874,Online,Jeanetteside,Tennessee,Turkmenistan,2024-03-06,18,452,1
+875,Store_875,Online,Port Tylerport,New Hampshire,Kiribati,2019-11-28,37,961,1
+876,Store_876,Online,New Garyburgh,New Hampshire,Gibraltar,2020-11-09,14,871,1
+877,Store_877,Online,South Nathaniel,Michigan,Malawi,2020-08-11,84,458,1
+878,Store_878,Physical,Ericaside,Mississippi,Tanzania,2019-01-28,68,161,1
+879,Store_879,Physical,South Jasmineburgh,New York,Montenegro,2017-09-11,68,323,1
+880,Store_880,Online,West Monicafurt,Maine,Haiti,2016-02-28,66,456,1
+881,Store_881,Online,Jenniferport,Connecticut,Russian Federation,2016-08-29,72,422,1
+882,Store_882,Physical,Zimmermanfort,Missouri,Monaco,2023-02-24,95,646,1
+883,Store_883,Physical,North Steven,New York,Zimbabwe,2020-08-03,96,700,1
+884,Store_884,Physical,Jonathanchester,North Dakota,Eritrea,2021-10-09,47,88,1
+885,Store_885,Physical,Levinebury,Arkansas,Ethiopia,2019-02-27,84,154,1
+886,Store_886,Physical,Lake Christinestad,Nebraska,Netherlands Antilles,2018-11-24,63,373,1
+887,Store_887,Online,Craigview,Tennessee,Wallis and Futuna,2017-06-22,56,842,1
+888,Store_888,Online,Kristinfurt,Alabama,Saint Kitts and Nevis,2017-05-19,23,463,1
+889,Store_889,Physical,Moniqueland,Alaska,Brazil,2020-05-16,25,478,1
+890,Store_890,Physical,Colemanfurt,Wyoming,Poland,2017-11-23,26,684,1
+891,Store_891,Online,Rossland,Massachusetts,Qatar,2019-01-29,13,779,1
+892,Store_892,Physical,Newmanland,Ohio,Isle of Man,2017-08-30,13,938,1
+893,Store_893,Online,Jonathanport,Nevada,Holy See (Vatican City State),2021-07-22,77,110,1
+894,Store_894,Online,Port Brittanyport,Nebraska,Svalbard & Jan Mayen Islands,2024-06-16,31,661,0
+895,Store_895,Online,Christophertown,Illinois,Micronesia,2022-04-18,21,356,1
+896,Store_896,Online,Hannahborough,Louisiana,Angola,2023-09-16,48,403,1
+897,Store_897,Physical,Lake Wesley,New Jersey,Gabon,2019-07-27,49,442,1
+898,Store_898,Physical,Deanfort,Oklahoma,Sri Lanka,2022-07-19,12,253,1
+899,Store_899,Online,Hammondtown,Idaho,Bolivia,2022-04-20,84,307,1
+900,Store_900,Physical,Fraziermouth,Nevada,Uruguay,2024-06-09,22,535,1
+901,Store_901,Physical,Michaelshire,Florida,Christmas Island,2024-03-30,37,566,1
+902,Store_902,Physical,Annview,Montana,Yemen,2022-10-27,5,495,1
+903,Store_903,Physical,Kingbury,Iowa,Andorra,2016-06-08,80,758,1
+904,Store_904,Online,Curtisshire,Virginia,Haiti,2017-08-02,10,229,1
+905,Store_905,Physical,Brownfurt,Michigan,Dominican Republic,2016-09-01,45,391,0
+906,Store_906,Online,West Michelleport,Pennsylvania,San Marino,2016-12-02,59,182,1
+907,Store_907,Online,North Shanemouth,New York,Latvia,2017-01-23,9,492,0
+908,Store_908,Physical,Nancyhaven,Indiana,Rwanda,2017-02-06,63,885,1
+909,Store_909,Online,West Gregorystad,Idaho,Romania,2024-05-05,84,302,1
+910,Store_910,Physical,New Vanessa,Massachusetts,Kiribati,2021-10-26,22,314,1
+911,Store_911,Physical,Youngchester,Vermont,Samoa,2018-10-06,53,142,1
+912,Store_912,Online,Gomezmouth,Utah,Wallis and Futuna,2021-07-28,86,711,1
+913,Store_913,Physical,Davidton,Texas,Micronesia,2017-08-01,69,460,1
+914,Store_914,Online,Swansonstad,West Virginia,Mexico,2018-06-06,87,187,1
+915,Store_915,Online,New Davidstad,South Dakota,Nicaragua,2021-03-15,58,257,1
+916,Store_916,Physical,Alexandrachester,Maine,Burundi,2023-05-06,65,686,1
+917,Store_917,Physical,Port Mariashire,Connecticut,Gabon,2018-03-22,12,795,1
+918,Store_918,Physical,West Kyleview,Arkansas,French Polynesia,2023-09-12,7,622,1
+919,Store_919,Online,South Erichaven,Pennsylvania,Kyrgyz Republic,2016-01-30,29,356,1
+920,Store_920,Physical,Bryanmouth,Nevada,Tunisia,2018-12-23,73,315,1
+921,Store_921,Online,Brownborough,New Hampshire,Peru,2023-11-27,59,695,1
+922,Store_922,Online,West Mike,Alaska,Montserrat,2023-02-23,44,367,1
+923,Store_923,Physical,New Williamfort,Kansas,Cayman Islands,2023-10-29,87,162,1
+924,Store_924,Physical,Williamchester,Idaho,Ireland,2017-05-30,86,950,1
+925,Store_925,Physical,Blankenshiptown,Mississippi,Martinique,2024-09-28,54,427,1
+926,Store_926,Online,North Jacquelineside,Colorado,Rwanda,2017-02-04,99,503,1
+927,Store_927,Physical,Colemanchester,Rhode Island,Faroe Islands,2022-07-08,37,240,1
+928,Store_928,Online,Amandaport,Tennessee,Anguilla,2020-05-07,22,940,1
+929,Store_929,Physical,West Adrianchester,Wyoming,Kuwait,2017-04-02,61,489,1
+930,Store_930,Physical,Lake Kaylaton,Kentucky,Macao,2020-02-25,20,236,0
+931,Store_931,Online,New Jenniferport,California,Swaziland,2019-03-02,84,880,1
+932,Store_932,Online,South Dennisside,California,Singapore,2018-04-04,42,416,1
+933,Store_933,Physical,West Williamburgh,Colorado,Thailand,2024-09-25,45,138,1
+934,Store_934,Physical,Davidbury,Ohio,Ethiopia,2021-10-26,11,236,1
+935,Store_935,Physical,Coopershire,Delaware,Saint Vincent and the Grenadines,2019-09-02,82,868,1
+936,Store_936,Physical,Austinhaven,Oregon,Burkina Faso,2017-10-31,57,995,1
+937,Store_937,Physical,Hilltown,Maryland,South Africa,2020-11-19,67,181,1
+938,Store_938,Online,Lake Deanna,Rhode Island,Estonia,2020-01-31,93,921,1
+939,Store_939,Online,Amyport,Arizona,Yemen,2017-12-14,36,684,1
+940,Store_940,Online,Melissatown,Kentucky,Korea,2022-10-01,42,609,1
+941,Store_941,Online,Richardmouth,Nebraska,Kenya,2017-01-24,26,849,1
+942,Store_942,Physical,Yateschester,Virginia,Norway,2019-07-17,20,425,1
+943,Store_943,Online,Luceroport,Mississippi,United Arab Emirates,2023-02-21,56,740,1
+944,Store_944,Online,West April,Kansas,United States Virgin Islands,2021-11-18,33,741,1
+945,Store_945,Online,Elizabethhaven,South Dakota,Malta,2019-03-27,20,148,1
+946,Store_946,Physical,Laurastad,Wyoming,India,2018-06-16,80,891,1
+947,Store_947,Online,Karenland,Wyoming,Brazil,2018-03-21,21,83,1
+948,Store_948,Physical,North Kim,Florida,Tonga,2021-02-20,68,981,1
+949,Store_949,Online,Port Georgemouth,South Carolina,Dominican Republic,2020-01-02,95,631,1
+950,Store_950,Physical,Fritzmouth,New York,Burundi,2021-03-04,93,220,1
+951,Store_951,Online,Nguyenville,California,El Salvador,2022-03-13,17,415,1
+952,Store_952,Physical,Dianafurt,Missouri,Antarctica (the territory South of 60 deg S),2023-03-11,76,833,1
+953,Store_953,Online,Port Dawnmouth,Wisconsin,Mauritius,2018-07-10,60,108,1
+954,Store_954,Physical,New Lauraburgh,South Dakota,Cayman Islands,2018-08-25,9,230,1
+955,Store_955,Physical,West Joanne,Maine,Antarctica (the territory South of 60 deg S),2023-12-23,16,68,1
+956,Store_956,Online,North Dana,Ohio,Turkmenistan,2020-01-04,45,275,1
+957,Store_957,Physical,New Dylan,Montana,Zimbabwe,2024-05-03,7,522,1
+958,Store_958,Physical,East Kimberly,Nebraska,Turks and Caicos Islands,2021-10-12,37,144,1
+959,Store_959,Online,Kellystad,Iowa,French Guiana,2023-06-09,90,930,0
+960,Store_960,Online,Andrewland,Louisiana,Germany,2019-11-28,54,346,1
+961,Store_961,Physical,North Nicholas,California,Brunei Darussalam,2017-03-24,60,642,1
+962,Store_962,Online,South Josephbury,Nevada,Mexico,2021-09-20,13,224,1
+963,Store_963,Online,New Vanessa,Oklahoma,Brazil,2019-08-24,86,271,1
+964,Store_964,Online,Lake Elizabeth,Oregon,Zambia,2019-04-15,54,664,0
+965,Store_965,Physical,New Nicole,Arizona,Canada,2022-05-15,33,103,1
+966,Store_966,Physical,Lake Julie,Nebraska,Greenland,2021-05-11,43,744,1
+967,Store_967,Physical,Brooksfort,North Dakota,El Salvador,2020-08-13,95,912,1
+968,Store_968,Physical,Sancheztown,Missouri,Kenya,2023-07-16,49,452,1
+969,Store_969,Physical,Richardsonville,New Jersey,Palestinian Territory,2020-03-02,21,367,1
+970,Store_970,Physical,Port Ralphhaven,Iowa,Wallis and Futuna,2016-06-02,60,916,1
+971,Store_971,Physical,Stevenfort,New Mexico,Kiribati,2017-01-03,50,398,1
+972,Store_972,Online,New Lori,Pennsylvania,Korea,2020-02-21,71,492,1
+973,Store_973,Physical,Kylefurt,Arkansas,Svalbard & Jan Mayen Islands,2020-07-10,73,882,1
+974,Store_974,Physical,West Laurenmouth,California,Vanuatu,2021-12-06,18,629,1
+975,Store_975,Online,Port Diana,Pennsylvania,Jersey,2021-08-24,71,589,1
+976,Store_976,Online,Port Feliciaview,North Dakota,Ecuador,2019-12-11,27,835,1
+977,Store_977,Online,New Sierra,Ohio,Isle of Man,2020-08-18,98,331,1
+978,Store_978,Physical,South Gregoryside,Nebraska,Mauritania,2018-05-31,65,409,1
+979,Store_979,Online,West Sabrinastad,Vermont,Myanmar,2016-07-11,27,964,1
+980,Store_980,Physical,West Natalie,Idaho,Uruguay,2019-10-15,31,872,1
+981,Store_981,Physical,Lake Pamela,Oregon,Saint Kitts and Nevis,2023-03-03,58,680,1
+982,Store_982,Physical,Spenceport,Montana,Korea,2022-03-07,14,941,1
+983,Store_983,Online,Elizabethbury,Maryland,Taiwan,2017-07-10,93,695,1
+984,Store_984,Online,South Isabelbury,Kansas,Poland,2016-02-23,81,690,1
+985,Store_985,Physical,Maddoxburgh,South Carolina,France,2020-07-05,20,57,1
+986,Store_986,Physical,East Michelle,Maryland,Papua New Guinea,2024-05-20,45,612,1
+987,Store_987,Physical,Gilbertport,Kansas,Isle of Man,2018-03-18,59,540,1
+988,Store_988,Online,North Amber,Indiana,Senegal,2020-06-19,65,390,0
+989,Store_989,Physical,Katherineland,Minnesota,Tokelau,2021-06-08,90,521,1
+990,Store_990,Online,Port Jamestown,Maine,Cambodia,2024-02-06,85,842,1
+991,Store_991,Physical,East Brittanyborough,Nebraska,Argentina,2019-05-31,91,736,1
+992,Store_992,Online,South Pattyborough,Nebraska,Germany,2021-10-11,53,744,1
+993,Store_993,Physical,Josephport,Minnesota,Norway,2024-10-10,77,753,1
+994,Store_994,Online,Elizabethstad,Louisiana,Turks and Caicos Islands,2025-01-08,56,298,1
+995,Store_995,Online,South Debbieborough,Rhode Island,United Arab Emirates,2022-05-18,6,284,0
+996,Store_996,Online,South Nicholas,North Dakota,Liechtenstein,2021-06-14,54,132,0
+997,Store_997,Online,Lovemouth,California,Turkey,2016-09-21,90,142,1
+998,Store_998,Online,Lorimouth,Rhode Island,Congo,2017-05-18,47,934,1
+999,Store_999,Online,Joneston,Oregon,Puerto Rico,2023-08-11,81,443,1
+1000,Store_1000,Physical,New Alishafurt,Ohio,Ghana,2021-01-13,12,873,1

@@ -1,0 +1,1001 @@
+product_id,product_name,brand,category,subcategory,base_cost,retail_price,warranty_months,launch_date,discontinued_flag
+1,Deal,Jones-Adams,TV,Midrange,720.86,1005.25,36,2020-06-26,1
+2,Deal,Pugh PLC,Accessories,Budget,793.61,330.73,24,2023-05-07,0
+3,Attorney,"Espinoza, Graves and Parker",Phones,Premium,96.14,516.93,24,2021-05-06,0
+4,Reality,"Patrick, Delgado and Dunlap",TV,Premium,712.18,1170.8,12,2023-05-31,0
+5,Thousand,Fowler and Sons,TV,Premium,437.06,470.52,36,2021-06-15,0
+6,Treat,Ross-Cobb,Accessories,Premium,729.89,426.14,36,2023-01-02,0
+7,Heavy,"Baker, James and Barrera",Phones,Premium,478.49,1110.03,24,2019-10-05,0
+8,Protect,Mayer LLC,Phones,Premium,546.58,221.82,36,2020-07-05,0
+9,Pm,Rodriguez PLC,TV,Premium,457.83,935.54,24,2023-06-25,0
+10,Receive,"Reed, Young and Clark",Laptops,Midrange,698.37,1186.87,24,2019-04-21,0
+11,So,Franklin and Sons,TV,Budget,600.43,1091.43,12,2020-01-20,0
+12,Voice,Choi LLC,TV,Premium,440.95,816.83,12,2024-01-31,0
+13,View,"Gray, Lopez and Diaz",TV,Midrange,701.12,445.47,12,2021-01-30,0
+14,Foot,Smith-Jefferson,TV,Midrange,233.96,379.75,24,2022-04-29,0
+15,Maintain,"Dyer, Hill and Rodriguez",Accessories,Budget,168.01,1001.18,36,2023-02-22,0
+16,Example,Owens-Freeman,Phones,Premium,170.3,1067.8,12,2020-11-24,0
+17,Machine,Drake PLC,Accessories,Budget,300.51,677.98,36,2022-12-20,0
+18,Young,Brady LLC,Accessories,Premium,229.02,368.77,12,2020-02-09,0
+19,School,"Jackson, Parker and Morgan",Accessories,Midrange,747.57,224.24,12,2022-09-20,0
+20,Member,Mckee-Gonzales,TV,Midrange,129.38,195.9,24,2022-05-17,1
+21,Approach,Thomas Inc,Laptops,Midrange,574.24,890.99,12,2019-01-22,0
+22,Page,Jones-Peterson,Phones,Midrange,191.92,562.13,12,2020-11-08,0
+23,Skill,Smith-Shepard,Laptops,Budget,711.23,1095.9,24,2020-09-02,0
+24,Forget,Hernandez Group,Accessories,Premium,770.99,913.64,36,2022-05-16,0
+25,Account,Lambert Inc,Accessories,Premium,399.1,310.39,12,2019-01-08,0
+26,Mouth,Singleton-Powers,Laptops,Budget,709.3,775.16,24,2020-12-02,0
+27,Add,"Foster, Smith and Medina",Laptops,Premium,53.86,579.06,12,2023-09-07,0
+28,Theory,"Blair, Lopez and Rice",Laptops,Midrange,664.96,734.97,24,2023-12-14,0
+29,Task,Myers LLC,Accessories,Premium,221.47,911.88,36,2020-06-12,1
+30,Three,Elliott-Tran,Accessories,Midrange,731.53,986.82,36,2020-08-24,0
+31,Yeah,Wood-Sharp,Phones,Budget,50.84,1028.11,24,2023-08-04,0
+32,Interest,Mayo-Rivera,Phones,Premium,467.14,379.37,24,2020-10-18,0
+33,Prepare,"Curtis, Simmons and Moore",Accessories,Budget,617.48,134.23,24,2019-06-15,0
+34,Create,King Group,Laptops,Premium,244.02,913.22,36,2021-04-28,0
+35,Commercial,Blanchard-Taylor,Laptops,Midrange,194.85,216.98,12,2020-05-10,0
+36,While,"Shepherd, Reyes and Acosta",Phones,Budget,113.07,446.41,36,2020-08-12,0
+37,Discussion,Edwards-Williams,Accessories,Premium,294.83,104.2,24,2020-03-04,0
+38,Represent,Carter-Smith,Phones,Midrange,469.88,849.84,24,2021-02-12,0
+39,Bit,Ortega and Sons,Phones,Budget,136.88,283.85,36,2019-06-12,0
+40,Sit,"Barnett, Boyle and Miranda",TV,Budget,332.52,820.81,24,2020-01-01,0
+41,Mother,Wright-Garcia,TV,Premium,56.8,1190.92,36,2023-03-30,0
+42,Impact,Mcdaniel-Gonzalez,TV,Premium,664.01,179.94,24,2022-06-16,0
+43,Whatever,"Ruiz, Summers and Alvarez",Laptops,Premium,146.34,184.79,12,2019-03-13,0
+44,On,"Larson, Rhodes and Klein",Accessories,Midrange,262.51,474.42,12,2023-01-08,0
+45,Major,Thompson-Jones,Accessories,Premium,63.82,1053.03,24,2020-10-16,0
+46,Good,Martinez PLC,Accessories,Budget,374.18,337.08,36,2024-01-20,0
+47,To,Fletcher-Johnson,Accessories,Budget,680.09,496.42,12,2023-03-13,0
+48,Section,Mason PLC,TV,Premium,344.11,175.36,36,2023-12-24,0
+49,Magazine,"Castro, Trujillo and Parker",Laptops,Premium,184.62,939.47,24,2019-09-26,0
+50,Forward,Mckinney Group,Laptops,Budget,615.27,549.14,36,2023-11-12,0
+51,Live,"Harris, Johnson and Perez",TV,Midrange,641.61,935.17,12,2020-02-19,0
+52,Student,"Anderson, Cline and Carlson",Laptops,Premium,180.32,1093.97,36,2022-06-22,0
+53,Catch,"Fischer, Vang and Cain",TV,Premium,628.14,356.04,36,2021-10-12,0
+54,Class,"Mccoy, Stephens and Anderson",Accessories,Budget,760.47,988.14,24,2020-11-05,0
+55,Lawyer,Olson-Cox,TV,Premium,174.78,165.0,24,2021-12-19,1
+56,No,Pham LLC,Accessories,Midrange,628.24,1088.73,24,2019-01-06,0
+57,Best,Collins-Nelson,Accessories,Budget,581.43,815.85,12,2023-09-29,0
+58,Case,Mcdonald-Santos,Phones,Premium,405.18,1061.65,12,2021-09-08,0
+59,Feel,Torres LLC,TV,Budget,93.44,100.21,24,2020-07-23,0
+60,Mind,Stevens PLC,Phones,Premium,106.02,285.99,24,2024-01-15,0
+61,Left,Green Inc,TV,Premium,689.31,528.74,12,2020-02-11,0
+62,Perhaps,Hernandez-Reeves,TV,Premium,792.61,517.45,12,2022-05-25,0
+63,Else,"Daniel, Scott and Hodges",Phones,Midrange,557.04,349.4,12,2024-05-07,0
+64,Open,Contreras PLC,Phones,Midrange,384.47,519.77,12,2019-01-26,1
+65,Would,"Hubbard, Huber and Mejia",TV,Budget,535.68,241.73,24,2024-01-13,0
+66,Garden,Graves LLC,Laptops,Premium,495.8,554.04,12,2021-10-25,0
+67,Run,"Green, Kramer and Navarro",Accessories,Premium,337.71,982.59,24,2021-09-12,0
+68,Those,"Maynard, Harris and Oliver",Phones,Midrange,99.22,626.98,36,2023-04-05,1
+69,Both,"Hardy, Burns and Bryant",Accessories,Premium,666.13,119.8,36,2020-01-25,0
+70,Worker,"Miranda, Johnson and Rocha",Laptops,Midrange,328.88,563.59,12,2020-12-10,0
+71,Wind,Sanders-Valencia,Laptops,Premium,664.09,129.89,36,2020-07-24,1
+72,Party,"Willis, Hendrix and Dixon",Laptops,Budget,239.38,1162.87,36,2023-01-11,0
+73,Foot,"Chapman, Rodriguez and French",Phones,Premium,50.77,240.2,36,2021-01-23,0
+74,Meet,"Cruz, Byrd and Mccoy",Laptops,Premium,169.2,878.46,12,2019-05-26,0
+75,Use,"Orozco, Travis and Harper",Phones,Midrange,401.4,1170.05,12,2022-11-12,0
+76,Nothing,Coleman-Heath,Laptops,Premium,758.23,1008.64,36,2021-02-23,0
+77,Stuff,Humphrey-Sutton,Accessories,Premium,126.65,869.25,24,2022-06-26,0
+78,Edge,Carroll-Ingram,Accessories,Midrange,690.66,1023.41,36,2020-06-09,1
+79,Owner,Hernandez PLC,TV,Budget,445.27,1179.98,12,2023-01-25,1
+80,Back,Davis PLC,Accessories,Budget,669.44,783.48,12,2019-01-13,0
+81,South,"Lewis, Alvarado and Miller",TV,Midrange,273.78,715.1,12,2021-06-21,0
+82,Same,Watson-Torres,Accessories,Midrange,679.96,791.06,36,2020-01-19,0
+83,Test,Curry PLC,Phones,Midrange,629.62,685.94,24,2020-07-09,0
+84,Second,"Perkins, Thompson and Stanley",Accessories,Midrange,222.54,798.6,12,2021-06-05,0
+85,Interview,Lewis-Collins,TV,Midrange,148.5,594.83,12,2022-11-23,0
+86,Animal,"Shaw, Welch and Beard",TV,Budget,701.04,340.29,36,2019-01-19,0
+87,Side,"Garza, Holland and Cline",Laptops,Budget,772.43,232.27,24,2020-07-28,0
+88,First,Rodriguez-Alexander,Phones,Midrange,73.48,175.18,36,2023-02-23,1
+89,Control,Freeman Inc,Accessories,Premium,598.45,389.65,12,2021-01-20,0
+90,Board,"Hester, Smith and Powers",Laptops,Midrange,732.14,150.74,24,2021-09-30,0
+91,Chance,Moore-Peterson,Accessories,Premium,693.02,723.89,24,2020-02-23,0
+92,Choice,Mckenzie Ltd,Accessories,Midrange,773.39,412.21,12,2022-09-22,0
+93,Accept,Hardy-Smith,Laptops,Midrange,620.07,1006.99,24,2020-02-23,0
+94,Top,Webb LLC,Laptops,Budget,381.72,181.66,24,2024-04-22,0
+95,Course,Charles-Bowen,Laptops,Premium,283.96,348.99,36,2024-04-23,0
+96,Half,"Rojas, Morrow and Ryan",Laptops,Premium,290.56,903.27,12,2023-06-24,0
+97,Technology,Allen Inc,Laptops,Budget,593.32,758.69,12,2023-08-26,0
+98,Consumer,Melendez PLC,Accessories,Budget,609.38,170.94,12,2024-05-05,0
+99,Rest,Summers-Bauer,Laptops,Budget,200.27,1064.96,12,2019-05-02,0
+100,You,"Carr, Sanders and Rice",Phones,Budget,701.09,1064.99,12,2020-03-07,1
+101,Imagine,Williams-Jackson,TV,Premium,586.19,463.45,24,2019-02-13,0
+102,Reflect,Byrd Group,Laptops,Premium,472.06,474.45,36,2024-03-10,1
+103,Continue,"Howell, Cox and Leonard",Laptops,Midrange,403.65,1187.93,12,2024-04-27,0
+104,Or,"Ponce, Gallegos and Torres",Accessories,Midrange,457.42,788.79,36,2022-09-02,1
+105,Every,Johnson-Cochran,Laptops,Budget,169.43,684.45,36,2020-01-16,0
+106,Like,Cook-Lee,Laptops,Budget,202.78,1021.97,24,2019-05-25,0
+107,Daughter,"Jenkins, Stafford and Leonard",Laptops,Budget,118.37,413.82,12,2022-09-12,0
+108,Boy,Gray Group,Accessories,Midrange,165.24,572.1,24,2019-12-29,0
+109,Mrs,"Dixon, Cruz and Hill",Laptops,Midrange,390.27,394.55,12,2021-12-09,0
+110,West,Espinoza-Williams,TV,Midrange,447.77,968.08,24,2021-12-24,0
+111,At,"Reese, Scott and Moreno",Accessories,Midrange,63.4,730.68,36,2019-12-21,0
+112,Specific,"Ortiz, Hogan and Wagner",TV,Midrange,647.6,824.71,12,2021-03-10,0
+113,Theory,"Hernandez, Shelton and Moore",Accessories,Midrange,270.63,377.54,36,2022-04-02,0
+114,Bed,Taylor Group,Laptops,Midrange,733.88,342.25,36,2022-03-10,0
+115,Present,White-Willis,TV,Budget,775.63,637.21,24,2024-06-12,0
+116,Million,Davis PLC,Accessories,Budget,189.09,911.32,12,2021-04-05,0
+117,Direction,Brown-Peck,Phones,Budget,396.57,677.76,36,2022-02-25,0
+118,Fast,Davis-Walker,Laptops,Budget,50.92,135.91,24,2020-02-02,0
+119,Movie,Cannon PLC,Accessories,Midrange,498.75,1055.41,12,2024-05-10,0
+120,Chance,"Hill, Lopez and Richard",Phones,Premium,505.48,171.16,12,2021-05-29,0
+121,Improve,Dominguez-Carney,Accessories,Midrange,235.65,1151.41,36,2020-04-07,1
+122,Drug,"Carter, Bowman and Garrison",Phones,Premium,468.81,127.66,12,2023-11-10,0
+123,Plant,"Stanton, Wood and Burns",Laptops,Budget,219.16,863.9,36,2024-02-03,0
+124,Protect,Taylor-Phillips,TV,Midrange,170.62,190.43,12,2021-03-18,0
+125,Experience,Haney-Patrick,Phones,Budget,538.64,1101.74,24,2019-07-06,0
+126,Bring,Jacobs-Durham,Accessories,Midrange,294.44,610.88,36,2023-10-10,0
+127,Technology,Webster Inc,Laptops,Budget,492.7,251.28,36,2021-01-01,0
+128,These,Cox PLC,Phones,Premium,374.94,474.9,12,2024-04-19,0
+129,People,Raymond-Marsh,Accessories,Premium,788.26,281.31,12,2022-04-28,0
+130,Medical,Thompson-Myers,Accessories,Premium,162.19,287.64,36,2022-11-12,0
+131,Share,Blevins Group,Accessories,Midrange,398.45,1142.92,12,2020-03-04,0
+132,Knowledge,Brown LLC,Phones,Premium,560.34,589.77,24,2021-05-07,0
+133,Star,Peterson-Moore,Phones,Midrange,346.66,967.68,12,2022-07-31,0
+134,Sound,Rodriguez-Jordan,Phones,Premium,781.02,803.57,24,2024-03-02,0
+135,Economic,"Gomez, Savage and Wyatt",TV,Premium,591.42,844.07,24,2019-08-25,0
+136,Drop,"Fox, Horton and Walker",Phones,Midrange,542.74,244.86,24,2022-05-02,1
+137,Pull,Jordan LLC,Phones,Midrange,617.79,357.6,24,2022-08-03,0
+138,Yard,"Summers, Brown and Marquez",Phones,Premium,764.49,965.43,24,2021-02-09,0
+139,Game,Ford-Allen,TV,Midrange,730.86,1167.84,12,2021-01-27,0
+140,Cover,Meadows-Macias,Phones,Premium,593.21,388.94,24,2019-05-16,0
+141,Moment,"Williams, Patterson and Johnson",Accessories,Midrange,611.87,398.73,12,2021-03-02,0
+142,Nature,"Young, Hicks and Krueger",Phones,Budget,159.44,620.19,24,2023-12-12,0
+143,Address,Smith-Harrison,Accessories,Budget,127.09,1182.22,36,2019-06-20,0
+144,Appear,Pacheco Group,Accessories,Budget,478.18,395.85,24,2019-06-08,0
+145,Blood,"Young, Harris and Hart",Accessories,Budget,63.78,547.67,36,2019-07-20,0
+146,Break,Riley-Mcbride,TV,Budget,411.77,1080.63,24,2023-02-19,1
+147,Alone,Pena-Chandler,TV,Premium,207.76,103.21,24,2023-04-30,0
+148,Way,Robinson PLC,TV,Budget,309.51,143.74,24,2021-08-19,0
+149,Significant,Meyers PLC,Phones,Budget,631.85,764.48,36,2023-12-05,0
+150,Begin,Lee-Santana,Accessories,Budget,755.93,1098.12,36,2020-08-05,0
+151,Season,Hughes-Strong,TV,Budget,104.31,362.74,24,2023-03-08,0
+152,Year,"Henry, Bradley and Clayton",TV,Midrange,450.68,616.61,12,2021-05-25,0
+153,Against,Ali and Sons,Phones,Premium,711.9,595.51,24,2020-01-06,0
+154,Loss,Lee Group,TV,Budget,111.88,620.27,36,2019-04-13,0
+155,Product,Rogers Group,Phones,Budget,668.39,784.77,24,2021-09-28,0
+156,Old,"Wilson, Hamilton and Cooper",Laptops,Budget,318.35,616.72,36,2022-02-22,0
+157,Commercial,Johnson-Campbell,TV,Premium,291.57,592.21,36,2022-08-29,0
+158,Nothing,Martinez-Wong,Laptops,Midrange,783.1,621.72,36,2021-09-02,1
+159,We,Norris Ltd,Phones,Premium,200.64,749.95,24,2021-03-08,0
+160,Little,Adams-Wright,Accessories,Midrange,569.9,690.71,36,2023-01-21,0
+161,However,Watson LLC,TV,Budget,666.08,1039.55,36,2022-06-07,0
+162,Smile,Young-Baker,Phones,Budget,80.89,154.45,24,2020-10-19,0
+163,Force,"Yates, Herrera and Hawkins",Accessories,Premium,552.79,1016.65,36,2021-05-31,0
+164,Member,"Buckley, Erickson and Bender",Accessories,Premium,763.66,1028.32,24,2022-05-05,0
+165,War,"Jordan, Campos and Pratt",Laptops,Midrange,143.16,413.4,36,2024-03-23,0
+166,Cell,Schultz-Miller,Phones,Midrange,722.17,609.14,12,2021-01-02,0
+167,East,"Peters, Blair and Fisher",Accessories,Premium,496.08,582.39,12,2020-02-27,0
+168,Popular,"Hodge, Taylor and Mcgrath",TV,Midrange,512.45,340.36,36,2020-07-25,0
+169,Until,Clark-Hawkins,TV,Premium,509.71,536.48,12,2023-06-22,0
+170,Forget,Terry and Sons,Laptops,Midrange,274.13,148.83,24,2019-06-20,0
+171,Most,Martinez PLC,Accessories,Premium,751.4,405.6,12,2022-11-06,0
+172,Now,Stewart-Watkins,Phones,Premium,760.51,998.35,36,2019-06-22,0
+173,Woman,Garza-Reynolds,TV,Premium,518.98,413.02,36,2020-10-24,0
+174,Protect,"Carter, Davis and Blake",Accessories,Midrange,637.57,1000.03,24,2020-03-28,0
+175,Approach,Peters-Lewis,Accessories,Midrange,509.19,684.76,36,2019-12-16,0
+176,Back,"Tucker, Perry and White",Laptops,Midrange,413.3,1067.85,24,2024-04-09,0
+177,Away,Moore Inc,TV,Premium,545.62,732.26,12,2024-05-29,0
+178,Book,"Cameron, Fisher and Carter",TV,Midrange,464.75,132.64,12,2023-07-16,0
+179,Seven,"Dean, Morrison and Clark",Phones,Midrange,498.11,842.96,24,2020-05-08,1
+180,Would,Jenkins Ltd,TV,Premium,637.87,149.34,24,2020-09-11,0
+181,Have,"Johnson, Brooks and Marshall",Phones,Budget,410.68,595.66,36,2021-10-24,0
+182,Responsibility,Morrison and Sons,TV,Premium,80.57,1122.37,12,2022-01-21,0
+183,Take,"Schneider, Haas and Smith",Laptops,Midrange,173.0,281.72,24,2021-07-07,0
+184,Executive,Thomas Inc,TV,Premium,378.96,528.86,12,2019-01-06,0
+185,Agreement,Moore Group,Phones,Budget,593.62,902.85,24,2019-10-15,1
+186,As,Christian-Bradford,Phones,Premium,494.96,1070.48,12,2023-06-30,0
+187,National,Singh Ltd,Laptops,Midrange,537.72,838.04,36,2022-03-15,0
+188,Affect,Watkins Group,TV,Budget,409.46,383.99,12,2023-12-12,0
+189,Work,Bailey-Hickman,TV,Midrange,511.81,842.07,12,2022-12-18,0
+190,Allow,Hall PLC,Laptops,Budget,296.76,426.4,12,2024-03-28,0
+191,Tell,Clay-Nash,TV,Budget,402.64,890.27,12,2020-08-30,0
+192,Security,Herrera-Bell,TV,Premium,608.21,1149.44,12,2020-04-01,0
+193,Most,"Gilbert, Wagner and Simmons",Phones,Premium,703.87,893.53,36,2023-10-31,0
+194,Either,Le Inc,TV,Midrange,375.24,1049.17,24,2022-05-10,0
+195,Civil,Walls Group,TV,Premium,82.75,102.31,12,2022-05-20,0
+196,Method,Kennedy PLC,Laptops,Premium,171.25,889.33,36,2021-10-26,0
+197,Reduce,Giles PLC,Laptops,Budget,65.65,1012.55,12,2020-09-15,0
+198,Glass,Martinez-Adams,Accessories,Premium,539.95,144.61,12,2020-01-11,0
+199,Store,"Carroll, Jones and Hall",Phones,Budget,299.24,1058.76,24,2024-03-29,0
+200,Land,Alvarez and Sons,TV,Budget,456.86,382.36,12,2020-03-22,0
+201,For,"Wilcox, Campbell and Harper",TV,Budget,419.96,831.82,36,2021-04-14,0
+202,Test,Hernandez-Reed,Accessories,Midrange,111.14,980.39,36,2022-02-03,0
+203,Leader,Howell Ltd,TV,Midrange,352.45,828.93,24,2023-08-02,0
+204,Lay,"Patel, Smith and Harrison",Phones,Midrange,215.42,201.51,12,2021-03-21,0
+205,Occur,Brown Inc,Accessories,Budget,363.8,755.95,36,2022-11-25,0
+206,Hospital,Soto and Sons,Phones,Midrange,202.68,704.54,12,2022-01-24,0
+207,Wide,"Ross, Barnes and Davis",Accessories,Midrange,680.34,1090.35,12,2022-11-12,0
+208,Although,Kerr Group,Accessories,Premium,180.65,544.66,12,2021-08-16,0
+209,Game,"Dawson, Morse and Ward",Laptops,Midrange,770.59,453.19,24,2023-01-15,0
+210,Skill,Martin-Moore,Phones,Midrange,361.93,924.84,12,2021-04-28,0
+211,Officer,Gray-Smith,TV,Budget,684.68,553.94,36,2021-03-19,0
+212,President,"Griffin, Jones and Rodriguez",TV,Budget,521.57,810.71,12,2021-09-05,0
+213,War,Jones-Li,Phones,Budget,601.51,811.1,36,2024-04-08,0
+214,Lawyer,Foster LLC,TV,Budget,625.79,1076.84,12,2020-02-20,0
+215,Month,Estrada-Knight,TV,Budget,428.63,758.56,36,2020-12-26,0
+216,Finally,Reynolds-Wallace,Phones,Budget,457.48,652.37,36,2023-03-08,0
+217,Will,Kim-Vega,Accessories,Midrange,435.5,252.76,12,2020-03-29,0
+218,Hotel,Banks Group,Phones,Budget,491.04,227.31,12,2022-08-07,0
+219,Clear,"Miller, Huynh and Miller",Accessories,Budget,72.05,269.75,36,2023-04-07,0
+220,Control,Anderson-Rojas,TV,Premium,346.64,289.03,24,2022-05-01,0
+221,Near,Sullivan PLC,TV,Midrange,504.64,801.66,12,2019-05-30,0
+222,Try,Johnson Ltd,TV,Midrange,498.29,915.08,24,2024-03-18,0
+223,Shoulder,Wolf Group,Laptops,Midrange,644.72,682.99,12,2021-01-28,0
+224,Information,"Lopez, Hicks and Hamilton",Accessories,Budget,541.26,1011.92,12,2021-02-17,0
+225,Nothing,Campos Group,Laptops,Budget,794.1,1190.39,12,2021-08-30,0
+226,Better,Hawkins Ltd,Laptops,Budget,262.89,1002.01,12,2021-02-01,0
+227,Marriage,"Reed, Clark and Butler",Phones,Premium,319.36,864.37,24,2021-09-28,0
+228,Opportunity,"Robertson, Estes and Woodward",Laptops,Budget,337.89,685.74,12,2023-03-19,0
+229,Pick,Beck Ltd,Phones,Premium,399.36,593.74,36,2022-11-17,0
+230,Necessary,Ferrell-Ho,Phones,Midrange,677.0,192.83,36,2022-09-01,0
+231,Choice,Anderson-Maynard,Laptops,Budget,226.84,539.31,24,2019-03-17,0
+232,Receive,Brown-Bell,Accessories,Premium,632.0,1101.15,12,2020-08-21,0
+233,Evidence,Brown Ltd,Accessories,Premium,353.98,988.82,36,2022-07-17,0
+234,Leg,Holmes-Roth,Accessories,Budget,501.39,337.66,24,2019-08-13,0
+235,Task,Porter LLC,Accessories,Midrange,524.41,613.27,12,2023-04-03,0
+236,Light,"Kent, Day and Taylor",Accessories,Midrange,329.64,998.4,36,2019-04-23,0
+237,Production,Rogers PLC,Laptops,Midrange,434.46,174.12,36,2019-09-08,0
+238,Push,"Mccann, Frost and Garrett",Laptops,Premium,359.77,526.13,24,2022-06-10,0
+239,Draw,Lynch-Harris,TV,Premium,101.85,1037.03,12,2021-04-20,0
+240,President,"Jackson, Mahoney and White",Accessories,Premium,377.87,544.29,12,2023-12-20,0
+241,Area,Bryan Ltd,Laptops,Premium,123.05,185.38,36,2020-12-14,0
+242,Instead,"Bennett, Mcintyre and Johnson",TV,Midrange,353.77,696.79,36,2022-01-11,0
+243,Among,"Richard, Castro and Zimmerman",Accessories,Budget,494.69,1047.92,36,2019-05-05,0
+244,Real,Cook-Zhang,Phones,Premium,484.56,749.31,12,2022-04-13,0
+245,Person,Davis LLC,TV,Premium,546.97,348.91,24,2021-12-28,0
+246,With,"Galloway, Rodriguez and Garcia",Laptops,Midrange,121.45,522.66,24,2021-12-06,0
+247,Politics,Thomas Group,Phones,Budget,539.09,595.14,12,2021-06-02,0
+248,Statement,Gomez Group,Phones,Budget,284.11,737.19,24,2022-07-03,1
+249,Fine,"Watson, Marshall and Ortiz",Phones,Midrange,349.28,935.29,36,2023-10-17,0
+250,Statement,Sutton-Simmons,TV,Midrange,693.49,208.76,24,2019-01-30,0
+251,Office,Cervantes-Cannon,Laptops,Budget,56.77,1078.62,24,2019-10-08,0
+252,None,"Davis, Clark and Keith",Phones,Premium,491.31,113.54,24,2021-07-12,0
+253,Store,"Benjamin, Riley and Smith",Accessories,Budget,499.04,507.06,36,2022-06-14,1
+254,Parent,Paul LLC,Phones,Midrange,347.49,130.16,12,2022-06-25,0
+255,Like,Estrada PLC,Phones,Premium,227.77,532.27,36,2020-01-03,0
+256,Large,"Elliott, Fox and Graham",TV,Premium,226.01,678.39,12,2020-05-09,0
+257,Into,Delacruz PLC,TV,Midrange,712.78,662.85,12,2021-11-14,1
+258,Rather,Smith-Ross,Laptops,Midrange,381.52,282.19,12,2023-05-29,0
+259,Security,Decker-Ruiz,Accessories,Midrange,298.17,810.31,24,2020-12-18,0
+260,Production,Morales-Wagner,TV,Budget,386.58,149.26,24,2023-02-22,0
+261,Easy,"Vasquez, Cortez and Hubbard",Phones,Budget,552.04,938.1,12,2021-10-13,0
+262,Guess,"Morrison, Holloway and Atkinson",Laptops,Premium,159.32,1141.31,12,2023-02-26,0
+263,Speech,Miller-Ross,Phones,Midrange,387.08,473.75,24,2022-08-30,0
+264,Financial,Ross-Jones,Phones,Premium,490.91,668.96,36,2020-08-28,0
+265,Good,"Williams, Simpson and Long",TV,Premium,761.44,516.8,12,2020-01-10,0
+266,Huge,Morton-Boyer,Laptops,Premium,239.4,107.38,36,2020-09-30,0
+267,Response,Smith Ltd,Accessories,Premium,319.44,524.46,24,2024-05-14,0
+268,Talk,"Garrett, Nunez and Wilson",Accessories,Midrange,334.52,970.89,12,2021-11-14,0
+269,But,Freeman Ltd,TV,Premium,504.15,755.59,36,2022-09-19,1
+270,Score,Villarreal-Fritz,TV,Midrange,317.55,211.39,36,2022-10-10,0
+271,Specific,Johnson-Shannon,Laptops,Midrange,450.13,1031.85,36,2019-04-26,0
+272,Name,Martin and Sons,Accessories,Budget,636.34,684.19,24,2019-02-17,0
+273,Democratic,Shannon LLC,Accessories,Midrange,579.04,1025.9,24,2023-10-28,0
+274,Population,Burton-Cummings,Accessories,Budget,384.78,738.24,36,2023-12-07,0
+275,Those,"Freeman, Lara and Cruz",Phones,Midrange,698.16,715.66,36,2019-04-09,0
+276,Walk,Meyer Inc,Accessories,Midrange,468.61,215.79,24,2023-01-22,0
+277,None,"Sloan, Bowers and Lindsey",Phones,Midrange,454.93,284.1,36,2023-03-27,0
+278,Style,Smith Group,Laptops,Budget,75.64,1169.23,36,2023-06-09,0
+279,Executive,Bauer and Sons,Phones,Budget,790.02,351.34,24,2020-02-09,0
+280,Both,"Gomez, Smith and Kelly",Laptops,Premium,142.23,1175.2,36,2022-05-22,0
+281,Worry,Gutierrez PLC,Accessories,Budget,223.35,685.1,36,2020-11-15,1
+282,Recent,Poole-Cook,Accessories,Budget,88.77,249.37,36,2021-06-21,0
+283,Time,"Rivera, Hayes and Stewart",Laptops,Budget,530.0,209.23,24,2020-05-17,0
+284,Attention,"Vargas, Ryan and Wilson",TV,Budget,218.53,329.75,36,2023-10-11,0
+285,Treatment,"Camacho, Kramer and Kane",Laptops,Premium,185.01,1118.2,24,2023-01-11,0
+286,Feeling,Gibson-Beck,TV,Budget,116.42,555.57,24,2021-06-12,0
+287,Explain,Conner-Moreno,Phones,Midrange,127.48,534.98,12,2023-05-19,0
+288,Campaign,White and Sons,Phones,Midrange,488.5,444.53,12,2019-09-15,0
+289,Everybody,Williams-Lynn,Phones,Budget,566.16,261.77,36,2021-04-23,0
+290,Might,Thomas PLC,Accessories,Budget,348.03,636.64,24,2019-05-01,0
+291,Authority,"Villa, Owens and Fisher",Phones,Midrange,409.92,243.05,12,2021-03-20,0
+292,Rock,Nelson-Valenzuela,TV,Midrange,564.48,1019.03,36,2021-09-04,1
+293,Look,Brock and Sons,Phones,Premium,63.03,507.44,12,2019-02-23,0
+294,Always,Orozco-Buck,Laptops,Midrange,292.35,512.28,12,2021-10-15,0
+295,Material,"Davidson, Best and Foster",Laptops,Midrange,779.82,621.41,24,2022-09-16,0
+296,Appear,Chaney and Sons,Accessories,Budget,485.08,588.54,24,2021-02-22,0
+297,Short,Cunningham and Sons,Laptops,Midrange,240.67,1194.34,12,2019-08-29,0
+298,Usually,"Hinton, Glover and Williams",TV,Premium,441.3,699.92,12,2023-11-14,0
+299,Since,"Leonard, Chen and Donaldson",Phones,Midrange,306.99,197.02,24,2023-04-03,1
+300,Great,"Rivera, Santana and Harrington",Accessories,Budget,449.18,767.57,36,2020-04-27,0
+301,Hair,Leon Inc,Phones,Budget,144.31,266.74,24,2021-10-09,0
+302,Even,Beasley Ltd,Phones,Midrange,149.54,134.03,12,2019-07-06,0
+303,Open,"Fletcher, Moore and Johnson",TV,Budget,157.66,1167.82,36,2024-02-25,1
+304,Test,"Young, Smith and Wilkins",Laptops,Premium,754.86,950.89,12,2020-10-17,0
+305,Energy,Jensen-Martinez,Laptops,Premium,599.67,1178.12,36,2019-09-19,0
+306,Chance,"Martinez, Torres and Garner",Phones,Midrange,171.79,625.67,12,2021-08-10,0
+307,Operation,Hunter-Davis,Accessories,Midrange,191.26,685.48,36,2022-10-19,0
+308,One,Fox LLC,Laptops,Midrange,598.12,285.17,36,2020-05-05,0
+309,Final,Lambert-Phillips,Accessories,Budget,167.12,371.6,12,2020-03-06,0
+310,Together,Richardson-Reynolds,Laptops,Premium,225.92,1022.4,36,2019-08-27,0
+311,Create,Owens PLC,Accessories,Premium,772.51,491.8,24,2019-10-31,0
+312,Book,"Webb, King and Sexton",TV,Budget,241.48,1009.5,12,2019-10-25,0
+313,Ready,"Erickson, Lee and Fitzgerald",Accessories,Premium,546.22,879.92,24,2019-03-17,0
+314,Catch,"Ponce, Grant and Berry",TV,Midrange,783.97,294.89,12,2023-09-20,0
+315,Recent,"Juarez, Cabrera and Wilson",TV,Midrange,330.72,658.19,36,2022-09-18,0
+316,Far,"Weber, Ortiz and Barry",Accessories,Midrange,63.14,845.13,36,2024-04-07,0
+317,Stage,Obrien-Frey,TV,Premium,233.11,358.54,36,2021-09-25,0
+318,End,Clay-Watson,Phones,Midrange,673.16,1013.76,12,2023-11-17,0
+319,I,"Olson, Ramos and Gutierrez",TV,Budget,698.46,699.31,24,2020-10-03,1
+320,Compare,Stanton-Sanchez,Laptops,Budget,626.39,281.77,24,2023-02-06,0
+321,Camera,"Wilkinson, Mills and Sanchez",Accessories,Premium,134.83,741.28,12,2021-04-06,0
+322,Impact,Gallagher-Jones,Phones,Budget,646.63,1199.69,12,2024-04-30,0
+323,Quickly,Vargas-Franklin,Accessories,Budget,739.01,265.57,24,2019-10-10,0
+324,Before,Edwards-Castro,Laptops,Premium,500.46,998.43,24,2020-08-13,1
+325,Response,Reynolds-Hebert,Laptops,Midrange,755.66,328.04,24,2019-03-13,0
+326,Knowledge,Jennings Group,Laptops,Midrange,670.13,960.63,24,2022-07-10,0
+327,Turn,Mitchell-Chan,TV,Midrange,550.23,908.04,12,2020-12-03,0
+328,Read,"Nelson, Hardy and Garcia",TV,Premium,482.89,430.54,12,2024-03-17,0
+329,Across,Duarte-Gonzalez,Accessories,Budget,311.43,458.41,36,2024-03-25,0
+330,Level,White Group,Accessories,Midrange,169.47,971.77,24,2024-05-19,0
+331,Let,Hawkins-Cantu,Phones,Midrange,503.72,607.59,36,2020-07-28,0
+332,Option,Strickland-Olson,Phones,Premium,288.58,903.9,12,2021-09-26,1
+333,Official,Hart-Silva,Accessories,Midrange,699.83,262.78,12,2021-06-10,0
+334,Thousand,Romero-James,TV,Premium,795.0,1037.81,36,2019-01-12,0
+335,Loss,Jones Inc,Laptops,Budget,614.32,881.97,24,2019-05-21,0
+336,Painting,Brooks-Mckee,Accessories,Premium,117.86,1097.64,24,2023-11-25,0
+337,Control,Brown-Beltran,Phones,Premium,266.51,245.61,24,2023-04-28,0
+338,Hundred,Bradley-Morrow,TV,Premium,131.83,752.32,24,2019-01-17,0
+339,Thing,Hardy Ltd,Accessories,Premium,537.88,759.03,36,2021-12-22,0
+340,Happen,Whitney-Martinez,Accessories,Budget,623.89,488.81,36,2019-09-10,0
+341,Only,Lopez-Combs,TV,Budget,744.26,604.31,12,2020-04-09,0
+342,Sister,Peters-Harris,Accessories,Midrange,378.63,141.78,24,2020-01-11,0
+343,Answer,Vargas-Campos,TV,Budget,726.03,920.45,24,2024-01-02,0
+344,Deal,"Williams, Huffman and Anderson",Laptops,Budget,708.42,704.25,24,2021-09-07,1
+345,Society,Navarro and Sons,TV,Midrange,287.9,163.52,36,2020-06-03,1
+346,And,Durham Group,TV,Budget,701.68,848.83,24,2024-02-04,1
+347,Another,Scott-Gregory,TV,Premium,331.75,613.46,36,2019-03-31,0
+348,Yeah,"Chen, Werner and Ayers",Accessories,Premium,272.65,137.91,24,2020-12-20,0
+349,Real,Johnson Group,Accessories,Midrange,536.81,1166.57,24,2021-03-14,0
+350,Bank,Fuentes Inc,TV,Midrange,296.29,1144.02,12,2021-03-06,1
+351,Station,"Jackson, Campbell and Pratt",Accessories,Midrange,522.66,664.19,24,2020-09-21,0
+352,Front,Oneal Inc,Phones,Premium,507.37,203.04,24,2024-02-28,0
+353,Effort,"Lawrence, Hess and Morales",Phones,Budget,472.58,930.08,12,2022-04-13,0
+354,Later,Smith LLC,Accessories,Premium,335.31,641.12,36,2019-03-17,0
+355,Stop,Ryan-Shannon,Accessories,Midrange,461.37,432.69,36,2023-06-25,0
+356,Always,"Mcintosh, Brown and Lucas",TV,Budget,497.36,640.56,24,2021-07-14,0
+357,Experience,"Mason, Williams and Richardson",Laptops,Budget,459.27,674.69,36,2023-08-14,0
+358,Church,Garner-Smith,Accessories,Premium,383.31,718.98,24,2020-02-04,0
+359,Minute,Cohen-Strickland,Phones,Midrange,61.0,585.35,12,2023-12-11,0
+360,Majority,Alexander-Nelson,TV,Premium,490.3,766.33,12,2021-08-27,0
+361,You,Griffin LLC,Accessories,Budget,176.33,1110.61,24,2021-12-30,0
+362,Pick,"Pham, Hancock and Moore",Phones,Premium,531.93,498.49,12,2022-04-18,0
+363,Term,Freeman LLC,Phones,Premium,619.51,898.29,12,2022-02-21,0
+364,Sound,Brennan and Sons,Laptops,Midrange,425.33,1083.9,24,2022-11-05,0
+365,Act,Buckley-Clark,TV,Midrange,456.77,601.58,24,2022-08-09,1
+366,Former,Holland-Moore,TV,Budget,763.61,587.8,12,2021-03-07,0
+367,Hit,"Adams, Norton and White",Laptops,Premium,685.38,762.33,36,2019-07-14,1
+368,Herself,Ruiz Group,Laptops,Premium,735.68,750.55,36,2024-04-18,1
+369,Herself,"Molina, Morris and Webb",TV,Premium,660.32,987.25,24,2019-08-16,0
+370,Beat,Hall-Burns,TV,Budget,131.69,624.13,24,2022-12-25,0
+371,Its,"Stark, Fleming and Pruitt",Accessories,Budget,161.74,1195.74,36,2024-05-19,0
+372,More,Warner-Joseph,Accessories,Midrange,444.97,165.42,12,2022-12-30,0
+373,Scene,"Mcintosh, Osborne and Ross",Laptops,Midrange,234.55,103.48,36,2023-12-16,0
+374,Him,Morris-Salazar,Accessories,Midrange,407.52,804.22,36,2020-04-05,0
+375,Writer,Chung Group,Phones,Premium,345.77,428.28,36,2020-09-09,0
+376,Create,Reyes and Sons,Accessories,Premium,462.06,364.42,36,2021-11-10,0
+377,Week,Greene-Martin,Accessories,Midrange,610.16,443.09,24,2019-03-05,0
+378,Hospital,Taylor-Moody,Phones,Premium,586.62,381.65,24,2019-06-14,0
+379,Form,Grimes-Mcbride,Laptops,Midrange,440.93,133.87,12,2019-01-27,0
+380,Usually,Crawford Inc,Phones,Budget,666.8,1168.69,12,2022-08-27,0
+381,Debate,Edwards-Hansen,Accessories,Midrange,373.15,342.82,12,2021-10-08,0
+382,Network,Horton Inc,Laptops,Budget,722.54,907.43,12,2019-10-12,0
+383,Town,Reyes-Barron,Accessories,Premium,103.46,938.86,36,2023-08-11,0
+384,Feeling,York Ltd,Phones,Midrange,766.0,1122.18,24,2019-10-08,0
+385,Sense,"Landry, Romero and Murray",Phones,Premium,541.02,133.6,24,2021-04-17,0
+386,Serious,"Jackson, Mcdonald and Olson",Accessories,Budget,335.06,1059.25,12,2021-04-10,0
+387,Law,"Crawford, Wilkerson and Wagner",TV,Budget,197.87,679.95,12,2022-04-02,0
+388,Ever,"Scott, Fitzpatrick and Stewart",TV,Budget,409.39,795.8,36,2024-04-05,0
+389,Choice,"Franklin, Grant and Hobbs",Phones,Premium,195.92,808.92,36,2021-07-06,0
+390,Point,Petersen-Bell,Phones,Premium,174.75,1001.78,12,2019-08-12,0
+391,Per,Gill and Sons,TV,Premium,513.01,466.75,24,2021-02-22,0
+392,Movie,Clark Ltd,TV,Premium,442.31,906.36,24,2022-03-15,0
+393,Consumer,"Norris, Stevenson and Hoffman",Accessories,Budget,552.57,681.44,24,2021-08-22,0
+394,Speak,Daniel Inc,Accessories,Budget,747.2,972.73,12,2021-08-07,1
+395,Option,Henry Group,TV,Midrange,449.2,1189.6,24,2024-03-06,0
+396,Role,Galvan-Buchanan,Accessories,Midrange,485.7,320.72,36,2021-11-19,0
+397,Two,Coffey-Hendrix,Accessories,Premium,117.22,1194.11,36,2019-02-14,0
+398,Lead,Scott Ltd,Laptops,Budget,588.23,198.79,12,2023-12-16,0
+399,None,Morrison-Glover,Accessories,Budget,349.93,102.55,36,2020-04-15,0
+400,Forward,"Jenkins, Joseph and Mcguire",Phones,Budget,782.54,148.58,12,2019-02-03,0
+401,Catch,Smith PLC,Accessories,Midrange,667.38,475.96,24,2020-10-14,0
+402,Large,Martin-Dorsey,Accessories,Midrange,441.86,796.2,24,2022-12-21,0
+403,Prevent,Navarro-Martinez,TV,Budget,142.42,175.93,24,2021-04-09,0
+404,Ago,"Patterson, Lawrence and Todd",Phones,Budget,694.56,106.23,36,2024-03-24,0
+405,Black,Rice and Sons,Accessories,Budget,649.84,1130.8,12,2019-08-09,0
+406,Best,"Wagner, Gates and Owens",Accessories,Midrange,188.44,1004.12,24,2024-03-06,0
+407,Sing,Bailey Inc,Laptops,Budget,271.46,990.1,12,2020-06-17,0
+408,From,Dorsey LLC,Accessories,Budget,645.06,1072.87,24,2020-11-22,0
+409,Institution,"Lutz, Perez and Lopez",Accessories,Premium,188.92,870.04,36,2024-05-25,0
+410,Measure,Brown-Liu,Laptops,Premium,738.31,214.84,36,2022-10-22,0
+411,Floor,"Ruiz, Fuentes and Hayes",TV,Midrange,368.4,539.01,12,2021-07-20,0
+412,Least,"Oconnell, Curtis and Duarte",Accessories,Budget,115.28,895.46,36,2021-04-20,0
+413,Life,"Davenport, Davis and Martinez",Laptops,Budget,661.81,408.37,36,2023-11-02,0
+414,Shoulder,Vaughn-Lopez,Phones,Premium,330.13,856.15,12,2021-10-07,0
+415,Decision,Foster Group,TV,Midrange,444.87,126.95,24,2024-04-22,0
+416,Collection,Russell-Bryan,Phones,Premium,134.23,436.75,36,2023-04-23,0
+417,Training,Washington-Johnson,Phones,Premium,51.94,704.04,12,2020-08-04,0
+418,With,Jones-Collins,Laptops,Premium,528.49,795.3,36,2022-02-13,0
+419,Letter,"Lynn, Garner and Hughes",Accessories,Premium,436.38,734.74,36,2019-08-27,0
+420,Early,Frey-Johnson,Laptops,Budget,495.15,867.53,36,2022-09-20,0
+421,Which,"Norton, Miller and Wright",Laptops,Budget,645.31,106.7,36,2020-03-16,0
+422,Make,"Summers, Rice and Graham",Laptops,Premium,534.95,211.04,12,2019-05-28,0
+423,Better,"Kennedy, Rivera and Maxwell",Laptops,Midrange,181.08,1055.84,12,2021-10-29,1
+424,Traditional,Alexander Group,TV,Midrange,320.58,849.92,12,2022-08-04,0
+425,Continue,"Galvan, Pierce and Golden",Accessories,Midrange,729.42,224.22,36,2020-01-23,0
+426,Available,Harris-Jones,Phones,Midrange,627.46,1026.28,36,2021-12-09,0
+427,List,Hess-Allen,Phones,Premium,467.48,366.45,36,2024-02-17,0
+428,Respond,Willis-Mcintyre,Accessories,Budget,241.73,626.09,12,2023-03-21,0
+429,Land,Garcia and Sons,Phones,Midrange,276.55,259.72,36,2021-07-04,0
+430,Full,Delgado Inc,Accessories,Premium,598.97,881.12,24,2024-02-22,0
+431,Former,"Reynolds, Greer and Kerr",Phones,Midrange,688.38,833.54,36,2020-09-29,0
+432,Dark,Pratt Inc,Laptops,Midrange,553.57,332.22,24,2023-05-30,0
+433,Contain,Clark Inc,Phones,Premium,657.15,1049.74,36,2023-08-28,0
+434,Across,Weaver Ltd,Accessories,Budget,624.99,541.44,12,2019-10-05,0
+435,Life,"Alexander, Saunders and Jones",Accessories,Budget,162.28,421.77,36,2024-05-31,0
+436,Before,"Mosley, Cain and Hill",Accessories,Premium,367.96,267.56,24,2024-02-03,0
+437,Film,Steele-Sanchez,Accessories,Budget,164.74,392.78,24,2021-09-15,0
+438,Show,"Arnold, Jackson and Munoz",Accessories,Premium,226.43,124.23,36,2022-08-16,0
+439,Everyone,Henson LLC,TV,Premium,701.94,741.58,24,2023-12-31,0
+440,Walk,Smith LLC,TV,Premium,404.67,1026.45,24,2020-08-11,0
+441,True,"Evans, Erickson and Sanchez",Phones,Budget,451.52,703.88,12,2024-01-08,0
+442,Impact,Flores Ltd,Accessories,Premium,183.83,341.2,36,2020-10-10,0
+443,Difficult,"Anderson, Brown and Gardner",Phones,Midrange,284.2,137.04,36,2020-09-09,0
+444,Sort,"White, Kennedy and Marquez",Accessories,Budget,222.68,336.09,36,2023-06-19,0
+445,Clearly,"Perkins, Turner and Armstrong",Accessories,Budget,204.64,557.73,24,2019-05-15,0
+446,Mr,Jackson LLC,TV,Budget,528.47,935.57,36,2020-08-02,0
+447,Detail,Williams Ltd,TV,Budget,242.66,306.63,36,2022-03-16,0
+448,Letter,"Flores, Martinez and Nguyen",Laptops,Midrange,524.01,891.77,12,2020-05-04,0
+449,Oil,Santana PLC,TV,Budget,93.84,1053.63,12,2020-04-22,0
+450,Group,Arnold LLC,Laptops,Budget,156.33,599.34,12,2022-03-28,0
+451,Trial,Hall LLC,Laptops,Premium,255.91,1003.58,24,2020-01-19,0
+452,Point,"Taylor, Dunn and Gomez",Laptops,Budget,497.79,710.12,36,2019-06-12,1
+453,Charge,"Carter, Velasquez and Ochoa",Laptops,Midrange,556.88,800.8,12,2020-03-16,0
+454,Early,"Hickman, Mayo and Chase",Laptops,Midrange,382.04,678.91,12,2024-02-20,0
+455,Into,Brown Group,Phones,Midrange,384.34,609.49,12,2022-04-27,1
+456,Writer,Martinez-Gilbert,TV,Midrange,593.39,358.12,36,2020-02-19,0
+457,Large,"Phillips, Diaz and Owens",Laptops,Budget,61.87,433.51,36,2022-09-24,1
+458,Major,Rogers LLC,Accessories,Budget,305.82,418.97,36,2023-06-19,1
+459,Money,"Delacruz, Grant and Patel",TV,Midrange,664.03,719.62,24,2022-04-19,0
+460,Model,Williams-Stanton,TV,Midrange,502.41,231.95,24,2019-10-15,0
+461,Impact,Nelson and Sons,Laptops,Budget,302.92,1108.47,12,2024-02-01,0
+462,Administration,Huang-Robinson,Phones,Midrange,729.14,892.72,36,2019-07-06,0
+463,Each,Hawkins-Mcconnell,Laptops,Premium,629.47,541.59,12,2024-03-22,0
+464,Simple,"Jordan, Johnson and Rivera",Phones,Midrange,248.67,274.49,36,2022-03-07,0
+465,Dark,"Torres, Davis and Conley",Accessories,Midrange,533.97,1070.19,36,2019-05-10,0
+466,Particular,Frye-Wagner,TV,Premium,496.81,1006.16,36,2019-07-13,0
+467,Official,"Simon, Harris and Hammond",Accessories,Premium,350.89,893.89,24,2019-11-12,1
+468,Success,Guerrero-Campbell,Phones,Budget,325.22,398.7,24,2023-12-14,0
+469,Near,Rojas Ltd,Phones,Budget,307.67,542.69,36,2024-03-02,0
+470,Suffer,"Sandoval, Knight and Leblanc",Accessories,Premium,512.87,213.02,12,2019-05-24,0
+471,Employee,"Jackson, Reynolds and Powell",Phones,Premium,381.81,307.94,36,2019-01-16,0
+472,Ever,"Williams, Spencer and Harris",Accessories,Budget,673.9,961.32,36,2022-08-18,0
+473,Room,Taylor-Griffith,TV,Midrange,552.2,886.54,12,2020-02-27,0
+474,Seem,Lopez Inc,Accessories,Premium,102.45,752.83,36,2019-09-02,1
+475,Paper,"King, Vargas and Banks",TV,Budget,530.13,1085.3,12,2021-07-15,0
+476,Actually,Williams PLC,Accessories,Midrange,253.36,741.59,24,2022-02-04,0
+477,Think,"Smith, Hall and Hayes",Phones,Premium,494.61,613.66,24,2022-01-16,0
+478,Difference,"Aguirre, Carlson and Nguyen",Accessories,Midrange,560.1,474.41,12,2019-05-09,1
+479,Grow,"Williams, Hernandez and Ellison",Phones,Budget,223.12,1134.49,24,2021-06-25,0
+480,Or,Johnston Group,Accessories,Premium,392.64,190.99,24,2021-06-05,0
+481,Church,"Martin, Franklin and Flores",Accessories,Midrange,192.74,1123.98,12,2019-12-07,0
+482,Receive,"Gallagher, Ewing and West",Laptops,Premium,89.25,1009.39,24,2019-01-04,0
+483,Free,Cooper-Hoffman,Phones,Midrange,333.86,242.92,36,2022-09-12,0
+484,Physical,Smith and Sons,Laptops,Budget,322.21,721.48,36,2022-12-04,0
+485,Manager,Roberson-Thomas,Phones,Budget,796.61,1053.2,12,2024-03-17,0
+486,Along,Gonzalez-Sims,Laptops,Premium,384.76,728.99,24,2019-11-02,0
+487,Agent,Arnold-Moran,TV,Midrange,300.18,1097.92,36,2021-06-26,0
+488,Technology,Cruz LLC,Accessories,Premium,485.36,1137.28,36,2020-08-29,0
+489,Someone,Arnold-Smith,Phones,Premium,116.58,564.62,24,2023-10-11,0
+490,Top,Pitts Ltd,Phones,Midrange,771.25,515.05,24,2022-06-02,0
+491,Interest,Rogers-Rowland,Accessories,Midrange,526.22,1129.95,36,2024-06-17,0
+492,Run,"Newman, Johnson and Long",Phones,Midrange,616.13,842.65,36,2022-10-03,0
+493,Population,"Small, Pacheco and Maldonado",Phones,Budget,177.86,227.62,12,2021-09-18,0
+494,As,"Garcia, Anderson and Bates",Laptops,Premium,357.11,146.52,12,2019-11-17,0
+495,Use,Davis-Mays,Phones,Premium,367.02,721.09,36,2020-07-12,0
+496,Need,Mcdonald Inc,TV,Budget,666.35,1123.19,12,2022-04-19,0
+497,Same,Lewis Inc,TV,Midrange,50.93,1028.67,36,2020-09-09,0
+498,Investment,Jones-Frazier,Accessories,Budget,275.64,843.43,36,2020-12-11,0
+499,Network,Smith-Williams,Phones,Budget,785.93,253.03,12,2022-11-10,1
+500,Try,"Morales, Warner and Davis",Accessories,Budget,406.16,379.65,12,2023-06-30,0
+501,Executive,Quinn Ltd,TV,Premium,336.89,1063.06,24,2023-12-21,0
+502,Particularly,Delgado LLC,Phones,Budget,139.87,301.09,24,2023-12-01,0
+503,Popular,Ho Inc,Phones,Premium,780.62,406.28,24,2022-02-05,1
+504,Second,Baker LLC,Accessories,Premium,65.02,242.56,36,2020-06-14,0
+505,Effort,Johnson Group,TV,Premium,602.89,843.72,12,2020-02-14,0
+506,Effort,Ferguson PLC,Phones,Midrange,626.45,1138.38,36,2024-06-17,0
+507,Another,"Villa, Jones and Evans",Accessories,Premium,232.74,395.86,12,2022-08-12,0
+508,Her,Mercer-Herring,TV,Premium,553.67,622.95,36,2021-03-28,0
+509,Floor,"Goodwin, Morales and Bell",Accessories,Midrange,119.7,797.77,24,2022-04-09,0
+510,You,Green PLC,Laptops,Premium,242.79,1199.41,24,2022-09-16,0
+511,Relationship,Wilkerson Inc,Phones,Budget,640.93,215.29,24,2020-05-07,0
+512,Operation,Walker Ltd,Laptops,Budget,698.51,648.43,36,2022-05-03,0
+513,Religious,Bray-Roberts,TV,Premium,506.36,523.63,12,2019-01-12,0
+514,Body,Escobar-Gardner,Laptops,Midrange,430.13,1052.4,12,2019-07-14,0
+515,Training,Hodges-Kelly,Laptops,Budget,169.48,623.56,24,2020-05-04,0
+516,Of,Miller-Esparza,TV,Midrange,97.33,222.08,24,2021-03-05,0
+517,Make,Lowe PLC,Accessories,Midrange,138.24,797.87,24,2021-05-30,0
+518,Serve,Nichols-Foley,Laptops,Budget,220.52,947.86,24,2019-07-01,0
+519,Benefit,Harrison Group,Accessories,Midrange,306.26,103.17,12,2021-08-19,1
+520,Example,Morgan-Clark,Laptops,Budget,335.68,1044.85,36,2024-01-15,0
+521,Bit,Christian-Edwards,Accessories,Midrange,309.74,304.63,36,2020-10-17,0
+522,Suggest,Jones-Sanchez,TV,Budget,229.29,707.28,36,2024-04-05,1
+523,End,"Richards, Mccall and Rice",Laptops,Premium,432.29,557.38,36,2022-09-01,0
+524,Attention,Pena-Rangel,TV,Budget,668.96,891.62,24,2020-11-24,0
+525,Also,"Hanson, Doyle and Hobbs",Laptops,Budget,259.78,508.28,24,2019-01-30,0
+526,Truth,"Meza, Collier and Jones",TV,Budget,756.79,1056.74,24,2023-06-08,0
+527,Central,King LLC,TV,Budget,705.0,903.55,36,2023-08-29,0
+528,Idea,Jarvis-Martinez,Laptops,Midrange,171.32,812.48,24,2023-12-25,0
+529,Create,Bell-Lane,Laptops,Premium,639.71,975.86,24,2023-12-22,0
+530,Story,Adkins-Barron,Laptops,Budget,480.94,929.43,12,2022-01-24,0
+531,Series,Vargas Group,Phones,Midrange,474.93,139.53,12,2022-11-05,0
+532,Pattern,Kirby-Howe,Accessories,Premium,343.28,534.21,24,2021-02-16,0
+533,Per,Mcguire Group,Phones,Premium,425.86,1123.89,12,2020-03-19,0
+534,Her,"Taylor, Smith and Ibarra",Phones,Premium,347.88,238.3,12,2019-10-25,0
+535,Month,"Ford, Perez and Hayes",TV,Premium,454.8,910.81,24,2021-03-18,0
+536,Relationship,Sanford-Ayala,Laptops,Budget,520.96,1172.05,24,2023-10-27,0
+537,Different,Mueller-Davis,Accessories,Budget,555.73,157.42,24,2021-04-24,0
+538,Site,Rivera-Rodriguez,TV,Midrange,449.36,850.41,24,2021-10-12,0
+539,Cultural,Strickland PLC,Phones,Midrange,591.07,614.97,36,2022-10-16,0
+540,Course,"Reed, Kennedy and Ortega",Laptops,Midrange,155.96,737.09,36,2022-10-29,0
+541,Time,"Allison, Perkins and Oliver",TV,Premium,208.99,193.88,24,2020-07-07,0
+542,Miss,Rivera-Ewing,Laptops,Premium,664.05,147.31,12,2019-10-30,1
+543,Either,"Baker, Rodriguez and Sanchez",TV,Budget,291.9,833.55,24,2020-02-25,0
+544,Physical,Lee-Mccall,Laptops,Premium,67.17,1005.64,24,2022-06-23,0
+545,List,Schneider PLC,Phones,Premium,165.34,960.22,12,2023-10-10,0
+546,Pm,"Kennedy, Johnson and Small",Accessories,Premium,217.71,698.19,36,2022-06-14,1
+547,Inside,"Robertson, Golden and Benjamin",Phones,Midrange,767.99,209.85,24,2023-04-07,0
+548,I,Morgan-Wood,Accessories,Midrange,479.78,856.85,24,2019-07-04,0
+549,Hold,Richards PLC,Laptops,Budget,749.55,366.08,36,2020-04-12,0
+550,Position,"Jackson, King and Bryant",TV,Premium,481.37,1102.18,36,2021-01-23,0
+551,Yard,"Williams, Thompson and Woods",Phones,Premium,409.52,1022.09,12,2019-12-29,0
+552,Hair,Meyer-Cox,Accessories,Budget,285.3,880.32,36,2022-07-30,0
+553,Budget,"Tapia, Hicks and Jenkins",Phones,Premium,504.78,1143.73,36,2023-04-26,1
+554,Road,"Powell, Marquez and Brown",Accessories,Premium,154.4,134.56,36,2019-12-02,0
+555,Writer,Jones LLC,Phones,Midrange,723.7,909.82,12,2019-06-11,0
+556,Interest,"Mitchell, Swanson and Cortez",Accessories,Budget,672.0,463.27,36,2022-03-29,1
+557,Operation,Johnston Inc,Accessories,Budget,288.15,1096.67,36,2023-02-06,0
+558,Pass,Smith LLC,Laptops,Budget,764.6,393.34,12,2023-06-13,0
+559,Effect,Miller Inc,Accessories,Budget,668.9,897.34,36,2022-09-07,0
+560,Particular,Wilson-Werner,Laptops,Midrange,549.73,1065.41,36,2019-01-12,0
+561,Quite,Randall-Cooper,Accessories,Midrange,141.32,145.82,12,2022-12-18,0
+562,Well,"Black, Avery and Bush",TV,Premium,408.68,537.41,24,2022-01-01,0
+563,Space,Stanley-Oliver,TV,Premium,429.58,938.54,12,2020-08-10,0
+564,Economic,Perez Inc,TV,Premium,224.41,600.41,36,2024-02-25,0
+565,Not,Fleming LLC,Accessories,Premium,109.97,393.98,36,2019-07-20,0
+566,Wear,"Sharp, Keller and Thomas",Laptops,Midrange,632.54,341.79,36,2020-06-05,0
+567,Goal,"Ellis, Neal and Hernandez",Laptops,Budget,141.53,244.67,12,2024-03-02,0
+568,Past,"Myers, Ross and Pugh",Accessories,Midrange,495.72,1042.84,36,2020-05-19,0
+569,Maybe,Hansen LLC,TV,Premium,752.34,732.89,36,2023-10-28,0
+570,Protect,Parker PLC,TV,Midrange,707.08,184.02,12,2023-09-08,0
+571,Where,"Anthony, Fields and Mayo",Laptops,Budget,258.31,520.84,24,2021-02-26,0
+572,Leader,"Weaver, Stanley and Daniel",TV,Budget,688.59,504.51,24,2021-11-28,0
+573,Me,Robertson Inc,Phones,Midrange,50.25,299.91,36,2019-03-01,0
+574,Claim,"Guzman, Brown and Johnson",Laptops,Midrange,63.27,579.06,12,2020-07-31,0
+575,Guy,Anderson-Ross,TV,Midrange,501.91,465.31,36,2019-11-17,0
+576,Real,Walker-Hess,Laptops,Premium,323.6,475.98,12,2022-12-29,0
+577,Standard,Mora-Lowe,Phones,Midrange,339.85,912.93,12,2023-07-18,0
+578,Of,Jones-Chambers,Laptops,Midrange,473.33,345.59,24,2023-08-27,0
+579,Chair,"Thomas, Levine and Wells",Laptops,Midrange,193.84,806.05,24,2022-12-02,0
+580,Yourself,"Smith, Robinson and Taylor",Laptops,Budget,208.82,727.71,12,2021-07-11,0
+581,Time,Rich Inc,Laptops,Budget,413.45,724.9,36,2022-11-10,0
+582,Always,Edwards and Sons,Phones,Premium,615.69,829.31,24,2023-08-22,0
+583,Describe,"Jacobs, Thomas and Williams",Accessories,Premium,514.62,703.22,36,2020-07-22,0
+584,Hair,Mcmahon-Black,Laptops,Budget,273.02,1067.18,24,2022-01-06,0
+585,Report,Jackson-Lopez,Laptops,Budget,372.75,843.14,24,2022-05-02,0
+586,Adult,Sanchez Group,TV,Budget,178.0,701.66,36,2022-08-01,0
+587,Live,Davis Ltd,Laptops,Midrange,105.97,1012.74,24,2020-06-10,0
+588,Whom,Tran Inc,TV,Midrange,637.02,766.76,24,2020-06-07,0
+589,Follow,Perez and Sons,Accessories,Budget,249.04,420.26,36,2020-09-04,0
+590,Audience,Flores-Martinez,Phones,Midrange,183.32,327.8,24,2022-03-25,0
+591,Heart,Alvarez Group,Phones,Midrange,568.71,267.56,24,2022-09-25,0
+592,Stop,"Hernandez, Mathews and Morrison",Accessories,Premium,513.54,1089.4,24,2019-05-05,0
+593,Including,King Inc,Phones,Budget,524.89,881.15,36,2021-05-20,0
+594,Window,"Patel, Harris and Johnson",Accessories,Budget,221.67,1131.12,12,2019-10-07,0
+595,Throughout,Smith-Jones,Accessories,Midrange,224.48,763.62,36,2021-07-05,0
+596,Certainly,Schmitt-Francis,Accessories,Budget,215.6,620.74,12,2024-04-13,0
+597,Detail,Mullins-Lee,Phones,Premium,180.31,165.69,24,2020-09-13,0
+598,Maybe,Brown and Sons,TV,Premium,541.79,838.81,12,2021-04-25,0
+599,Phone,Smith-Alvarez,Accessories,Premium,686.01,740.43,36,2024-03-07,0
+600,Wait,Le Inc,Laptops,Budget,593.24,1189.23,36,2023-08-09,0
+601,Research,"Short, Hensley and Reynolds",Phones,Budget,644.07,363.07,24,2023-10-18,0
+602,Institution,Murray-Dalton,Accessories,Budget,353.6,683.81,12,2024-04-17,0
+603,Season,West-Patterson,Accessories,Budget,540.56,816.05,24,2020-11-04,0
+604,Space,Lopez and Sons,Laptops,Budget,315.68,809.05,24,2022-02-25,0
+605,Natural,"Campbell, Rojas and Rice",TV,Premium,444.13,717.42,36,2019-11-10,0
+606,Difficult,Morgan-Brown,TV,Midrange,411.23,954.62,12,2019-11-28,0
+607,Two,Phillips-Bennett,TV,Premium,182.67,325.48,12,2022-03-19,0
+608,Region,Moreno-Finley,Accessories,Budget,340.31,898.19,12,2023-01-17,0
+609,Operation,"Lewis, Miller and Clark",Accessories,Premium,772.87,781.71,12,2019-02-05,0
+610,Support,Martin and Sons,Accessories,Budget,236.44,1085.68,24,2023-09-05,0
+611,Result,"Anderson, Lane and Hicks",Phones,Budget,150.35,1031.91,24,2022-12-14,0
+612,Change,Mcconnell and Sons,Laptops,Premium,363.94,446.66,36,2021-11-11,0
+613,Give,Carlson LLC,Accessories,Budget,642.75,403.86,24,2019-07-25,0
+614,Budget,Wright-Villarreal,Laptops,Midrange,486.61,1179.82,24,2020-09-30,0
+615,Return,Hull-Campbell,Laptops,Budget,560.73,679.99,36,2021-04-27,0
+616,Window,Madden LLC,TV,Midrange,192.27,1097.06,36,2024-06-03,1
+617,Draw,Wood PLC,Phones,Midrange,514.21,280.27,36,2022-10-11,0
+618,Culture,Morris Inc,Accessories,Budget,292.63,807.1,24,2020-03-15,0
+619,Hospital,Hayes-Figueroa,TV,Premium,675.73,990.85,24,2020-12-29,0
+620,Very,Marshall Ltd,TV,Midrange,521.97,1142.13,36,2022-01-24,0
+621,Spring,Warner-Carrillo,Accessories,Premium,199.14,471.07,36,2024-05-06,0
+622,Region,Zamora Inc,Laptops,Midrange,98.46,897.48,36,2021-07-29,0
+623,Local,"Norris, Johnson and Hammond",TV,Budget,81.97,692.69,24,2019-06-13,0
+624,Choose,Robinson and Sons,Laptops,Budget,328.56,166.69,24,2019-05-28,1
+625,Really,Cooper-Clark,Phones,Midrange,249.39,859.0,12,2023-04-03,0
+626,Station,Collins-Williams,Laptops,Budget,534.57,859.11,24,2019-10-21,0
+627,Popular,Sheppard-Taylor,Phones,Midrange,424.5,1123.67,24,2019-07-14,0
+628,More,Harrell-Jones,Laptops,Budget,249.51,647.04,24,2020-10-24,0
+629,Shoulder,"Kim, Silva and Ferguson",TV,Premium,161.93,353.28,36,2020-04-24,0
+630,And,Steele Inc,TV,Budget,145.4,149.02,24,2024-03-15,0
+631,Sport,Sanders-Torres,Phones,Premium,698.5,557.21,36,2019-05-03,0
+632,Hard,Rush LLC,Accessories,Budget,232.61,432.11,12,2022-11-24,0
+633,Cultural,Smith PLC,Phones,Premium,538.78,937.2,12,2020-11-29,0
+634,Model,Brown Ltd,Phones,Budget,658.01,489.69,36,2021-08-22,0
+635,Newspaper,"Miller, Miller and Harrington",Laptops,Premium,510.56,1143.98,36,2023-01-15,0
+636,Would,"Bird, Delgado and Estrada",Laptops,Midrange,694.67,1158.54,36,2020-10-22,0
+637,Fire,Smith and Sons,Phones,Midrange,344.3,783.0,24,2022-02-01,0
+638,Despite,Brown Group,TV,Premium,767.17,1121.53,12,2023-11-14,0
+639,Magazine,"Watkins, Payne and Lee",Laptops,Budget,149.86,936.94,36,2023-01-25,0
+640,Front,Jones PLC,Accessories,Premium,126.61,701.55,24,2023-11-02,0
+641,About,Stark-Cherry,Laptops,Budget,544.02,298.34,12,2023-10-08,0
+642,Reality,"Collins, Schneider and Peters",Laptops,Midrange,757.12,604.46,24,2020-12-10,0
+643,Money,Phillips-Melendez,Accessories,Budget,656.66,716.96,12,2020-01-31,0
+644,Prevent,Jones PLC,Phones,Midrange,107.31,1050.36,24,2021-06-30,0
+645,Yet,Cooper-Wong,Accessories,Budget,259.53,629.47,12,2022-09-22,0
+646,While,Gregory-Finley,Phones,Budget,747.74,1087.44,12,2021-10-01,0
+647,Natural,Jimenez-Sanford,Phones,Budget,239.79,841.78,24,2023-06-11,0
+648,Run,Kennedy-Nguyen,Phones,Premium,635.88,250.7,36,2022-03-11,0
+649,Office,Campbell Inc,Accessories,Premium,668.85,1194.48,12,2019-11-13,0
+650,Stuff,Blackwell Group,Phones,Midrange,421.59,679.96,36,2023-10-01,0
+651,Light,Daugherty LLC,TV,Midrange,339.76,531.04,24,2023-05-01,0
+652,Citizen,Figueroa Inc,Accessories,Premium,387.59,825.03,36,2023-12-29,1
+653,Tough,Vasquez-Evans,TV,Midrange,220.22,219.78,36,2023-03-31,0
+654,By,Nelson-Frazier,Phones,Premium,717.04,800.19,36,2023-04-29,0
+655,Husband,Johnson LLC,Laptops,Budget,387.96,648.06,36,2022-11-25,0
+656,Painting,Andersen-Perkins,Phones,Midrange,711.84,547.34,36,2020-11-11,0
+657,Recently,Miller Ltd,TV,Midrange,129.27,1148.32,12,2022-08-26,0
+658,Reality,Smith LLC,TV,Premium,791.21,674.79,12,2020-05-09,0
+659,Subject,"Fields, Reyes and Davis",Accessories,Midrange,382.45,341.03,12,2020-07-09,0
+660,Thank,Watson-Rowland,Laptops,Midrange,85.87,604.86,24,2020-09-01,0
+661,Republican,Mitchell Group,Accessories,Budget,78.52,1111.33,36,2023-12-02,0
+662,Line,"Mcgee, Thompson and Reyes",TV,Midrange,609.66,293.71,12,2019-04-19,0
+663,Call,"Martin, Caldwell and Anderson",Phones,Budget,544.28,335.35,24,2023-12-24,0
+664,Trouble,"Hanson, Davis and Watson",Laptops,Premium,651.6,114.33,12,2020-01-07,0
+665,Then,Cook-Rivas,Phones,Midrange,129.03,115.61,12,2021-05-04,0
+666,Shake,"Mitchell, Jackson and Wood",Phones,Budget,76.68,1012.33,36,2020-09-07,0
+667,Out,Lynch-Osborne,Laptops,Premium,431.43,905.33,24,2021-02-06,1
+668,Program,"Keller, Gonzales and Taylor",Accessories,Midrange,340.7,490.55,36,2024-03-29,0
+669,Car,Gallegos-Orozco,Phones,Premium,396.46,868.14,36,2019-07-25,0
+670,Kid,"Harrell, Williams and Jones",TV,Midrange,793.69,534.73,12,2021-04-26,0
+671,Account,Fleming-Smith,Phones,Premium,778.06,1148.19,36,2019-02-12,0
+672,Not,Tran LLC,Laptops,Premium,756.74,1163.76,24,2021-05-14,0
+673,Agent,Crawford-Allen,Laptops,Budget,637.88,532.07,36,2022-06-22,1
+674,Summer,Harris-Wolf,Laptops,Premium,316.13,1039.64,36,2022-08-03,0
+675,Same,"Stark, Smith and Villarreal",Accessories,Midrange,359.1,950.4,36,2022-10-10,0
+676,Hot,"Mckinney, Yoder and Hansen",Phones,Midrange,462.21,441.0,12,2021-02-23,0
+677,Thing,"Deleon, Lewis and Brown",Accessories,Budget,672.9,355.24,24,2020-04-20,0
+678,Its,Dudley Ltd,Accessories,Midrange,101.53,604.06,12,2019-03-24,0
+679,True,"Chan, Gomez and Pruitt",Laptops,Midrange,368.22,959.48,12,2022-02-07,0
+680,Mr,Martinez-Padilla,Laptops,Midrange,111.96,1156.18,12,2024-05-27,0
+681,Safe,Tucker-Harrell,Accessories,Premium,435.99,939.94,12,2019-07-09,0
+682,Public,Rangel-Reynolds,Phones,Premium,724.18,1040.73,12,2021-03-10,0
+683,Clearly,Murray Inc,TV,Midrange,636.86,763.37,24,2021-07-24,0
+684,Describe,"Castillo, Bryant and Coleman",Accessories,Budget,220.88,1018.95,36,2024-04-16,0
+685,Sound,Williams-Clark,Phones,Premium,781.99,962.86,12,2019-09-08,0
+686,Two,"Morgan, Richards and Lopez",Laptops,Budget,550.51,514.68,12,2023-10-14,0
+687,Hear,"Delacruz, Perkins and Medina",Laptops,Midrange,57.82,707.19,24,2019-10-18,0
+688,Majority,Cortez LLC,Phones,Midrange,241.56,985.23,24,2023-07-27,0
+689,Feeling,Coleman PLC,TV,Premium,245.53,150.66,36,2022-05-09,0
+690,Son,Wilson LLC,Laptops,Midrange,101.94,988.89,24,2023-12-26,0
+691,Phone,Graham Ltd,Laptops,Premium,769.87,295.68,36,2019-11-22,0
+692,Always,Moss Group,Laptops,Midrange,408.69,666.15,12,2023-03-15,0
+693,Mention,"Williams, Sullivan and Parrish",Phones,Midrange,721.86,989.1,12,2022-12-03,0
+694,Certain,"Baldwin, Cook and Garza",Accessories,Premium,291.66,379.2,36,2023-06-19,0
+695,Billion,Weiss LLC,Laptops,Premium,143.93,370.39,24,2023-12-19,0
+696,Participant,Juarez LLC,Accessories,Premium,405.75,543.04,36,2024-06-08,0
+697,Do,Torres and Sons,TV,Midrange,135.47,1084.11,24,2024-05-18,0
+698,Evidence,"Grant, Johnson and Robbins",Laptops,Midrange,414.51,100.49,12,2021-04-16,0
+699,Late,Palmer Ltd,Laptops,Budget,740.22,1091.52,24,2020-05-22,0
+700,While,Cobb and Sons,TV,Premium,440.58,269.19,36,2020-12-31,1
+701,Task,"Hicks, Davis and Calhoun",Laptops,Midrange,512.37,1189.1,36,2023-06-13,0
+702,Administration,Daniels-Gilmore,Accessories,Midrange,167.48,1150.33,12,2019-03-13,0
+703,Job,"Lindsey, Costa and Pruitt",Phones,Premium,82.8,644.14,24,2022-06-24,0
+704,Floor,Hopkins-Nicholson,Accessories,Budget,133.11,663.99,24,2020-10-02,0
+705,Leader,Hill LLC,Phones,Premium,498.9,629.7,24,2023-10-14,0
+706,Expert,Moss-Knight,Phones,Budget,121.26,798.99,12,2021-07-28,0
+707,Something,Johnson-Vasquez,Accessories,Midrange,331.99,199.79,24,2024-02-22,0
+708,Success,Jones-Smith,Accessories,Budget,462.57,135.88,36,2020-08-30,0
+709,Could,Rhodes PLC,Accessories,Midrange,341.49,163.47,24,2023-05-30,0
+710,Knowledge,"Guerra, Phillips and Hawkins",Accessories,Premium,172.76,588.8,12,2024-05-12,0
+711,Number,"Wilson, Johnson and Smith",TV,Premium,255.34,403.1,24,2020-07-19,0
+712,Method,Lawson PLC,Laptops,Premium,746.24,784.24,24,2022-09-29,0
+713,Address,Lopez-Warren,Phones,Budget,556.99,1191.69,36,2024-06-17,0
+714,Forget,Martinez Ltd,Accessories,Midrange,422.04,524.96,24,2024-05-02,0
+715,Former,Ramirez-Morales,Accessories,Premium,59.54,731.23,36,2019-02-23,0
+716,Society,Romero PLC,Accessories,Premium,794.31,557.16,36,2023-10-20,0
+717,Region,Munoz-Sparks,TV,Midrange,553.59,1032.0,12,2020-06-11,0
+718,Seek,Sellers PLC,Accessories,Premium,287.69,1092.46,36,2020-09-02,0
+719,Summer,Miller-Henry,Accessories,Midrange,709.45,1065.09,36,2023-04-05,0
+720,Start,"Hill, Chapman and Perez",Accessories,Midrange,243.82,1171.81,12,2023-05-01,0
+721,Similar,Summers-Jones,Laptops,Midrange,458.01,130.27,36,2024-06-09,0
+722,Push,Mills Group,TV,Midrange,527.05,1023.8,12,2019-07-12,0
+723,Foot,"Hunt, Hampton and Davis",Accessories,Midrange,215.8,926.95,24,2024-04-02,0
+724,Quality,Nelson-Guerrero,Phones,Budget,783.8,351.56,12,2019-02-27,0
+725,Military,Mahoney-Tate,Phones,Premium,611.14,1151.95,36,2022-12-31,0
+726,Analysis,"Moody, Watkins and Hester",Phones,Budget,468.36,263.0,12,2022-02-08,0
+727,Former,Woodard Inc,TV,Premium,185.45,847.5,36,2019-05-09,0
+728,Officer,King and Sons,TV,Budget,90.39,347.38,24,2024-02-16,0
+729,Mrs,Snyder-Haas,Phones,Midrange,290.04,574.52,12,2020-12-06,0
+730,Size,Miller-Woods,Accessories,Premium,614.89,891.08,24,2024-05-02,0
+731,Sign,Gomez-Maldonado,TV,Premium,252.0,719.66,36,2021-05-01,0
+732,Page,Brown-Duran,Phones,Budget,454.67,570.25,36,2022-09-11,0
+733,Go,Thomas PLC,Phones,Budget,595.96,458.97,24,2019-01-08,0
+734,Expect,"Aguilar, Lopez and Saunders",Accessories,Premium,130.96,1023.63,12,2019-01-29,0
+735,Difference,Gutierrez-Gentry,Laptops,Budget,563.97,258.2,12,2022-02-09,0
+736,Surface,Johnson-Johnson,TV,Budget,118.9,573.11,36,2021-08-04,0
+737,Successful,Lynch Group,Accessories,Budget,773.85,1094.13,24,2023-08-24,0
+738,Dog,Bradley and Sons,Phones,Midrange,416.3,1030.43,24,2019-05-11,0
+739,Low,Lynch and Sons,Phones,Midrange,163.01,541.04,12,2019-07-07,0
+740,Mind,Carter-Garcia,Accessories,Budget,306.79,939.42,12,2023-08-26,0
+741,Form,Gallegos-Williams,TV,Budget,360.06,1005.48,12,2020-12-09,0
+742,Fast,Spencer LLC,Laptops,Midrange,618.64,1077.78,24,2023-02-07,0
+743,We,Payne LLC,Laptops,Midrange,607.57,698.96,12,2022-10-19,0
+744,Tonight,Shaw-Martinez,Phones,Premium,508.96,324.91,12,2022-05-12,0
+745,Most,"Cooper, Reed and Mendoza",TV,Premium,129.45,380.84,36,2019-07-31,0
+746,Skin,Thomas-Castro,Laptops,Midrange,163.68,425.26,12,2023-07-03,0
+747,Religious,Pearson Group,TV,Budget,120.32,753.18,12,2019-10-03,0
+748,Describe,Lewis-Moore,TV,Budget,482.88,136.09,24,2022-01-01,0
+749,Little,Brown-Bowman,Phones,Budget,707.85,799.65,24,2023-08-30,0
+750,Many,Mitchell Inc,Laptops,Budget,375.35,500.79,36,2023-12-01,0
+751,Perform,Taylor-Stewart,Accessories,Premium,170.64,424.77,12,2019-08-31,0
+752,Young,"Brown, Long and Griffith",Phones,Midrange,468.53,1067.45,36,2023-12-16,0
+753,Positive,Ray LLC,Laptops,Budget,658.81,606.0,24,2022-01-30,0
+754,Design,"Martinez, Ellis and Daniel",Laptops,Premium,606.28,204.56,36,2021-09-13,0
+755,Face,Gill Inc,Laptops,Budget,711.09,1009.42,24,2020-11-15,0
+756,Hundred,Williams-English,Laptops,Midrange,258.43,152.41,36,2019-06-20,0
+757,Everybody,"Stuart, Allen and Melton",Laptops,Premium,195.47,899.42,36,2020-10-14,0
+758,Night,Gardner PLC,TV,Midrange,709.86,951.3,12,2024-04-16,0
+759,Compare,Waters-Forbes,Phones,Midrange,543.17,487.86,36,2019-07-07,0
+760,Hotel,Estrada-Houston,TV,Premium,283.2,1007.27,12,2023-01-04,0
+761,Professor,"Johnson, Gross and Flores",Accessories,Premium,606.76,667.23,12,2022-01-14,0
+762,Interview,Cantrell Inc,Laptops,Premium,661.34,609.62,12,2023-02-08,0
+763,Might,"Bautista, Santana and Woodard",Phones,Premium,511.23,149.94,12,2019-02-21,0
+764,Office,Harrison and Sons,Laptops,Premium,565.91,419.03,36,2019-04-21,0
+765,Nature,"Dawson, Cummings and Williams",Phones,Premium,331.44,1124.11,24,2024-05-26,0
+766,Brother,Hernandez-West,TV,Premium,454.02,531.01,24,2021-05-26,0
+767,Debate,Brown Group,Phones,Budget,443.12,701.37,24,2024-02-21,0
+768,Politics,Wolfe Ltd,Accessories,Midrange,686.04,685.22,36,2021-12-02,1
+769,Law,Smith-Deleon,Accessories,Premium,679.97,749.47,12,2019-07-30,0
+770,Article,Acevedo and Sons,Phones,Budget,674.51,167.46,24,2024-06-14,0
+771,Strategy,Walker Ltd,Phones,Budget,58.27,498.39,36,2022-05-08,0
+772,Top,Hoffman and Sons,Phones,Budget,612.16,895.44,12,2024-01-08,0
+773,Land,Villa Inc,Phones,Midrange,619.01,320.62,24,2021-05-07,0
+774,Pay,"Bush, Daniels and Wall",Accessories,Premium,558.78,323.94,12,2023-11-11,0
+775,Member,"Thompson, Jones and Cooley",Laptops,Budget,617.2,111.1,24,2020-09-18,0
+776,Though,Clark-Harris,Phones,Midrange,681.48,581.23,24,2021-11-15,1
+777,Teacher,Morris PLC,Phones,Midrange,402.74,1071.01,24,2024-04-26,0
+778,Agreement,Dunn and Sons,Accessories,Midrange,426.54,157.09,12,2019-10-26,0
+779,Since,"Mendoza, Williams and Golden",Accessories,Budget,143.54,310.23,36,2022-01-05,0
+780,Expert,Robinson-Rodriguez,TV,Premium,339.03,441.09,12,2021-07-12,0
+781,Property,"Patterson, Weiss and Myers",Phones,Budget,532.52,904.9,24,2019-05-17,0
+782,Knowledge,Lindsey-Clark,TV,Budget,635.3,804.7,12,2021-11-09,0
+783,Republican,"Sullivan, Hurley and Norman",Accessories,Premium,212.91,557.54,36,2020-03-15,0
+784,Always,Miller-Santos,Accessories,Premium,153.37,934.98,12,2019-07-30,0
+785,Talk,"Lee, Lee and Lee",Laptops,Premium,547.28,770.59,36,2021-01-21,0
+786,Election,Hardin-Johnson,Phones,Midrange,51.41,1085.64,36,2023-04-24,0
+787,Method,Anderson-Burton,TV,Premium,183.78,999.83,12,2020-03-10,0
+788,Whatever,Davis Ltd,Accessories,Budget,71.8,378.09,24,2021-02-18,0
+789,Read,Garrett PLC,Accessories,Premium,175.16,398.58,36,2022-05-15,1
+790,Training,"Hill, Day and Blevins",TV,Budget,185.99,237.89,12,2020-03-14,0
+791,Anything,Martinez-Mason,Laptops,Midrange,340.76,470.66,36,2024-06-20,0
+792,Do,Matthews LLC,Accessories,Budget,351.75,1199.5,24,2023-12-08,0
+793,Sit,Mendoza Inc,Phones,Budget,705.7,546.33,12,2020-10-27,0
+794,Seek,"Davis, Conway and Lopez",Accessories,Premium,432.58,342.54,12,2021-12-01,0
+795,Stay,Jefferson-Hicks,Phones,Premium,592.55,938.73,12,2020-02-15,0
+796,East,Johnson-Richardson,TV,Budget,128.1,696.72,24,2023-03-27,0
+797,Move,Brown-Ruiz,Phones,Premium,219.08,264.56,36,2021-03-16,0
+798,Left,"Wright, Rios and Chavez",TV,Midrange,577.21,518.76,12,2020-09-01,0
+799,Become,Vaughn-Thomas,Phones,Midrange,89.6,555.92,36,2020-03-02,0
+800,Year,Morgan and Sons,TV,Premium,414.95,929.21,36,2022-07-22,0
+801,Director,Li-Henry,Phones,Midrange,499.53,122.74,24,2023-01-11,0
+802,Social,"Jacobs, Rocha and Ford",Laptops,Premium,501.61,395.92,12,2021-06-20,0
+803,Significant,Wilson PLC,Phones,Budget,67.2,669.36,36,2021-07-30,0
+804,Hand,Robles-Malone,Phones,Budget,291.58,395.73,12,2024-03-22,0
+805,Analysis,Vaughn-Mahoney,Laptops,Midrange,527.37,791.28,12,2021-01-11,0
+806,Store,Hill-Hobbs,Accessories,Premium,161.75,630.05,24,2022-10-24,0
+807,Between,Farmer LLC,Accessories,Premium,571.56,497.88,12,2024-05-15,0
+808,Let,Butler-Hall,Phones,Midrange,609.44,1144.13,12,2022-05-28,0
+809,Painting,Holden PLC,Laptops,Budget,786.48,795.38,36,2023-05-20,0
+810,Affect,"Joyce, Jones and Bautista",Phones,Midrange,207.38,242.94,24,2024-03-05,0
+811,Pm,"Gilmore, Torres and Sanders",TV,Budget,668.85,716.1,12,2022-06-09,0
+812,Ready,"Johnson, Young and Garrett",TV,Premium,440.22,958.81,36,2019-11-24,0
+813,Ten,"Smith, Lopez and Smith",Phones,Budget,330.1,879.34,24,2023-01-06,1
+814,Identify,"Scott, Peterson and Woodard",Accessories,Midrange,141.78,289.3,24,2019-02-21,0
+815,Leave,Rogers LLC,Accessories,Premium,601.63,1169.66,36,2024-03-24,0
+816,Arm,"Butler, Barnes and Anderson",Phones,Midrange,226.89,593.7,36,2024-05-20,0
+817,Score,Green-Coleman,Phones,Midrange,328.57,274.93,36,2020-01-11,0
+818,Ground,Mcmillan Group,TV,Budget,96.91,298.22,36,2019-09-20,0
+819,Record,"Williams, Molina and Robinson",Accessories,Midrange,651.03,208.06,36,2019-09-24,0
+820,System,"Bishop, Morales and Parker",Phones,Budget,624.94,983.87,12,2019-12-25,0
+821,Set,Schneider Inc,TV,Premium,600.21,234.23,12,2022-09-02,0
+822,Participant,Smith LLC,Accessories,Budget,274.58,237.64,24,2022-09-09,0
+823,Law,Williams-Monroe,Laptops,Premium,180.11,1035.52,12,2024-04-28,0
+824,Set,"Rodgers, Richardson and Davila",TV,Budget,528.16,479.06,12,2024-04-15,0
+825,Teacher,Everett-Yates,Accessories,Midrange,422.12,133.94,12,2023-08-17,0
+826,International,Kramer Ltd,Accessories,Budget,183.69,157.08,36,2024-03-08,0
+827,Tax,Caldwell Ltd,TV,Budget,564.43,256.39,24,2024-03-16,0
+828,Real,"Parker, Beck and Romero",Laptops,Premium,793.34,334.73,24,2020-10-13,0
+829,Usually,"Ellis, Johnston and Pierce",TV,Midrange,610.41,831.66,24,2024-05-16,0
+830,Building,Kelley-Sanford,Accessories,Budget,604.99,273.06,24,2023-05-06,0
+831,Increase,Whitney and Sons,Phones,Midrange,762.73,230.76,12,2023-07-11,0
+832,Lead,"Rivera, Torres and Robinson",Phones,Budget,202.2,941.19,12,2022-12-15,0
+833,Herself,Fitzpatrick-Smith,TV,Budget,474.16,838.16,36,2019-02-15,0
+834,American,Yates-Jenkins,Accessories,Midrange,784.74,578.86,24,2024-01-19,0
+835,Still,Mills-Hicks,Phones,Budget,173.97,704.24,12,2020-08-22,0
+836,Suffer,Torres PLC,Accessories,Midrange,575.19,443.18,12,2020-12-20,0
+837,Perhaps,"Key, Avila and Harris",TV,Budget,489.36,630.75,36,2024-03-27,0
+838,Certain,Martinez-Duarte,Phones,Premium,489.86,657.34,36,2022-07-16,0
+839,Choice,Stanley-Conrad,Accessories,Midrange,573.25,525.96,36,2020-08-23,0
+840,Head,Villa LLC,Phones,Budget,747.21,1097.23,12,2020-01-16,0
+841,Better,Ramirez-Mcclure,TV,Budget,636.94,117.67,12,2019-04-28,1
+842,Work,Hill-Gibbs,Accessories,Premium,92.1,960.39,36,2023-05-09,1
+843,Play,Coleman Inc,Phones,Midrange,689.55,236.82,24,2024-05-30,0
+844,Watch,"Martinez, Mcbride and Brown",TV,Budget,219.16,977.3,36,2019-04-26,0
+845,Each,Harrison-Schroeder,Phones,Premium,332.69,777.5,36,2023-07-12,0
+846,Decide,"Wilson, Leonard and Santos",Phones,Budget,396.3,1027.61,36,2019-09-17,0
+847,Each,Johnson-Faulkner,Laptops,Midrange,410.68,207.27,36,2022-01-03,0
+848,Moment,Campbell PLC,Laptops,Budget,376.39,714.88,12,2023-02-12,1
+849,Hit,Kim Ltd,TV,Budget,753.01,651.2,24,2019-11-01,0
+850,Seek,"Baldwin, Davis and Foley",Laptops,Budget,579.51,876.81,36,2019-01-07,1
+851,Government,"Ford, Powell and Cooper",TV,Budget,523.38,687.72,24,2020-01-01,0
+852,Arm,Mosley Ltd,Laptops,Premium,87.38,694.81,24,2023-07-16,0
+853,Tend,Casey-Davis,Phones,Premium,727.93,572.56,24,2020-06-06,0
+854,Store,"Torres, Dunn and Beard",TV,Midrange,732.04,439.72,36,2022-10-03,0
+855,Operation,"Murphy, Collins and Boone",TV,Premium,635.16,630.49,12,2023-01-01,0
+856,Send,"Rocha, Frazier and Young",Phones,Premium,55.27,230.34,36,2022-05-23,0
+857,Wide,Brown-Schwartz,TV,Midrange,92.96,1157.66,24,2020-03-04,0
+858,Next,Morgan-Mayer,TV,Premium,218.92,885.85,24,2021-03-01,0
+859,Simple,"Arnold, Peters and Davis",Laptops,Premium,148.51,1147.71,12,2023-03-02,0
+860,Of,Hancock Inc,TV,Midrange,349.13,349.4,36,2023-04-13,0
+861,Such,Walker-Tran,Accessories,Midrange,741.97,1067.28,24,2021-01-16,0
+862,Affect,Davis-Barber,Phones,Midrange,404.05,989.67,12,2020-01-02,0
+863,Gun,West Ltd,Laptops,Budget,60.05,844.87,24,2019-11-09,1
+864,Science,Taylor LLC,Laptops,Budget,262.06,787.53,12,2020-06-21,0
+865,Key,"Wood, West and Camacho",Accessories,Midrange,83.45,448.2,12,2021-07-09,0
+866,Summer,Barnett-Edwards,Phones,Midrange,77.22,998.05,36,2021-12-13,0
+867,Music,Miller-Williams,Phones,Midrange,256.79,651.67,24,2023-04-14,0
+868,Kind,Baker-Larson,Laptops,Budget,256.71,177.98,36,2023-01-30,0
+869,News,Williams-Peterson,TV,Budget,640.34,444.15,24,2021-05-14,0
+870,Pick,Best Group,Laptops,Premium,781.13,1128.83,36,2022-04-02,0
+871,Could,"Scott, Ruiz and Decker",Phones,Premium,328.41,1035.75,24,2021-02-20,0
+872,Certainly,Peters-Thomas,Accessories,Midrange,371.67,1180.1,36,2019-11-30,0
+873,Choose,Hoffman Inc,Laptops,Budget,683.59,790.79,12,2023-04-20,1
+874,Great,Hall Group,Phones,Budget,251.1,372.26,24,2021-03-08,1
+875,International,"Garcia, Flores and Stanton",Laptops,Budget,167.29,279.1,24,2019-12-14,0
+876,Return,Owens PLC,TV,Midrange,689.82,305.61,12,2019-09-30,0
+877,Prepare,Jimenez PLC,Laptops,Premium,84.88,121.78,36,2021-08-20,0
+878,Animal,Lee PLC,Laptops,Midrange,514.77,529.75,24,2020-12-20,0
+879,Show,"Thompson, Duncan and Tran",Phones,Premium,471.49,310.57,24,2023-11-09,0
+880,Left,"Woods, Li and Perez",Phones,Premium,309.44,552.82,36,2022-12-08,0
+881,Produce,Day-Nolan,Phones,Midrange,286.39,1128.49,12,2020-05-14,1
+882,Event,"Berger, Ruiz and Roberts",Laptops,Premium,628.89,573.59,36,2022-01-21,1
+883,Night,Walters-Long,TV,Premium,114.82,1065.78,36,2020-11-15,0
+884,Include,Watson-Kelley,Accessories,Budget,227.59,766.06,36,2019-03-20,0
+885,Box,"Gillespie, James and Gilmore",Accessories,Premium,599.34,371.84,24,2020-09-13,0
+886,Exactly,"Powell, Shepherd and Flores",Phones,Midrange,461.24,491.44,12,2022-05-25,0
+887,Market,Curry and Sons,Phones,Midrange,145.99,192.31,12,2021-08-04,0
+888,Trial,"Gordon, Petersen and Brown",Laptops,Premium,711.6,466.81,36,2019-12-24,0
+889,National,Vance-Moran,Accessories,Budget,345.09,845.3,24,2020-09-09,0
+890,Hand,"Strong, Giles and Cardenas",Phones,Budget,670.9,179.32,36,2020-05-21,0
+891,Join,Wright Ltd,TV,Premium,640.78,325.94,24,2023-05-02,0
+892,Population,Cunningham Group,TV,Premium,518.32,519.59,24,2022-04-19,0
+893,Wind,"Mccormick, Smith and Stephens",Phones,Midrange,420.86,1180.25,24,2020-07-29,0
+894,All,Taylor LLC,Phones,Premium,784.66,963.35,24,2022-06-23,0
+895,Once,Tucker-Murray,Accessories,Budget,158.72,906.84,12,2019-09-01,0
+896,Move,"Smith, Hernandez and Wolfe",Accessories,Premium,593.87,227.81,24,2020-05-20,0
+897,Until,Daniels-Berry,Laptops,Midrange,193.39,959.1,24,2020-02-26,0
+898,Hundred,Perkins LLC,Accessories,Midrange,303.7,963.8,36,2022-09-05,0
+899,Interesting,Reed-King,TV,Midrange,281.52,761.21,36,2022-01-15,1
+900,Across,Gordon-Dyer,TV,Midrange,760.28,1189.4,12,2019-08-05,0
+901,Inside,Rose-King,Phones,Midrange,775.52,457.78,36,2023-02-22,0
+902,Product,"Clark, Powers and Odonnell",Accessories,Premium,187.26,1135.4,24,2023-03-23,0
+903,Must,Holmes Inc,Laptops,Premium,66.53,1106.2,36,2022-07-25,0
+904,Face,"Cameron, Noble and Mills",TV,Premium,590.01,112.63,12,2024-02-16,0
+905,Tree,"Rivera, Jones and Mcgrath",TV,Premium,363.49,595.13,36,2023-10-12,1
+906,Pass,"Acevedo, Parsons and Rice",Laptops,Midrange,116.63,1174.81,36,2021-10-05,0
+907,Notice,Russell LLC,Laptops,Budget,562.82,213.43,12,2022-04-07,0
+908,Hold,Fitzgerald LLC,TV,Premium,458.83,702.56,12,2019-11-26,0
+909,It,Walls-Jensen,TV,Budget,785.39,1176.85,24,2020-10-11,0
+910,Despite,"Gardner, Perry and Crawford",Laptops,Premium,220.56,711.04,36,2023-01-04,0
+911,World,"Jones, Fleming and Galloway",TV,Premium,352.98,308.8,24,2020-01-26,0
+912,Research,Hogan-Rios,Phones,Budget,456.91,740.4,36,2023-02-28,0
+913,Fire,Taylor and Sons,Phones,Midrange,643.77,324.88,36,2020-01-16,0
+914,Enjoy,Eaton LLC,Laptops,Premium,461.63,671.67,24,2022-08-22,0
+915,War,Dominguez-Campos,Accessories,Premium,509.68,181.45,36,2021-01-11,0
+916,Game,"Bailey, Robertson and Nguyen",Laptops,Premium,219.61,766.03,36,2021-03-30,1
+917,Feeling,Stewart LLC,Laptops,Budget,685.19,668.47,36,2020-11-03,0
+918,Keep,Wallace PLC,Accessories,Midrange,371.47,914.18,12,2020-05-27,0
+919,Not,Sandoval Inc,Accessories,Budget,155.72,793.77,24,2023-11-07,0
+920,Third,Todd Ltd,Accessories,Budget,548.14,704.57,12,2021-08-06,0
+921,Dog,"Rocha, Silva and Robinson",Phones,Midrange,212.07,858.76,24,2022-04-26,0
+922,Year,"Ross, Sullivan and Campbell",TV,Budget,123.17,258.34,24,2021-07-18,0
+923,Soldier,"Hayes, Reed and Moore",Phones,Midrange,696.49,754.9,36,2023-03-20,0
+924,Along,"Nguyen, Ruiz and Lee",TV,Premium,395.12,289.32,24,2021-07-01,0
+925,Factor,"Buchanan, Johnson and Beasley",Phones,Midrange,611.96,1118.07,12,2020-10-05,0
+926,Become,Perez Inc,TV,Premium,267.94,175.17,12,2020-03-02,0
+927,Its,Graves PLC,Phones,Budget,640.23,573.41,12,2020-05-16,0
+928,Ok,Rivas-Kemp,Accessories,Budget,133.95,865.38,24,2020-12-30,0
+929,Wall,Brown PLC,Laptops,Premium,316.98,603.82,12,2022-07-07,1
+930,Around,"Petty, Klein and Brown",Phones,Budget,783.55,201.3,24,2023-03-17,0
+931,Seek,Cook Inc,TV,Midrange,645.49,708.72,12,2019-03-12,0
+932,As,"Dickerson, Mcclure and Harrison",Accessories,Premium,422.94,805.8,12,2020-04-22,0
+933,Act,Cabrera-Jones,Phones,Budget,304.83,874.17,24,2022-04-16,0
+934,Look,"Mckenzie, Hines and Scott",Phones,Premium,704.1,510.59,12,2020-04-01,0
+935,Animal,Farley Ltd,Accessories,Midrange,458.64,720.03,36,2019-07-08,1
+936,Person,"Pineda, Beard and Lopez",Phones,Midrange,618.82,595.76,24,2019-10-18,0
+937,Company,Chung-Weber,Laptops,Budget,615.58,839.26,24,2023-03-24,0
+938,Which,"Lopez, Woodward and Reyes",Phones,Midrange,63.46,741.91,24,2023-11-24,0
+939,Dinner,Cross Inc,Laptops,Premium,144.69,678.33,36,2021-07-08,0
+940,Appear,"Thompson, Wood and Warner",Laptops,Midrange,544.72,374.48,24,2019-10-19,0
+941,Tax,"Wilkinson, Shaw and Allen",Accessories,Premium,171.21,102.22,12,2024-05-23,0
+942,List,Williamson-Cooper,Phones,Premium,241.62,291.49,12,2021-01-25,0
+943,Cup,Keller and Sons,Accessories,Midrange,759.98,228.77,12,2023-07-17,0
+944,Out,"Rodriguez, White and Smith",Phones,Budget,470.14,593.99,24,2024-01-09,0
+945,However,"Lucas, Zuniga and Stanton",Phones,Midrange,613.05,773.48,12,2022-07-30,0
+946,Dog,Davis Ltd,TV,Premium,468.49,334.39,24,2023-04-17,0
+947,I,Robinson and Sons,Phones,Premium,464.39,1132.96,12,2024-02-13,0
+948,Food,"Anderson, Neal and Wright",Accessories,Midrange,120.61,107.35,36,2020-01-12,0
+949,Top,Vaughn-Graham,Laptops,Budget,307.75,949.53,36,2023-08-09,0
+950,Strategy,Webb-Frey,Phones,Budget,261.82,787.73,36,2022-03-25,0
+951,Himself,Martinez-Zhang,TV,Premium,343.05,510.91,36,2020-05-22,0
+952,Coach,"Blackwell, Austin and Smith",Accessories,Premium,648.76,155.54,24,2022-12-07,0
+953,Cell,"Vargas, Tyler and Wolfe",Phones,Budget,328.95,790.24,12,2020-06-11,0
+954,Political,"Garcia, Campbell and Richards",Accessories,Midrange,388.77,524.17,36,2022-10-10,1
+955,Teach,Caldwell-Watson,TV,Premium,348.04,1129.89,24,2020-07-12,0
+956,Simply,Vasquez and Sons,TV,Premium,120.06,696.19,36,2023-11-22,0
+957,Crime,Richmond Group,Accessories,Budget,380.8,1133.62,36,2022-04-25,0
+958,Difference,Miller PLC,Phones,Midrange,196.71,342.53,24,2021-11-20,0
+959,Kitchen,Richmond-Stanley,Laptops,Budget,190.04,898.3,24,2019-09-17,0
+960,Them,"Fernandez, Rush and West",TV,Midrange,120.53,778.97,12,2020-02-25,0
+961,Foreign,"Hopkins, Medina and Houston",Phones,Midrange,317.5,913.35,12,2023-04-02,0
+962,Spring,Hogan-Liu,Phones,Midrange,618.11,336.13,36,2023-04-24,0
+963,Degree,"Smith, Morgan and Thornton",Laptops,Premium,257.33,831.49,36,2019-10-31,0
+964,Million,Mullen LLC,TV,Budget,284.26,647.84,12,2021-07-30,0
+965,Author,Elliott Ltd,TV,Budget,532.01,917.11,12,2024-05-21,0
+966,Can,Cox PLC,Phones,Midrange,196.88,459.75,24,2021-11-28,0
+967,Control,"Hoffman, Perez and Baker",Phones,Premium,722.72,1079.06,12,2023-02-21,0
+968,Yes,Martinez-Nichols,Laptops,Premium,440.14,192.73,12,2023-07-26,0
+969,Tell,Hudson and Sons,Laptops,Budget,385.7,987.91,36,2020-06-25,0
+970,That,Vazquez-Hays,TV,Premium,468.37,1047.45,12,2023-08-21,1
+971,Husband,Fowler and Sons,Accessories,Premium,174.53,998.98,36,2022-07-25,0
+972,Cost,Wilson-Ewing,TV,Midrange,510.1,664.0,12,2022-05-11,0
+973,Book,Gilbert-Nguyen,Phones,Premium,322.33,582.22,24,2021-12-25,0
+974,Green,"Chen, Cummings and Williams",TV,Midrange,722.89,1195.89,12,2019-04-18,0
+975,Production,"Liu, Buck and Jones",Accessories,Budget,176.64,352.09,12,2019-09-25,0
+976,Former,Burnett PLC,Laptops,Premium,430.29,701.56,12,2019-08-10,0
+977,Position,"Thomas, Simon and Ball",Accessories,Budget,498.58,837.74,36,2024-01-02,0
+978,Something,"Martinez, Bennett and Miller",Accessories,Budget,75.04,870.95,24,2023-04-03,1
+979,Reflect,Mccarty and Sons,Accessories,Premium,322.77,324.43,12,2022-01-18,0
+980,Generation,"Thompson, Garcia and Hernandez",Laptops,Premium,599.48,819.39,36,2020-11-23,0
+981,Bit,Salinas-Hill,Accessories,Budget,665.28,1000.21,24,2019-09-12,0
+982,Stock,Lynch Inc,Accessories,Premium,284.87,155.02,36,2023-01-18,0
+983,Pay,"Cruz, Hurst and Baker",Accessories,Midrange,648.94,1102.67,36,2019-09-10,0
+984,Discussion,"Nelson, Meadows and Thompson",Phones,Midrange,775.82,132.45,24,2019-09-14,0
+985,Here,"Robinson, Webb and Jones",Accessories,Premium,692.66,491.57,12,2020-01-18,0
+986,Rest,Williams-Combs,Laptops,Budget,138.23,117.39,36,2020-03-17,1
+987,Happy,Lewis PLC,Accessories,Premium,604.8,184.86,36,2024-02-25,0
+988,Stop,Peterson-Hoover,Accessories,Premium,289.75,1102.29,12,2020-08-21,0
+989,Adult,Willis Group,Laptops,Budget,791.31,490.35,12,2022-01-18,1
+990,Truth,"Chan, Griffin and Schmidt",Accessories,Budget,414.02,567.25,24,2023-11-08,0
+991,Thus,"Gonzalez, Fry and Horton",Laptops,Midrange,141.83,336.88,24,2020-01-25,0
+992,That,"Mahoney, Rosales and Ruiz",Accessories,Budget,593.89,756.81,24,2020-08-04,1
+993,Then,Alexander-Alexander,Laptops,Midrange,292.26,754.28,12,2021-12-03,0
+994,Process,Young LLC,Accessories,Budget,797.81,509.42,36,2023-10-02,1
+995,Goal,Reeves LLC,Accessories,Premium,784.84,466.34,36,2023-08-15,0
+996,Understand,"Ross, Cobb and Fischer",Phones,Midrange,542.1,1073.46,24,2020-08-20,0
+997,Week,Pratt-Davila,Phones,Midrange,147.37,521.61,12,2019-01-19,0
+998,Church,"Warner, Clark and Wilson",Accessories,Midrange,565.15,642.85,36,2022-01-29,0
+999,President,Riley Group,Accessories,Premium,119.77,411.64,24,2024-04-21,0
+1000,Or,Weber-Smith,TV,Premium,72.02,965.45,36,2020-08-29,0
